@@ -1,0 +1,27 @@
+# Offline AI Learning Lab - core dependencies
+#
+# Tested configuration (see docs/installation_guide.md):
+#   Windows 10 x64, Python 3.13.17
+#   numpy 2.5.4, pandas 3.1.0, matplotlib 3.11.2, seaborn 0.13.2, scipy 1.18.1,
+#   scikit-learn 1.9.1, sympy 1.14.0, pillow 13.0.0, jupyterlab 4.6.5,
+#   nbformat 5.11.1, reportlab 5.1.0
+#
+# Supported: Python 3.11 to 3.13 (64-bit). PyTorch is installed separately from
+# requirements-torch.txt so that the CPU-only build is used by default.
+#
+# Install ONCE while connected to the Internet:
+#   python -m pip install -r requirements.txt -r requirements-torch.txt
+# After that, everything works offline.
+
+numpy>=2.0,<3
+pandas>=2.2,<4
+matplotlib>=3.9,<4
+seaborn>=0.13.2,<0.14
+scipy>=1.13,<2
+scikit-learn>=1.5,<2
+sympy>=1.13,<2
+pillow>=10.4
+jupyterlab>=4.2,<5
+ipykernel>=6.29
+nbformat>=5.10,<6
+reportlab>=4.2

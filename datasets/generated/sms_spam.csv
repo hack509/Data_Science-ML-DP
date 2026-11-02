@@ -1,0 +1,1201 @@
+message_id,text,label
+M0001,"Tu as gagné au tirage du club, bravo Paul ! On fête ça au marché",ham
+M0002,"Bien arrivé au bureau, je t'appelle ce soir",ham
+M0003,"Bien arrivé au bureau, je t'appelle ce soir",ham
+M0004,N'oublie pas le rendez-vous chez le médecin demain à 20h,ham
+M0005,Tu peux acheter du pain en rentrant stp,ham
+M0006,"Votre colis est en attente, payez 1.99 EUR de frais sur http://promo-778.example",spam
+M0007,"Je suis en retard de 10 minutes, désolé !",ham
+M0008,"Votre remboursement de 500 EUR est disponible, cliquez http://promo-361.example",spam
+M0009,N'oublie pas le rendez-vous chez le médecin demain à 18h,ham
+M0010,"Je suis en retard de 10 minutes, désolé !",ham
+M0011,Peux-tu rappeler Sarah quand tu as une minute ?,ham
+M0012,"Rencontres célibataires près de chez vous, inscription gratuite http://promo-717.example",spam
+M0013,"Je t'envoie le document ce soir, c'est presque fini",ham
+M0014,FÉLICITATIONS ! Vous avez gagné 250 EUR. Appelez le 08 99 72 37 50 pour recevoir votre prix,spam
+M0015,"Votre colis est en attente, payez 2.99 EUR de frais sur http://promo-490.example",spam
+M0016,Dernier rappel : réclamez votre bon d'achat de 1000 EUR avant minuit http://promo-944.example,spam
+M0017,Vous êtes sélectionné pour un iPhone GRATUIT ! Répondez OUI au 36583,spam
+M0018,N'oublie pas le rendez-vous chez le médecin demain à 18h,ham
+M0019,"Votre colis est en attente, payez 2.49 EUR de frais sur http://promo-607.example",spam
+M0020,"Je t'envoie le document ce soir, c'est presque fini",ham
+M0021,"Salut Lea, on se retrouve à 18h au café ?",ham
+M0022,Bon anniversaire Lea ! Grosses bises,ham
+M0023,Tu peux acheter du pain en rentrant stp,ham
+M0024,"Le colis est arrivé, je le pose sur ton bureau",ham
+M0025,"Votre remboursement de 5000 EUR est disponible, cliquez http://promo-825.example",spam
+M0026,Vous êtes sélectionné pour un iPhone GRATUIT ! Répondez OUI au 32055,spam
+M0027,"Merci pour hier soir, c'était super",ham
+M0028,"Merci pour hier soir, c'était super",ham
+M0029,"Le match commence à midi, viens vers le parc",ham
+M0030,Dernier rappel : réclamez votre bon d'achat de 100 EUR avant minuit http://promo-161.example,spam
+M0031,Tu as le code du wifi ? Je l'ai encore perdu,ham
+M0032,Bon anniversaire Ines ! Grosses bises,ham
+M0033,"Bien arrivé au café, je t'appelle ce soir",ham
+M0034,"Le match commence à 8h, viens vers le bureau",ham
+M0035,Bon anniversaire Ines ! Grosses bises,ham
+M0036,N'oublie pas le rendez-vous chez le médecin demain à 20h,ham
+M0037,"Merci pour hier soir, c'était super",ham
+M0038,"Gagnez de l'argent depuis chez vous, 500 EUR par semaine ! Infos : http://promo-449.example",spam
+M0039,"Rencontres célibataires près de chez vous, inscription gratuite http://promo-861.example",spam
+M0040,Bon anniversaire Ines ! Grosses bises,ham
+M0041,"Bien arrivé au cinéma, je t'appelle ce soir",ham
+M0042,Hugo a dit que la réunion est décalée à 18h,ham
+M0043,FÉLICITATIONS ! Vous avez gagné 5000 EUR. Appelez le 08 99 84 67 17 pour recevoir votre prix,spam
+M0044,Vous êtes sélectionné pour un iPhone GRATUIT ! Répondez OUI au 36949,spam
+M0045,"C'est gratuit le musée le premier dimanche, on y va ?",ham
+M0046,"Le match commence à 19h30, viens vers le restaurant",ham
+M0047,Tu as le code du wifi ? Je l'ai encore perdu,ham
+M0048,Vous êtes sélectionné pour un iPhone GRATUIT ! Répondez OUI au 33361,spam
+M0049,"Merci pour hier soir, c'était super",ham
+M0050,"Gagnez de l'argent depuis chez vous, 500 EUR par semaine ! Infos : http://promo-955.example",spam
+M0051,On mange ensemble à 19h30 ? Le bureau à côté du travail,ham
+M0052,"Salut Ines, on se retrouve à 19h30 au cinéma ?",ham
+M0053,Tu peux acheter du pain en rentrant stp,ham
+M0054,"Le match commence à midi, viens vers le parc",ham
+M0055,Tu as le code du wifi ? Je l'ai encore perdu,ham
+M0056,Ines a dit que la réunion est décalée à midi,ham
+M0057,Peux-tu rappeler Nina quand tu as une minute ?,ham
+M0058,"Je t'envoie le document ce soir, c'est presque fini",ham
+M0059,Bon anniversaire Maman ! Grosses bises,ham
+M0060,Bon anniversaire Nina ! Grosses bises,ham
+M0061,"Je t'envoie le document ce soir, c'est presque fini",ham
+M0062,"C'est gratuit le musée le premier dimanche, on y va ?",ham
+M0063,N'oublie pas le rendez-vous chez le médecin demain à 17h15,ham
+M0064,"Je suis en retard de 10 minutes, désolé !",ham
+M0065,"Salut Sarah, on se retrouve à midi au cinéma ?",ham
+M0066,Tom a dit que la réunion est décalée à 19h30,ham
+M0067,Tu peux acheter du pain en rentrant stp,ham
+M0068,"Merci pour hier soir, c'était super",ham
+M0069,"Le match commence à midi, viens vers le marché",ham
+M0070,"Credit rapide sans justificatif jusqu'à 500 EUR, appelez vite le 08 99 13 39 16",spam
+M0071,"Merci pour hier soir, c'était super",ham
+M0072,"Merci pour hier soir, c'était super",ham
+M0073,"Merci pour hier soir, c'était super",ham
+M0074,"Votre colis est en attente, payez 2.49 EUR de frais sur http://promo-594.example",spam
+M0075,Tu as le code du wifi ? Je l'ai encore perdu,ham
+M0076,"Gagnez de l'argent depuis chez vous, 1000 EUR par semaine ! Infos : http://promo-557.example",spam
+M0077,N'oublie pas le rendez-vous chez le médecin demain à 8h,ham
+M0078,"Offre exclusive : -90% sur tout le site, cliquez ici http://promo-976.example",spam
+M0079,N'oublie pas le rendez-vous chez le médecin demain à midi,ham
+M0080,Tu as le code du wifi ? Je l'ai encore perdu,ham
+M0081,Tu peux acheter du pain en rentrant stp,ham
+M0082,"Bien arrivé au restaurant, je t'appelle ce soir",ham
+M0083,"Le match commence à 17h15, viens vers le restaurant",ham
+M0084,"Le match commence à 20h, viens vers le parc",ham
+M0085,Peux-tu rappeler Nina quand tu as une minute ?,ham
+M0086,"Je suis en retard de 10 minutes, désolé !",ham
+M0087,"Merci pour hier soir, c'était super",ham
+M0088,Bon anniversaire Sarah ! Grosses bises,ham
+M0089,"Salut Sarah, on se retrouve à midi au parc ?",ham
+M0090,"Salut Hugo, on se retrouve à 18h au stade ?",ham
+M0091,"Merci pour hier soir, c'était super",ham
+M0092,Bon anniversaire Nina ! Grosses bises,ham
+M0093,"Rencontres célibataires près de chez vous, inscription gratuite http://promo-257.example",spam
+M0094,Dernier rappel : réclamez votre bon d'achat de 5000 EUR avant minuit http://promo-694.example,spam
+M0095,On mange ensemble à 18h ? Le cinéma à côté du travail,ham
+M0096,Peux-tu rappeler Lea quand tu as une minute ?,ham
+M0097,"Le colis est arrivé, je le pose sur ton bureau",ham
+M0098,"Je t'envoie le document ce soir, c'est presque fini",ham
+M0099,"Merci pour hier soir, c'était super",ham
+M0100,"Offre exclusive : -70% sur tout le site, cliquez ici http://promo-356.example",spam
+M0101,On mange ensemble à midi ? Le marché à côté du travail,ham
+M0102,N'oublie pas le rendez-vous chez le médecin demain à 18h,ham
+M0103,Bon anniversaire Nina ! Grosses bises,ham
+M0104,Bon anniversaire Nina ! Grosses bises,ham
+M0105,URGENT : votre compte sera bloqué. Confirmez vos informations sur http://promo-854.example,spam
+M0106,"Votre remboursement de 5000 EUR est disponible, cliquez http://promo-570.example",spam
+M0107,"Votre remboursement de 5000 EUR est disponible, cliquez http://promo-550.example",spam
+M0108,Tom a dit que la réunion est décalée à midi,ham
+M0109,N'oublie pas le rendez-vous chez le médecin demain à 20h,ham
+M0110,Tu peux acheter du pain en rentrant stp,ham
+M0111,Tu peux acheter du pain en rentrant stp,ham
+M0112,"Le colis est arrivé, je le pose sur ton bureau",ham
+M0113,"Bien arrivé au bureau, je t'appelle ce soir",ham
+M0114,Tu peux acheter du pain en rentrant stp,ham
+M0115,Vous êtes sélectionné pour un iPhone GRATUIT ! Répondez OUI au 34083,spam
+M0116,"Salut Paul, on se retrouve à 8h au cinéma ?",ham
+M0117,"Gagnez de l'argent depuis chez vous, 500 EUR par semaine ! Infos : http://promo-411.example",spam
+M0118,"Votre remboursement de 250 EUR est disponible, cliquez http://promo-372.example",spam
+M0119,"Je t'envoie le document ce soir, c'est presque fini",ham
+M0120,"Tu as gagné au tirage du club, bravo Sarah ! On fête ça au restaurant",ham
+M0121,N'oublie pas le rendez-vous chez le médecin demain à 17h15,ham
+M0122,Julie a dit que la réunion est décalée à 19h30,ham
+M0123,Bon anniversaire Nina ! Grosses bises,ham
+M0124,"Je t'envoie le document ce soir, c'est presque fini",ham
+M0125,N'oublie pas le rendez-vous chez le médecin demain à 8h,ham
+M0126,N'oublie pas le rendez-vous chez le médecin demain à 8h,ham
+M0127,"Merci pour hier soir, c'était super",ham
+M0128,Tom a dit que la réunion est décalée à 8h,ham
+M0129,"Bien arrivé au restaurant, je t'appelle ce soir",ham
+M0130,Bon anniversaire Nina ! Grosses bises,ham
+M0131,On mange ensemble à 18h ? Le cinéma à côté du travail,ham
+M0132,Tu as le code du wifi ? Je l'ai encore perdu,ham
+M0133,"Credit rapide sans justificatif jusqu'à 5000 EUR, appelez vite le 08 99 74 65 16",spam
+M0134,"C'est gratuit le musée le premier dimanche, on y va ?",ham
+M0135,"Le colis est arrivé, je le pose sur ton bureau",ham
+M0136,"Merci pour hier soir, c'était super",ham
+M0137,Peux-tu rappeler Tom quand tu as une minute ?,ham
+M0138,"Bien arrivé au cinéma, je t'appelle ce soir",ham
+M0139,"Bien arrivé au marché, je t'appelle ce soir",ham
+M0140,On mange ensemble à 18h ? Le parc à côté du travail,ham
+M0141,N'oublie pas le rendez-vous chez le médecin demain à 8h,ham
+M0142,"Le colis est arrivé, je le pose sur ton bureau",ham
+M0143,"Rencontres célibataires près de chez vous, inscription gratuite http://promo-881.example",spam
+M0144,N'oublie pas le rendez-vous chez le médecin demain à midi,ham
+M0145,"Tu as gagné au tirage du club, bravo Lea ! On fête ça au stade",ham
+M0146,"Gagnez de l'argent depuis chez vous, 5000 EUR par semaine ! Infos : http://promo-743.example",spam
+M0147,Peux-tu rappeler Lea quand tu as une minute ?,ham
+M0148,"Gagnez de l'argent depuis chez vous, 5000 EUR par semaine ! Infos : http://promo-445.example",spam
+M0149,"Je t'envoie le document ce soir, c'est presque fini",ham
+M0150,"Tu as gagné au tirage du club, bravo Ines ! On fête ça au café",ham
+M0151,"Je t'envoie le document ce soir, c'est presque fini",ham
+M0152,"Bien arrivé au café, je t'appelle ce soir",ham
+M0153,N'oublie pas le rendez-vous chez le médecin demain à 19h30,ham
+M0154,Tu as le code du wifi ? Je l'ai encore perdu,ham
+M0155,"Je suis en retard de 10 minutes, désolé !",ham
+M0156,"Le colis est arrivé, je le pose sur ton bureau",ham
+M0157,"Offre exclusive : -80% sur tout le site, cliquez ici http://promo-519.example",spam
+M0158,"Le colis est arrivé, je le pose sur ton bureau",ham
+M0159,Bon anniversaire Maman ! Grosses bises,ham
+M0160,"C'est gratuit le musée le premier dimanche, on y va ?",ham
+M0161,"Credit rapide sans justificatif jusqu'à 1000 EUR, appelez vite le 08 99 70 56 28",spam
+M0162,"Tu as gagné au tirage du club, bravo Nina ! On fête ça au stade",ham
+M0163,"Credit rapide sans justificatif jusqu'à 100 EUR, appelez vite le 08 99 34 73 22",spam
+M0164,"Bien arrivé au cinéma, je t'appelle ce soir",ham
+M0165,Peux-tu rappeler Ines quand tu as une minute ?,ham
+M0166,Tom a dit que la réunion est décalée à 17h15,ham
+M0167,"Salut Nina, on se retrouve à 20h au parc ?",ham
+M0168,Peux-tu rappeler Maman quand tu as une minute ?,ham
+M0169,"Bien arrivé au marché, je t'appelle ce soir",ham
+M0170,"Salut Karim, on se retrouve à 20h au restaurant ?",ham
+M0171,"Je suis en retard de 10 minutes, désolé !",ham
+M0172,"Je suis en retard de 10 minutes, désolé !",ham
+M0173,"Credit rapide sans justificatif jusqu'à 100 EUR, appelez vite le 08 99 60 18 65",spam
+M0174,N'oublie pas le rendez-vous chez le médecin demain à 17h15,ham
+M0175,N'oublie pas le rendez-vous chez le médecin demain à 18h,ham
+M0176,"Le match commence à midi, viens vers le parc",ham
+M0177,"Rencontres célibataires près de chez vous, inscription gratuite http://promo-583.example",spam
+M0178,Tu peux acheter du pain en rentrant stp,ham
+M0179,"Votre remboursement de 250 EUR est disponible, cliquez http://promo-426.example",spam
+M0180,"C'est gratuit le musée le premier dimanche, on y va ?",ham
+M0181,"Le colis est arrivé, je le pose sur ton bureau",ham
+M0182,"Merci pour hier soir, c'était super",ham
+M0183,"C'est gratuit le musée le premier dimanche, on y va ?",ham
+M0184,Tu peux acheter du pain en rentrant stp,ham
+M0185,N'oublie pas le rendez-vous chez le médecin demain à midi,ham
+M0186,"Je suis en retard de 10 minutes, désolé !",ham
+M0187,"Salut Lea, on se retrouve à 19h30 au stade ?",ham
+M0188,Tu peux acheter du pain en rentrant stp,ham
+M0189,Tu peux acheter du pain en rentrant stp,ham
+M0190,On mange ensemble à 20h ? Le bureau à côté du travail,ham
+M0191,"Tu as gagné au tirage du club, bravo Ines ! On fête ça au stade",ham
+M0192,"Je t'envoie le document ce soir, c'est presque fini",ham
+M0193,Vous êtes sélectionné pour un iPhone GRATUIT ! Répondez OUI au 35250,spam
+M0194,Tu as le code du wifi ? Je l'ai encore perdu,ham
+M0195,Vous êtes sélectionné pour un iPhone GRATUIT ! Répondez OUI au 38983,spam
+M0196,"Le colis est arrivé, je le pose sur ton bureau",ham
+M0197,"Offre exclusive : -80% sur tout le site, cliquez ici http://promo-575.example",spam
+M0198,"Rencontres célibataires près de chez vous, inscription gratuite http://promo-736.example",spam
+M0199,"Le colis est arrivé, je le pose sur ton bureau",ham
+M0200,On mange ensemble à 18h ? Le marché à côté du travail,ham
+M0201,"Le colis est arrivé, je le pose sur ton bureau",ham
+M0202,On mange ensemble à 19h30 ? Le cinéma à côté du travail,ham
+M0203,Lea a dit que la réunion est décalée à 18h,ham
+M0204,Bon anniversaire Karim ! Grosses bises,ham
+M0205,"Rencontres célibataires près de chez vous, inscription gratuite http://promo-263.example",spam
+M0206,Vous êtes sélectionné pour un iPhone GRATUIT ! Répondez OUI au 33958,spam
+M0207,Tu peux acheter du pain en rentrant stp,ham
+M0208,Peux-tu rappeler Julie quand tu as une minute ?,ham
+M0209,"Offre exclusive : -80% sur tout le site, cliquez ici http://promo-532.example",spam
+M0210,"Je suis en retard de 10 minutes, désolé !",ham
+M0211,"Le colis est arrivé, je le pose sur ton bureau",ham
+M0212,"Votre remboursement de 250 EUR est disponible, cliquez http://promo-845.example",spam
+M0213,On mange ensemble à 18h ? Le parc à côté du travail,ham
+M0214,N'oublie pas le rendez-vous chez le médecin demain à 18h,ham
+M0215,"Offre exclusive : -80% sur tout le site, cliquez ici http://promo-174.example",spam
+M0216,"Rencontres célibataires près de chez vous, inscription gratuite http://promo-299.example",spam
+M0217,"Je t'envoie le document ce soir, c'est presque fini",ham
+M0218,"Je suis en retard de 10 minutes, désolé !",ham
+M0219,On mange ensemble à 19h30 ? Le parc à côté du travail,ham
+M0220,"Bien arrivé au marché, je t'appelle ce soir",ham
+M0221,Peux-tu rappeler Sarah quand tu as une minute ?,ham
+M0222,"Votre remboursement de 100 EUR est disponible, cliquez http://promo-180.example",spam
+M0223,FÉLICITATIONS ! Vous avez gagné 500 EUR. Appelez le 08 99 33 36 50 pour recevoir votre prix,spam
+M0224,Tu peux acheter du pain en rentrant stp,ham
+M0225,"Bien arrivé au cinéma, je t'appelle ce soir",ham
+M0226,"Le colis est arrivé, je le pose sur ton bureau",ham
+M0227,"Rencontres célibataires près de chez vous, inscription gratuite http://promo-134.example",spam
+M0228,"Tu as gagné au tirage du club, bravo Sarah ! On fête ça au café",ham
+M0229,"Le match commence à 8h, viens vers le restaurant",ham
+M0230,"Le match commence à 20h, viens vers le bureau",ham
+M0231,"C'est gratuit le musée le premier dimanche, on y va ?",ham
+M0232,Bon anniversaire Paul ! Grosses bises,ham
+M0233,"Je suis en retard de 10 minutes, désolé !",ham
+M0234,Dernier rappel : réclamez votre bon d'achat de 500 EUR avant minuit http://promo-651.example,spam
+M0235,Tu peux acheter du pain en rentrant stp,ham
+M0236,"Gagnez de l'argent depuis chez vous, 250 EUR par semaine ! Infos : http://promo-574.example",spam
+M0237,Bon anniversaire Nina ! Grosses bises,ham
+M0238,"Tu as gagné au tirage du club, bravo Maman ! On fête ça au cinéma",ham
+M0239,Tu as le code du wifi ? Je l'ai encore perdu,ham
+M0240,"Je t'envoie le document ce soir, c'est presque fini",ham
+M0241,Bon anniversaire Sarah ! Grosses bises,ham
+M0242,"Rencontres célibataires près de chez vous, inscription gratuite http://promo-828.example",spam
+M0243,Tu as le code du wifi ? Je l'ai encore perdu,ham
+M0244,"Merci pour hier soir, c'était super",ham
+M0245,Tu as le code du wifi ? Je l'ai encore perdu,ham
+M0246,FÉLICITATIONS ! Vous avez gagné 5000 EUR. Appelez le 08 99 81 67 36 pour recevoir votre prix,spam
+M0247,N'oublie pas le rendez-vous chez le médecin demain à 18h,ham
+M0248,"Salut Hugo, on se retrouve à 19h30 au marché ?",ham
+M0249,"Bien arrivé au restaurant, je t'appelle ce soir",ham
+M0250,"Je t'envoie le document ce soir, c'est presque fini",ham
+M0251,"Credit rapide sans justificatif jusqu'à 250 EUR, appelez vite le 08 99 55 66 41",spam
+M0252,URGENT : votre compte sera bloqué. Confirmez vos informations sur http://promo-345.example,spam
+M0253,Bon anniversaire Hugo ! Grosses bises,ham
+M0254,On mange ensemble à 17h15 ? Le cinéma à côté du travail,ham
+M0255,"Gagnez de l'argent depuis chez vous, 100 EUR par semaine ! Infos : http://promo-653.example",spam
+M0256,N'oublie pas le rendez-vous chez le médecin demain à 17h15,ham
+M0257,Vous êtes sélectionné pour un iPhone GRATUIT ! Répondez OUI au 38043,spam
+M0258,"Rencontres célibataires près de chez vous, inscription gratuite http://promo-812.example",spam
+M0259,"Credit rapide sans justificatif jusqu'à 1000 EUR, appelez vite le 08 99 80 39 10",spam
+M0260,"Je suis en retard de 10 minutes, désolé !",ham
+M0261,"Le match commence à 19h30, viens vers le stade",ham
+M0262,Tu peux acheter du pain en rentrant stp,ham
+M0263,"Tu as gagné au tirage du club, bravo Sarah ! On fête ça au bureau",ham
+M0264,Tu peux acheter du pain en rentrant stp,ham
+M0265,N'oublie pas le rendez-vous chez le médecin demain à 19h30,ham
+M0266,Tu peux acheter du pain en rentrant stp,ham
+M0267,"Salut Karim, on se retrouve à midi au café ?",ham
+M0268,Tu peux acheter du pain en rentrant stp,ham
+M0269,Tu peux acheter du pain en rentrant stp,ham
+M0270,Peux-tu rappeler Maman quand tu as une minute ?,ham
+M0271,"Je t'envoie le document ce soir, c'est presque fini",ham
+M0272,"Tu as gagné au tirage du club, bravo Tom ! On fête ça au bureau",ham
+M0273,N'oublie pas le rendez-vous chez le médecin demain à 19h30,ham
+M0274,Peux-tu rappeler Tom quand tu as une minute ?,ham
+M0275,Julie a dit que la réunion est décalée à 17h15,ham
+M0276,N'oublie pas le rendez-vous chez le médecin demain à midi,ham
+M0277,Peux-tu rappeler Hugo quand tu as une minute ?,ham
+M0278,"Rencontres célibataires près de chez vous, inscription gratuite http://promo-457.example",spam
+M0279,Tu peux acheter du pain en rentrant stp,ham
+M0280,Bon anniversaire Nina ! Grosses bises,ham
+M0281,Bon anniversaire Nina ! Grosses bises,ham
+M0282,"Tu as gagné au tirage du club, bravo Lea ! On fête ça au marché",ham
+M0283,URGENT : votre compte sera bloqué. Confirmez vos informations sur http://promo-613.example,spam
+M0284,"Salut Tom, on se retrouve à 20h au stade ?",ham
+M0285,"Rencontres célibataires près de chez vous, inscription gratuite http://promo-708.example",spam
+M0286,"Rencontres célibataires près de chez vous, inscription gratuite http://promo-416.example",spam
+M0287,"Je t'envoie le document ce soir, c'est presque fini",ham
+M0288,"Salut Karim, on se retrouve à 18h au café ?",ham
+M0289,"Je t'envoie le document ce soir, c'est presque fini",ham
+M0290,"Votre colis est en attente, payez 1.99 EUR de frais sur http://promo-836.example",spam
+M0291,"Credit rapide sans justificatif jusqu'à 100 EUR, appelez vite le 08 99 33 61 90",spam
+M0292,N'oublie pas le rendez-vous chez le médecin demain à 8h,ham
+M0293,"Je suis en retard de 10 minutes, désolé !",ham
+M0294,"Je t'envoie le document ce soir, c'est presque fini",ham
+M0295,"Je suis en retard de 10 minutes, désolé !",ham
+M0296,"C'est gratuit le musée le premier dimanche, on y va ?",ham
+M0297,"Bien arrivé au bureau, je t'appelle ce soir",ham
+M0298,"Bien arrivé au stade, je t'appelle ce soir",ham
+M0299,"Le colis est arrivé, je le pose sur ton bureau",ham
+M0300,Peux-tu rappeler Hugo quand tu as une minute ?,ham
+M0301,"Votre colis est en attente, payez 2.49 EUR de frais sur http://promo-489.example",spam
+M0302,"Le colis est arrivé, je le pose sur ton bureau",ham
+M0303,"Je t'envoie le document ce soir, c'est presque fini",ham
+M0304,Tu peux acheter du pain en rentrant stp,ham
+M0305,Bon anniversaire Maman ! Grosses bises,ham
+M0306,N'oublie pas le rendez-vous chez le médecin demain à midi,ham
+M0307,Tu peux acheter du pain en rentrant stp,ham
+M0308,Vous êtes sélectionné pour un iPhone GRATUIT ! Répondez OUI au 34528,spam
+M0309,On mange ensemble à 20h ? Le stade à côté du travail,ham
+M0310,"Merci pour hier soir, c'était super",ham
+M0311,"Je t'envoie le document ce soir, c'est presque fini",ham
+M0312,"Credit rapide sans justificatif jusqu'à 100 EUR, appelez vite le 08 99 45 65 77",spam
+M0313,"Offre exclusive : -90% sur tout le site, cliquez ici http://promo-332.example",spam
+M0314,On mange ensemble à 19h30 ? Le bureau à côté du travail,ham
+M0315,FÉLICITATIONS ! Vous avez gagné 1000 EUR. Appelez le 08 99 93 82 98 pour recevoir votre prix,spam
+M0316,"Rencontres célibataires près de chez vous, inscription gratuite http://promo-671.example",spam
+M0317,Tu peux acheter du pain en rentrant stp,ham
+M0318,Peux-tu rappeler Sarah quand tu as une minute ?,ham
+M0319,"Merci pour hier soir, c'était super",ham
+M0320,FÉLICITATIONS ! Vous avez gagné 500 EUR. Appelez le 08 99 51 28 53 pour recevoir votre prix,spam
+M0321,On mange ensemble à 20h ? Le café à côté du travail,ham
+M0322,"Salut Lea, on se retrouve à 17h15 au restaurant ?",ham
+M0323,"Credit rapide sans justificatif jusqu'à 5000 EUR, appelez vite le 08 99 66 11 79",spam
+M0324,Bon anniversaire Hugo ! Grosses bises,ham
+M0325,Peux-tu rappeler Maman quand tu as une minute ?,ham
+M0326,"Le colis est arrivé, je le pose sur ton bureau",ham
+M0327,"Je t'envoie le document ce soir, c'est presque fini",ham
+M0328,Tu as le code du wifi ? Je l'ai encore perdu,ham
+M0329,"Merci pour hier soir, c'était super",ham
+M0330,"Le colis est arrivé, je le pose sur ton bureau",ham
+M0331,Tu peux acheter du pain en rentrant stp,ham
+M0332,"Le match commence à 19h30, viens vers le parc",ham
+M0333,"Je suis en retard de 10 minutes, désolé !",ham
+M0334,"Je t'envoie le document ce soir, c'est presque fini",ham
+M0335,"Le match commence à 8h, viens vers le marché",ham
+M0336,"Je suis en retard de 10 minutes, désolé !",ham
+M0337,Bon anniversaire Julie ! Grosses bises,ham
+M0338,Peux-tu rappeler Lea quand tu as une minute ?,ham
+M0339,"Votre remboursement de 100 EUR est disponible, cliquez http://promo-499.example",spam
+M0340,"Merci pour hier soir, c'était super",ham
+M0341,"Votre remboursement de 100 EUR est disponible, cliquez http://promo-901.example",spam
+M0342,"Le match commence à 17h15, viens vers le stade",ham
+M0343,Tu peux acheter du pain en rentrant stp,ham
+M0344,"C'est gratuit le musée le premier dimanche, on y va ?",ham
+M0345,"Le colis est arrivé, je le pose sur ton bureau",ham
+M0346,URGENT : votre compte sera bloqué. Confirmez vos informations sur http://promo-909.example,spam
+M0347,On mange ensemble à 18h ? Le bureau à côté du travail,ham
+M0348,"Credit rapide sans justificatif jusqu'à 500 EUR, appelez vite le 08 99 10 26 94",spam
+M0349,Peux-tu rappeler Hugo quand tu as une minute ?,ham
+M0350,"Bien arrivé au marché, je t'appelle ce soir",ham
+M0351,"Votre remboursement de 5000 EUR est disponible, cliquez http://promo-599.example",spam
+M0352,FÉLICITATIONS ! Vous avez gagné 500 EUR. Appelez le 08 99 80 89 40 pour recevoir votre prix,spam
+M0353,"Bien arrivé au café, je t'appelle ce soir",ham
+M0354,Tu as le code du wifi ? Je l'ai encore perdu,ham
+M0355,"C'est gratuit le musée le premier dimanche, on y va ?",ham
+M0356,N'oublie pas le rendez-vous chez le médecin demain à midi,ham
+M0357,"Gagnez de l'argent depuis chez vous, 100 EUR par semaine ! Infos : http://promo-410.example",spam
+M0358,"Je suis en retard de 10 minutes, désolé !",ham
+M0359,"C'est gratuit le musée le premier dimanche, on y va ?",ham
+M0360,URGENT : votre compte sera bloqué. Confirmez vos informations sur http://promo-200.example,spam
+M0361,"Je t'envoie le document ce soir, c'est presque fini",ham
+M0362,"Votre colis est en attente, payez 1.99 EUR de frais sur http://promo-784.example",spam
+M0363,"C'est gratuit le musée le premier dimanche, on y va ?",ham
+M0364,Tu as le code du wifi ? Je l'ai encore perdu,ham
+M0365,"Je t'envoie le document ce soir, c'est presque fini",ham
+M0366,Peux-tu rappeler Tom quand tu as une minute ?,ham
+M0367,"Credit rapide sans justificatif jusqu'à 100 EUR, appelez vite le 08 99 31 42 68",spam
+M0368,Bon anniversaire Hugo ! Grosses bises,ham
+M0369,"C'est gratuit le musée le premier dimanche, on y va ?",ham
+M0370,"Le match commence à 20h, viens vers le restaurant",ham
+M0371,"Rencontres célibataires près de chez vous, inscription gratuite http://promo-171.example",spam
+M0372,Tu as le code du wifi ? Je l'ai encore perdu,ham
+M0373,Tu peux acheter du pain en rentrant stp,ham
+M0374,"Je t'envoie le document ce soir, c'est presque fini",ham
+M0375,"Merci pour hier soir, c'était super",ham
+M0376,"Le match commence à 17h15, viens vers le café",ham
+M0377,"Le match commence à 20h, viens vers le stade",ham
+M0378,URGENT : votre compte sera bloqué. Confirmez vos informations sur http://promo-762.example,spam
+M0379,"Tu as gagné au tirage du club, bravo Sarah ! On fête ça au parc",ham
+M0380,"Votre colis est en attente, payez 1.99 EUR de frais sur http://promo-993.example",spam
+M0381,"Merci pour hier soir, c'était super",ham
+M0382,"Credit rapide sans justificatif jusqu'à 5000 EUR, appelez vite le 08 99 15 48 50",spam
+M0383,Ines a dit que la réunion est décalée à 18h,ham
+M0384,"Votre colis est en attente, payez 2.49 EUR de frais sur http://promo-856.example",spam
+M0385,Hugo a dit que la réunion est décalée à 19h30,ham
+M0386,Tu as le code du wifi ? Je l'ai encore perdu,ham
+M0387,"Le colis est arrivé, je le pose sur ton bureau",ham
+M0388,URGENT : votre compte sera bloqué. Confirmez vos informations sur http://promo-202.example,spam
+M0389,"Tu as gagné au tirage du club, bravo Lea ! On fête ça au stade",ham
+M0390,"Merci pour hier soir, c'était super",ham
+M0391,"Rencontres célibataires près de chez vous, inscription gratuite http://promo-236.example",spam
+M0392,"Je suis en retard de 10 minutes, désolé !",ham
+M0393,"Le colis est arrivé, je le pose sur ton bureau",ham
+M0394,"Credit rapide sans justificatif jusqu'à 1000 EUR, appelez vite le 08 99 67 17 55",spam
+M0395,"Tu as gagné au tirage du club, bravo Julie ! On fête ça au marché",ham
+M0396,"Je suis en retard de 10 minutes, désolé !",ham
+M0397,URGENT : votre compte sera bloqué. Confirmez vos informations sur http://promo-754.example,spam
+M0398,"Tu as gagné au tirage du club, bravo Paul ! On fête ça au marché",ham
+M0399,"Merci pour hier soir, c'était super",ham
+M0400,FÉLICITATIONS ! Vous avez gagné 250 EUR. Appelez le 08 99 10 88 56 pour recevoir votre prix,spam
+M0401,Hugo a dit que la réunion est décalée à 17h15,ham
+M0402,"C'est gratuit le musée le premier dimanche, on y va ?",ham
+M0403,"Je t'envoie le document ce soir, c'est presque fini",ham
+M0404,Julie a dit que la réunion est décalée à 19h30,ham
+M0405,"Votre colis est en attente, payez 1.99 EUR de frais sur http://promo-198.example",spam
+M0406,"Votre colis est en attente, payez 1.99 EUR de frais sur http://promo-887.example",spam
+M0407,"Votre remboursement de 100 EUR est disponible, cliquez http://promo-860.example",spam
+M0408,Maman a dit que la réunion est décalée à 17h15,ham
+M0409,"Gagnez de l'argent depuis chez vous, 100 EUR par semaine ! Infos : http://promo-378.example",spam
+M0410,"Votre remboursement de 500 EUR est disponible, cliquez http://promo-471.example",spam
+M0411,"Salut Maman, on se retrouve à 19h30 au cinéma ?",ham
+M0412,"Gagnez de l'argent depuis chez vous, 1000 EUR par semaine ! Infos : http://promo-734.example",spam
+M0413,"Votre remboursement de 500 EUR est disponible, cliquez http://promo-141.example",spam
+M0414,"Merci pour hier soir, c'était super",ham
+M0415,Tu as le code du wifi ? Je l'ai encore perdu,ham
+M0416,"Je t'envoie le document ce soir, c'est presque fini",ham
+M0417,"Le colis est arrivé, je le pose sur ton bureau",ham
+M0418,FÉLICITATIONS ! Vous avez gagné 1000 EUR. Appelez le 08 99 31 49 74 pour recevoir votre prix,spam
+M0419,URGENT : votre compte sera bloqué. Confirmez vos informations sur http://promo-899.example,spam
+M0420,Peux-tu rappeler Nina quand tu as une minute ?,ham
+M0421,Bon anniversaire Lea ! Grosses bises,ham
+M0422,FÉLICITATIONS ! Vous avez gagné 500 EUR. Appelez le 08 99 85 70 46 pour recevoir votre prix,spam
+M0423,Bon anniversaire Karim ! Grosses bises,ham
+M0424,"C'est gratuit le musée le premier dimanche, on y va ?",ham
+M0425,"Votre colis est en attente, payez 1.99 EUR de frais sur http://promo-308.example",spam
+M0426,Bon anniversaire Sarah ! Grosses bises,ham
+M0427,"C'est gratuit le musée le premier dimanche, on y va ?",ham
+M0428,"C'est gratuit le musée le premier dimanche, on y va ?",ham
+M0429,"Offre exclusive : -50% sur tout le site, cliquez ici http://promo-721.example",spam
+M0430,"C'est gratuit le musée le premier dimanche, on y va ?",ham
+M0431,Tu peux acheter du pain en rentrant stp,ham
+M0432,"Bien arrivé au marché, je t'appelle ce soir",ham
+M0433,"Je t'envoie le document ce soir, c'est presque fini",ham
+M0434,Peux-tu rappeler Maman quand tu as une minute ?,ham
+M0435,"Salut Lea, on se retrouve à 8h au marché ?",ham
+M0436,"Offre exclusive : -70% sur tout le site, cliquez ici http://promo-863.example",spam
+M0437,FÉLICITATIONS ! Vous avez gagné 500 EUR. Appelez le 08 99 98 41 40 pour recevoir votre prix,spam
+M0438,"Le colis est arrivé, je le pose sur ton bureau",ham
+M0439,Nina a dit que la réunion est décalée à 18h,ham
+M0440,"Je suis en retard de 10 minutes, désolé !",ham
+M0441,"Votre colis est en attente, payez 2.99 EUR de frais sur http://promo-545.example",spam
+M0442,On mange ensemble à 8h ? Le parc à côté du travail,ham
+M0443,Vous êtes sélectionné pour un iPhone GRATUIT ! Répondez OUI au 35466,spam
+M0444,URGENT : votre compte sera bloqué. Confirmez vos informations sur http://promo-441.example,spam
+M0445,"Le colis est arrivé, je le pose sur ton bureau",ham
+M0446,Tu peux acheter du pain en rentrant stp,ham
+M0447,"Votre colis est en attente, payez 2.49 EUR de frais sur http://promo-624.example",spam
+M0448,"Bien arrivé au marché, je t'appelle ce soir",ham
+M0449,"Rencontres célibataires près de chez vous, inscription gratuite http://promo-833.example",spam
+M0450,Tu peux acheter du pain en rentrant stp,ham
+M0451,Tu as le code du wifi ? Je l'ai encore perdu,ham
+M0452,"Credit rapide sans justificatif jusqu'à 5000 EUR, appelez vite le 08 99 91 56 72",spam
+M0453,Dernier rappel : réclamez votre bon d'achat de 250 EUR avant minuit http://promo-305.example,spam
+M0454,URGENT : votre compte sera bloqué. Confirmez vos informations sur http://promo-453.example,spam
+M0455,"Votre remboursement de 250 EUR est disponible, cliquez http://promo-748.example",spam
+M0456,"C'est gratuit le musée le premier dimanche, on y va ?",ham
+M0457,Vous êtes sélectionné pour un iPhone GRATUIT ! Répondez OUI au 37555,spam
+M0458,"Le colis est arrivé, je le pose sur ton bureau",ham
+M0459,"Le colis est arrivé, je le pose sur ton bureau",ham
+M0460,"Le colis est arrivé, je le pose sur ton bureau",ham
+M0461,Bon anniversaire Sarah ! Grosses bises,ham
+M0462,"Votre remboursement de 1000 EUR est disponible, cliquez http://promo-992.example",spam
+M0463,Dernier rappel : réclamez votre bon d'achat de 100 EUR avant minuit http://promo-162.example,spam
+M0464,Paul a dit que la réunion est décalée à 8h,ham
+M0465,"Je t'envoie le document ce soir, c'est presque fini",ham
+M0466,Tu as le code du wifi ? Je l'ai encore perdu,ham
+M0467,"Le colis est arrivé, je le pose sur ton bureau",ham
+M0468,"Rencontres célibataires près de chez vous, inscription gratuite http://promo-484.example",spam
+M0469,"Salut Karim, on se retrouve à midi au parc ?",ham
+M0470,"Le match commence à 20h, viens vers le restaurant",ham
+M0471,Tu peux acheter du pain en rentrant stp,ham
+M0472,Bon anniversaire Lea ! Grosses bises,ham
+M0473,"C'est gratuit le musée le premier dimanche, on y va ?",ham
+M0474,"Salut Karim, on se retrouve à midi au parc ?",ham
+M0475,N'oublie pas le rendez-vous chez le médecin demain à midi,ham
+M0476,"Merci pour hier soir, c'était super",ham
+M0477,Bon anniversaire Julie ! Grosses bises,ham
+M0478,"Le match commence à 17h15, viens vers le café",ham
+M0479,"Votre colis est en attente, payez 1.99 EUR de frais sur http://promo-963.example",spam
+M0480,"Salut Paul, on se retrouve à 19h30 au café ?",ham
+M0481,"Salut Paul, on se retrouve à 20h au parc ?",ham
+M0482,"C'est gratuit le musée le premier dimanche, on y va ?",ham
+M0483,Bon anniversaire Lea ! Grosses bises,ham
+M0484,"Gagnez de l'argent depuis chez vous, 1000 EUR par semaine ! Infos : http://promo-789.example",spam
+M0485,"Merci pour hier soir, c'était super",ham
+M0486,"C'est gratuit le musée le premier dimanche, on y va ?",ham
+M0487,"Le match commence à 17h15, viens vers le café",ham
+M0488,"Le match commence à 18h, viens vers le marché",ham
+M0489,Vous êtes sélectionné pour un iPhone GRATUIT ! Répondez OUI au 35055,spam
+M0490,Peux-tu rappeler Karim quand tu as une minute ?,ham
+M0491,"Le colis est arrivé, je le pose sur ton bureau",ham
+M0492,"Je t'envoie le document ce soir, c'est presque fini",ham
+M0493,Ines a dit que la réunion est décalée à 18h,ham
+M0494,"Tu as gagné au tirage du club, bravo Ines ! On fête ça au café",ham
+M0495,"Le colis est arrivé, je le pose sur ton bureau",ham
+M0496,"C'est gratuit le musée le premier dimanche, on y va ?",ham
+M0497,Peux-tu rappeler Tom quand tu as une minute ?,ham
+M0498,URGENT : votre compte sera bloqué. Confirmez vos informations sur http://promo-754.example,spam
+M0499,Hugo a dit que la réunion est décalée à 20h,ham
+M0500,Dernier rappel : réclamez votre bon d'achat de 1000 EUR avant minuit http://promo-582.example,spam
+M0501,Tu peux acheter du pain en rentrant stp,ham
+M0502,N'oublie pas le rendez-vous chez le médecin demain à midi,ham
+M0503,"C'est gratuit le musée le premier dimanche, on y va ?",ham
+M0504,"Votre remboursement de 500 EUR est disponible, cliquez http://promo-283.example",spam
+M0505,Tu as le code du wifi ? Je l'ai encore perdu,ham
+M0506,Karim a dit que la réunion est décalée à midi,ham
+M0507,"C'est gratuit le musée le premier dimanche, on y va ?",ham
+M0508,"Rencontres célibataires près de chez vous, inscription gratuite http://promo-825.example",spam
+M0509,"Rencontres célibataires près de chez vous, inscription gratuite http://promo-764.example",spam
+M0510,Tu peux acheter du pain en rentrant stp,ham
+M0511,Tu as le code du wifi ? Je l'ai encore perdu,ham
+M0512,Bon anniversaire Maman ! Grosses bises,ham
+M0513,"Merci pour hier soir, c'était super",ham
+M0514,Dernier rappel : réclamez votre bon d'achat de 1000 EUR avant minuit http://promo-575.example,spam
+M0515,Tu peux acheter du pain en rentrant stp,ham
+M0516,"Votre remboursement de 250 EUR est disponible, cliquez http://promo-706.example",spam
+M0517,Tu as le code du wifi ? Je l'ai encore perdu,ham
+M0518,URGENT : votre compte sera bloqué. Confirmez vos informations sur http://promo-122.example,spam
+M0519,N'oublie pas le rendez-vous chez le médecin demain à 17h15,ham
+M0520,Tu peux acheter du pain en rentrant stp,ham
+M0521,"Votre remboursement de 1000 EUR est disponible, cliquez http://promo-138.example",spam
+M0522,"Le match commence à midi, viens vers le café",ham
+M0523,Peux-tu rappeler Julie quand tu as une minute ?,ham
+M0524,"C'est gratuit le musée le premier dimanche, on y va ?",ham
+M0525,"Le colis est arrivé, je le pose sur ton bureau",ham
+M0526,"Votre remboursement de 500 EUR est disponible, cliquez http://promo-194.example",spam
+M0527,"Merci pour hier soir, c'était super",ham
+M0528,"Je suis en retard de 10 minutes, désolé !",ham
+M0529,"Rencontres célibataires près de chez vous, inscription gratuite http://promo-781.example",spam
+M0530,URGENT : votre compte sera bloqué. Confirmez vos informations sur http://promo-925.example,spam
+M0531,"Merci pour hier soir, c'était super",ham
+M0532,N'oublie pas le rendez-vous chez le médecin demain à 8h,ham
+M0533,"C'est gratuit le musée le premier dimanche, on y va ?",ham
+M0534,"Je suis en retard de 10 minutes, désolé !",ham
+M0535,Peux-tu rappeler Karim quand tu as une minute ?,ham
+M0536,"C'est gratuit le musée le premier dimanche, on y va ?",ham
+M0537,"Le match commence à 20h, viens vers le cinéma",ham
+M0538,N'oublie pas le rendez-vous chez le médecin demain à 18h,ham
+M0539,On mange ensemble à 8h ? Le restaurant à côté du travail,ham
+M0540,Peux-tu rappeler Maman quand tu as une minute ?,ham
+M0541,"Le match commence à 18h, viens vers le stade",ham
+M0542,"Je t'envoie le document ce soir, c'est presque fini",ham
+M0543,"Je suis en retard de 10 minutes, désolé !",ham
+M0544,Tu peux acheter du pain en rentrant stp,ham
+M0545,"Merci pour hier soir, c'était super",ham
+M0546,"Le match commence à 17h15, viens vers le cinéma",ham
+M0547,FÉLICITATIONS ! Vous avez gagné 500 EUR. Appelez le 08 99 58 86 16 pour recevoir votre prix,spam
+M0548,"Le match commence à 8h, viens vers le marché",ham
+M0549,Tu peux acheter du pain en rentrant stp,ham
+M0550,"Je suis en retard de 10 minutes, désolé !",ham
+M0551,N'oublie pas le rendez-vous chez le médecin demain à 8h,ham
+M0552,Tu as le code du wifi ? Je l'ai encore perdu,ham
+M0553,Peux-tu rappeler Karim quand tu as une minute ?,ham
+M0554,Tu peux acheter du pain en rentrant stp,ham
+M0555,"Le match commence à 19h30, viens vers le restaurant",ham
+M0556,"Le colis est arrivé, je le pose sur ton bureau",ham
+M0557,Peux-tu rappeler Ines quand tu as une minute ?,ham
+M0558,"Gagnez de l'argent depuis chez vous, 500 EUR par semaine ! Infos : http://promo-935.example",spam
+M0559,"Votre remboursement de 100 EUR est disponible, cliquez http://promo-733.example",spam
+M0560,Bon anniversaire Sarah ! Grosses bises,ham
+M0561,On mange ensemble à 17h15 ? Le café à côté du travail,ham
+M0562,"Votre remboursement de 100 EUR est disponible, cliquez http://promo-299.example",spam
+M0563,"Gagnez de l'argent depuis chez vous, 250 EUR par semaine ! Infos : http://promo-204.example",spam
+M0564,"Bien arrivé au café, je t'appelle ce soir",ham
+M0565,"Tu as gagné au tirage du club, bravo Julie ! On fête ça au marché",ham
+M0566,"Le colis est arrivé, je le pose sur ton bureau",ham
+M0567,"Bien arrivé au marché, je t'appelle ce soir",ham
+M0568,"Je suis en retard de 10 minutes, désolé !",ham
+M0569,"Le match commence à 19h30, viens vers le bureau",ham
+M0570,"Tu as gagné au tirage du club, bravo Sarah ! On fête ça au parc",ham
+M0571,Tu as le code du wifi ? Je l'ai encore perdu,ham
+M0572,"Salut Tom, on se retrouve à 8h au stade ?",ham
+M0573,N'oublie pas le rendez-vous chez le médecin demain à 19h30,ham
+M0574,FÉLICITATIONS ! Vous avez gagné 5000 EUR. Appelez le 08 99 80 34 33 pour recevoir votre prix,spam
+M0575,Dernier rappel : réclamez votre bon d'achat de 1000 EUR avant minuit http://promo-499.example,spam
+M0576,Peux-tu rappeler Paul quand tu as une minute ?,ham
+M0577,"Le match commence à 20h, viens vers le café",ham
+M0578,FÉLICITATIONS ! Vous avez gagné 100 EUR. Appelez le 08 99 15 55 49 pour recevoir votre prix,spam
+M0579,Tu as le code du wifi ? Je l'ai encore perdu,ham
+M0580,"Je t'envoie le document ce soir, c'est presque fini",ham
+M0581,N'oublie pas le rendez-vous chez le médecin demain à 20h,ham
+M0582,"Tu as gagné au tirage du club, bravo Sarah ! On fête ça au café",ham
+M0583,"Tu as gagné au tirage du club, bravo Maman ! On fête ça au bureau",ham
+M0584,"Salut Hugo, on se retrouve à 8h au restaurant ?",ham
+M0585,On mange ensemble à 8h ? Le bureau à côté du travail,ham
+M0586,"Je t'envoie le document ce soir, c'est presque fini",ham
+M0587,"Je suis en retard de 10 minutes, désolé !",ham
+M0588,"Salut Sarah, on se retrouve à 18h au restaurant ?",ham
+M0589,"Credit rapide sans justificatif jusqu'à 100 EUR, appelez vite le 08 99 63 81 61",spam
+M0590,Bon anniversaire Nina ! Grosses bises,ham
+M0591,"Le match commence à 8h, viens vers le restaurant",ham
+M0592,N'oublie pas le rendez-vous chez le médecin demain à 8h,ham
+M0593,"Bien arrivé au stade, je t'appelle ce soir",ham
+M0594,Sarah a dit que la réunion est décalée à 8h,ham
+M0595,"Je suis en retard de 10 minutes, désolé !",ham
+M0596,"Merci pour hier soir, c'était super",ham
+M0597,"Votre colis est en attente, payez 2.99 EUR de frais sur http://promo-156.example",spam
+M0598,Julie a dit que la réunion est décalée à 20h,ham
+M0599,Sarah a dit que la réunion est décalée à 17h15,ham
+M0600,"Tu as gagné au tirage du club, bravo Lea ! On fête ça au café",ham
+M0601,"Je suis en retard de 10 minutes, désolé !",ham
+M0602,"Le match commence à 17h15, viens vers le café",ham
+M0603,"Je suis en retard de 10 minutes, désolé !",ham
+M0604,"Offre exclusive : -50% sur tout le site, cliquez ici http://promo-987.example",spam
+M0605,"Offre exclusive : -80% sur tout le site, cliquez ici http://promo-299.example",spam
+M0606,"Le match commence à 17h15, viens vers le bureau",ham
+M0607,URGENT : votre compte sera bloqué. Confirmez vos informations sur http://promo-355.example,spam
+M0608,URGENT : votre compte sera bloqué. Confirmez vos informations sur http://promo-147.example,spam
+M0609,"Tu as gagné au tirage du club, bravo Nina ! On fête ça au bureau",ham
+M0610,"Gagnez de l'argent depuis chez vous, 500 EUR par semaine ! Infos : http://promo-805.example",spam
+M0611,"Je suis en retard de 10 minutes, désolé !",ham
+M0612,Dernier rappel : réclamez votre bon d'achat de 1000 EUR avant minuit http://promo-911.example,spam
+M0613,Peux-tu rappeler Lea quand tu as une minute ?,ham
+M0614,Bon anniversaire Paul ! Grosses bises,ham
+M0615,Dernier rappel : réclamez votre bon d'achat de 250 EUR avant minuit http://promo-743.example,spam
+M0616,"Le colis est arrivé, je le pose sur ton bureau",ham
+M0617,"Le match commence à 19h30, viens vers le parc",ham
+M0618,"Je suis en retard de 10 minutes, désolé !",ham
+M0619,"Rencontres célibataires près de chez vous, inscription gratuite http://promo-385.example",spam
+M0620,N'oublie pas le rendez-vous chez le médecin demain à 19h30,ham
+M0621,Tu as le code du wifi ? Je l'ai encore perdu,ham
+M0622,"Bien arrivé au marché, je t'appelle ce soir",ham
+M0623,"Merci pour hier soir, c'était super",ham
+M0624,"Merci pour hier soir, c'était super",ham
+M0625,FÉLICITATIONS ! Vous avez gagné 500 EUR. Appelez le 08 99 11 54 86 pour recevoir votre prix,spam
+M0626,"Rencontres célibataires près de chez vous, inscription gratuite http://promo-562.example",spam
+M0627,Vous êtes sélectionné pour un iPhone GRATUIT ! Répondez OUI au 37271,spam
+M0628,Tu peux acheter du pain en rentrant stp,ham
+M0629,On mange ensemble à 18h ? Le marché à côté du travail,ham
+M0630,"Votre colis est en attente, payez 2.99 EUR de frais sur http://promo-547.example",spam
+M0631,"Je suis en retard de 10 minutes, désolé !",ham
+M0632,"C'est gratuit le musée le premier dimanche, on y va ?",ham
+M0633,Bon anniversaire Karim ! Grosses bises,ham
+M0634,"Salut Karim, on se retrouve à 18h au marché ?",ham
+M0635,"Salut Hugo, on se retrouve à 19h30 au restaurant ?",ham
+M0636,"Votre colis est en attente, payez 1.99 EUR de frais sur http://promo-998.example",spam
+M0637,"Votre colis est en attente, payez 2.49 EUR de frais sur http://promo-147.example",spam
+M0638,"Salut Sarah, on se retrouve à 18h au cinéma ?",ham
+M0639,"Je suis en retard de 10 minutes, désolé !",ham
+M0640,Tu as le code du wifi ? Je l'ai encore perdu,ham
+M0641,FÉLICITATIONS ! Vous avez gagné 1000 EUR. Appelez le 08 99 47 65 52 pour recevoir votre prix,spam
+M0642,Maman a dit que la réunion est décalée à 17h15,ham
+M0643,Dernier rappel : réclamez votre bon d'achat de 1000 EUR avant minuit http://promo-461.example,spam
+M0644,Ines a dit que la réunion est décalée à 20h,ham
+M0645,Bon anniversaire Karim ! Grosses bises,ham
+M0646,N'oublie pas le rendez-vous chez le médecin demain à 17h15,ham
+M0647,"Bien arrivé au cinéma, je t'appelle ce soir",ham
+M0648,"Gagnez de l'argent depuis chez vous, 5000 EUR par semaine ! Infos : http://promo-250.example",spam
+M0649,Dernier rappel : réclamez votre bon d'achat de 1000 EUR avant minuit http://promo-986.example,spam
+M0650,"C'est gratuit le musée le premier dimanche, on y va ?",ham
+M0651,"Je t'envoie le document ce soir, c'est presque fini",ham
+M0652,Tu as le code du wifi ? Je l'ai encore perdu,ham
+M0653,Tu as le code du wifi ? Je l'ai encore perdu,ham
+M0654,"Tu as gagné au tirage du club, bravo Nina ! On fête ça au parc",ham
+M0655,"Bien arrivé au bureau, je t'appelle ce soir",ham
+M0656,"Le colis est arrivé, je le pose sur ton bureau",ham
+M0657,Tu as le code du wifi ? Je l'ai encore perdu,ham
+M0658,Peux-tu rappeler Karim quand tu as une minute ?,ham
+M0659,"Merci pour hier soir, c'était super",ham
+M0660,Tu peux acheter du pain en rentrant stp,ham
+M0661,"Credit rapide sans justificatif jusqu'à 500 EUR, appelez vite le 08 99 36 68 94",spam
+M0662,Julie a dit que la réunion est décalée à 19h30,ham
+M0663,Tu peux acheter du pain en rentrant stp,ham
+M0664,"Tu as gagné au tirage du club, bravo Sarah ! On fête ça au bureau",ham
+M0665,"Le match commence à 19h30, viens vers le stade",ham
+M0666,"C'est gratuit le musée le premier dimanche, on y va ?",ham
+M0667,Tu as le code du wifi ? Je l'ai encore perdu,ham
+M0668,"Bien arrivé au marché, je t'appelle ce soir",ham
+M0669,"Merci pour hier soir, c'était super",ham
+M0670,"Merci pour hier soir, c'était super",ham
+M0671,"Merci pour hier soir, c'était super",ham
+M0672,"Je t'envoie le document ce soir, c'est presque fini",ham
+M0673,Vous êtes sélectionné pour un iPhone GRATUIT ! Répondez OUI au 32029,spam
+M0674,"Le match commence à 17h15, viens vers le bureau",ham
+M0675,Bon anniversaire Lea ! Grosses bises,ham
+M0676,"Tu as gagné au tirage du club, bravo Nina ! On fête ça au stade",ham
+M0677,"Le match commence à midi, viens vers le marché",ham
+M0678,"Gagnez de l'argent depuis chez vous, 1000 EUR par semaine ! Infos : http://promo-830.example",spam
+M0679,"Bien arrivé au stade, je t'appelle ce soir",ham
+M0680,Bon anniversaire Paul ! Grosses bises,ham
+M0681,FÉLICITATIONS ! Vous avez gagné 250 EUR. Appelez le 08 99 44 98 87 pour recevoir votre prix,spam
+M0682,Vous êtes sélectionné pour un iPhone GRATUIT ! Répondez OUI au 39123,spam
+M0683,"Je suis en retard de 10 minutes, désolé !",ham
+M0684,Tu peux acheter du pain en rentrant stp,ham
+M0685,N'oublie pas le rendez-vous chez le médecin demain à midi,ham
+M0686,URGENT : votre compte sera bloqué. Confirmez vos informations sur http://promo-217.example,spam
+M0687,"Votre colis est en attente, payez 1.99 EUR de frais sur http://promo-458.example",spam
+M0688,"Le colis est arrivé, je le pose sur ton bureau",ham
+M0689,"Bien arrivé au parc, je t'appelle ce soir",ham
+M0690,"Je t'envoie le document ce soir, c'est presque fini",ham
+M0691,On mange ensemble à 19h30 ? Le stade à côté du travail,ham
+M0692,Bon anniversaire Karim ! Grosses bises,ham
+M0693,On mange ensemble à 19h30 ? Le bureau à côté du travail,ham
+M0694,"Je suis en retard de 10 minutes, désolé !",ham
+M0695,"Merci pour hier soir, c'était super",ham
+M0696,Peux-tu rappeler Maman quand tu as une minute ?,ham
+M0697,N'oublie pas le rendez-vous chez le médecin demain à midi,ham
+M0698,"Le colis est arrivé, je le pose sur ton bureau",ham
+M0699,"Tu as gagné au tirage du club, bravo Lea ! On fête ça au bureau",ham
+M0700,"Votre remboursement de 250 EUR est disponible, cliquez http://promo-425.example",spam
+M0701,FÉLICITATIONS ! Vous avez gagné 250 EUR. Appelez le 08 99 69 62 16 pour recevoir votre prix,spam
+M0702,"Votre colis est en attente, payez 1.99 EUR de frais sur http://promo-279.example",spam
+M0703,"Tu as gagné au tirage du club, bravo Hugo ! On fête ça au marché",ham
+M0704,"Votre remboursement de 1000 EUR est disponible, cliquez http://promo-497.example",spam
+M0705,Peux-tu rappeler Tom quand tu as une minute ?,ham
+M0706,"Merci pour hier soir, c'était super",ham
+M0707,"Le match commence à 19h30, viens vers le parc",ham
+M0708,"Merci pour hier soir, c'était super",ham
+M0709,"Salut Karim, on se retrouve à 19h30 au stade ?",ham
+M0710,Tu as le code du wifi ? Je l'ai encore perdu,ham
+M0711,"Credit rapide sans justificatif jusqu'à 500 EUR, appelez vite le 08 99 61 32 63",spam
+M0712,Peux-tu rappeler Maman quand tu as une minute ?,ham
+M0713,"Le colis est arrivé, je le pose sur ton bureau",ham
+M0714,"Merci pour hier soir, c'était super",ham
+M0715,"Tu as gagné au tirage du club, bravo Karim ! On fête ça au bureau",ham
+M0716,FÉLICITATIONS ! Vous avez gagné 5000 EUR. Appelez le 08 99 34 29 19 pour recevoir votre prix,spam
+M0717,"Salut Tom, on se retrouve à 20h au cinéma ?",ham
+M0718,Tu as le code du wifi ? Je l'ai encore perdu,ham
+M0719,Bon anniversaire Tom ! Grosses bises,ham
+M0720,"Credit rapide sans justificatif jusqu'à 100 EUR, appelez vite le 08 99 47 53 53",spam
+M0721,Dernier rappel : réclamez votre bon d'achat de 100 EUR avant minuit http://promo-919.example,spam
+M0722,"Votre colis est en attente, payez 1.99 EUR de frais sur http://promo-591.example",spam
+M0723,"Le match commence à 17h15, viens vers le marché",ham
+M0724,"Credit rapide sans justificatif jusqu'à 250 EUR, appelez vite le 08 99 27 86 71",spam
+M0725,"Je suis en retard de 10 minutes, désolé !",ham
+M0726,Tu peux acheter du pain en rentrant stp,ham
+M0727,"Le colis est arrivé, je le pose sur ton bureau",ham
+M0728,"Votre colis est en attente, payez 2.49 EUR de frais sur http://promo-977.example",spam
+M0729,N'oublie pas le rendez-vous chez le médecin demain à 20h,ham
+M0730,"Offre exclusive : -80% sur tout le site, cliquez ici http://promo-818.example",spam
+M0731,Tu peux acheter du pain en rentrant stp,ham
+M0732,"Merci pour hier soir, c'était super",ham
+M0733,Peux-tu rappeler Hugo quand tu as une minute ?,ham
+M0734,Tu as le code du wifi ? Je l'ai encore perdu,ham
+M0735,Tu peux acheter du pain en rentrant stp,ham
+M0736,N'oublie pas le rendez-vous chez le médecin demain à 19h30,ham
+M0737,"Je suis en retard de 10 minutes, désolé !",ham
+M0738,FÉLICITATIONS ! Vous avez gagné 5000 EUR. Appelez le 08 99 29 30 51 pour recevoir votre prix,spam
+M0739,"Bien arrivé au café, je t'appelle ce soir",ham
+M0740,N'oublie pas le rendez-vous chez le médecin demain à 17h15,ham
+M0741,On mange ensemble à 20h ? Le restaurant à côté du travail,ham
+M0742,"Le match commence à 8h, viens vers le parc",ham
+M0743,Bon anniversaire Hugo ! Grosses bises,ham
+M0744,"Le match commence à 20h, viens vers le cinéma",ham
+M0745,N'oublie pas le rendez-vous chez le médecin demain à 20h,ham
+M0746,On mange ensemble à 20h ? Le bureau à côté du travail,ham
+M0747,"Je t'envoie le document ce soir, c'est presque fini",ham
+M0748,"Rencontres célibataires près de chez vous, inscription gratuite http://promo-971.example",spam
+M0749,"Bien arrivé au marché, je t'appelle ce soir",ham
+M0750,"Votre colis est en attente, payez 1.99 EUR de frais sur http://promo-280.example",spam
+M0751,"C'est gratuit le musée le premier dimanche, on y va ?",ham
+M0752,"Rencontres célibataires près de chez vous, inscription gratuite http://promo-952.example",spam
+M0753,URGENT : votre compte sera bloqué. Confirmez vos informations sur http://promo-327.example,spam
+M0754,FÉLICITATIONS ! Vous avez gagné 100 EUR. Appelez le 08 99 15 44 49 pour recevoir votre prix,spam
+M0755,"Le colis est arrivé, je le pose sur ton bureau",ham
+M0756,"Gagnez de l'argent depuis chez vous, 5000 EUR par semaine ! Infos : http://promo-902.example",spam
+M0757,"C'est gratuit le musée le premier dimanche, on y va ?",ham
+M0758,"Votre colis est en attente, payez 2.99 EUR de frais sur http://promo-364.example",spam
+M0759,"Votre remboursement de 500 EUR est disponible, cliquez http://promo-376.example",spam
+M0760,"Tu as gagné au tirage du club, bravo Maman ! On fête ça au cinéma",ham
+M0761,"Bien arrivé au stade, je t'appelle ce soir",ham
+M0762,"Gagnez de l'argent depuis chez vous, 100 EUR par semaine ! Infos : http://promo-902.example",spam
+M0763,Tom a dit que la réunion est décalée à 18h,ham
+M0764,Peux-tu rappeler Tom quand tu as une minute ?,ham
+M0765,"Gagnez de l'argent depuis chez vous, 1000 EUR par semaine ! Infos : http://promo-359.example",spam
+M0766,"Offre exclusive : -80% sur tout le site, cliquez ici http://promo-993.example",spam
+M0767,Nina a dit que la réunion est décalée à 18h,ham
+M0768,"Salut Lea, on se retrouve à 20h au marché ?",ham
+M0769,"Je suis en retard de 10 minutes, désolé !",ham
+M0770,Peux-tu rappeler Nina quand tu as une minute ?,ham
+M0771,"Je suis en retard de 10 minutes, désolé !",ham
+M0772,N'oublie pas le rendez-vous chez le médecin demain à 18h,ham
+M0773,"Le match commence à midi, viens vers le bureau",ham
+M0774,Bon anniversaire Lea ! Grosses bises,ham
+M0775,"Votre remboursement de 1000 EUR est disponible, cliquez http://promo-527.example",spam
+M0776,Julie a dit que la réunion est décalée à 8h,ham
+M0777,N'oublie pas le rendez-vous chez le médecin demain à 20h,ham
+M0778,"Gagnez de l'argent depuis chez vous, 500 EUR par semaine ! Infos : http://promo-109.example",spam
+M0779,Peux-tu rappeler Lea quand tu as une minute ?,ham
+M0780,"Salut Nina, on se retrouve à 20h au café ?",ham
+M0781,"Votre colis est en attente, payez 2.99 EUR de frais sur http://promo-247.example",spam
+M0782,Bon anniversaire Tom ! Grosses bises,ham
+M0783,"Votre remboursement de 100 EUR est disponible, cliquez http://promo-455.example",spam
+M0784,"Merci pour hier soir, c'était super",ham
+M0785,"Credit rapide sans justificatif jusqu'à 500 EUR, appelez vite le 08 99 81 30 93",spam
+M0786,"Bien arrivé au marché, je t'appelle ce soir",ham
+M0787,"Votre colis est en attente, payez 2.99 EUR de frais sur http://promo-384.example",spam
+M0788,Peux-tu rappeler Nina quand tu as une minute ?,ham
+M0789,Tu peux acheter du pain en rentrant stp,ham
+M0790,"Je suis en retard de 10 minutes, désolé !",ham
+M0791,On mange ensemble à 17h15 ? Le stade à côté du travail,ham
+M0792,Vous êtes sélectionné pour un iPhone GRATUIT ! Répondez OUI au 34263,spam
+M0793,"Je suis en retard de 10 minutes, désolé !",ham
+M0794,N'oublie pas le rendez-vous chez le médecin demain à midi,ham
+M0795,"Je suis en retard de 10 minutes, désolé !",ham
+M0796,Peux-tu rappeler Tom quand tu as une minute ?,ham
+M0797,"C'est gratuit le musée le premier dimanche, on y va ?",ham
+M0798,N'oublie pas le rendez-vous chez le médecin demain à midi,ham
+M0799,"C'est gratuit le musée le premier dimanche, on y va ?",ham
+M0800,"Votre colis est en attente, payez 1.99 EUR de frais sur http://promo-292.example",spam
+M0801,Dernier rappel : réclamez votre bon d'achat de 5000 EUR avant minuit http://promo-779.example,spam
+M0802,"Gagnez de l'argent depuis chez vous, 500 EUR par semaine ! Infos : http://promo-895.example",spam
+M0803,Bon anniversaire Julie ! Grosses bises,ham
+M0804,"Le match commence à 18h, viens vers le cinéma",ham
+M0805,"Bien arrivé au parc, je t'appelle ce soir",ham
+M0806,Dernier rappel : réclamez votre bon d'achat de 100 EUR avant minuit http://promo-209.example,spam
+M0807,Tu peux acheter du pain en rentrant stp,ham
+M0808,"Gagnez de l'argent depuis chez vous, 5000 EUR par semaine ! Infos : http://promo-166.example",spam
+M0809,"Salut Paul, on se retrouve à 19h30 au marché ?",ham
+M0810,Bon anniversaire Tom ! Grosses bises,ham
+M0811,"Je suis en retard de 10 minutes, désolé !",ham
+M0812,"Rencontres célibataires près de chez vous, inscription gratuite http://promo-243.example",spam
+M0813,Ines a dit que la réunion est décalée à midi,ham
+M0814,URGENT : votre compte sera bloqué. Confirmez vos informations sur http://promo-890.example,spam
+M0815,"Je t'envoie le document ce soir, c'est presque fini",ham
+M0816,"Je suis en retard de 10 minutes, désolé !",ham
+M0817,Tu as le code du wifi ? Je l'ai encore perdu,ham
+M0818,FÉLICITATIONS ! Vous avez gagné 5000 EUR. Appelez le 08 99 45 77 35 pour recevoir votre prix,spam
+M0819,"Gagnez de l'argent depuis chez vous, 250 EUR par semaine ! Infos : http://promo-540.example",spam
+M0820,Tu peux acheter du pain en rentrant stp,ham
+M0821,Nina a dit que la réunion est décalée à midi,ham
+M0822,"Bien arrivé au cinéma, je t'appelle ce soir",ham
+M0823,Bon anniversaire Ines ! Grosses bises,ham
+M0824,Bon anniversaire Ines ! Grosses bises,ham
+M0825,"Votre remboursement de 500 EUR est disponible, cliquez http://promo-135.example",spam
+M0826,N'oublie pas le rendez-vous chez le médecin demain à 19h30,ham
+M0827,"Bien arrivé au cinéma, je t'appelle ce soir",ham
+M0828,"Merci pour hier soir, c'était super",ham
+M0829,"C'est gratuit le musée le premier dimanche, on y va ?",ham
+M0830,"Je suis en retard de 10 minutes, désolé !",ham
+M0831,"Credit rapide sans justificatif jusqu'à 100 EUR, appelez vite le 08 99 87 14 75",spam
+M0832,"Bien arrivé au bureau, je t'appelle ce soir",ham
+M0833,N'oublie pas le rendez-vous chez le médecin demain à 8h,ham
+M0834,"Je t'envoie le document ce soir, c'est presque fini",ham
+M0835,"Je t'envoie le document ce soir, c'est presque fini",ham
+M0836,URGENT : votre compte sera bloqué. Confirmez vos informations sur http://promo-434.example,spam
+M0837,"Tu as gagné au tirage du club, bravo Ines ! On fête ça au café",ham
+M0838,FÉLICITATIONS ! Vous avez gagné 1000 EUR. Appelez le 08 99 72 37 25 pour recevoir votre prix,spam
+M0839,N'oublie pas le rendez-vous chez le médecin demain à 8h,ham
+M0840,Bon anniversaire Ines ! Grosses bises,ham
+M0841,"Je suis en retard de 10 minutes, désolé !",ham
+M0842,"Credit rapide sans justificatif jusqu'à 250 EUR, appelez vite le 08 99 85 56 26",spam
+M0843,N'oublie pas le rendez-vous chez le médecin demain à 18h,ham
+M0844,"Votre remboursement de 500 EUR est disponible, cliquez http://promo-340.example",spam
+M0845,Tu as le code du wifi ? Je l'ai encore perdu,ham
+M0846,"Votre remboursement de 500 EUR est disponible, cliquez http://promo-744.example",spam
+M0847,Paul a dit que la réunion est décalée à 20h,ham
+M0848,"Merci pour hier soir, c'était super",ham
+M0849,"Votre remboursement de 500 EUR est disponible, cliquez http://promo-153.example",spam
+M0850,"Tu as gagné au tirage du club, bravo Paul ! On fête ça au marché",ham
+M0851,"Gagnez de l'argent depuis chez vous, 500 EUR par semaine ! Infos : http://promo-804.example",spam
+M0852,Julie a dit que la réunion est décalée à midi,ham
+M0853,"Gagnez de l'argent depuis chez vous, 1000 EUR par semaine ! Infos : http://promo-419.example",spam
+M0854,Tu as le code du wifi ? Je l'ai encore perdu,ham
+M0855,Dernier rappel : réclamez votre bon d'achat de 5000 EUR avant minuit http://promo-706.example,spam
+M0856,Bon anniversaire Sarah ! Grosses bises,ham
+M0857,Lea a dit que la réunion est décalée à 8h,ham
+M0858,N'oublie pas le rendez-vous chez le médecin demain à 20h,ham
+M0859,"Bien arrivé au cinéma, je t'appelle ce soir",ham
+M0860,"Votre colis est en attente, payez 1.99 EUR de frais sur http://promo-262.example",spam
+M0861,"Le match commence à 19h30, viens vers le cinéma",ham
+M0862,On mange ensemble à 20h ? Le parc à côté du travail,ham
+M0863,Hugo a dit que la réunion est décalée à 8h,ham
+M0864,Vous êtes sélectionné pour un iPhone GRATUIT ! Répondez OUI au 38256,spam
+M0865,"Je t'envoie le document ce soir, c'est presque fini",ham
+M0866,"Je t'envoie le document ce soir, c'est presque fini",ham
+M0867,Bon anniversaire Hugo ! Grosses bises,ham
+M0868,"Merci pour hier soir, c'était super",ham
+M0869,URGENT : votre compte sera bloqué. Confirmez vos informations sur http://promo-492.example,spam
+M0870,On mange ensemble à 8h ? Le cinéma à côté du travail,ham
+M0871,"Je suis en retard de 10 minutes, désolé !",ham
+M0872,"C'est gratuit le musée le premier dimanche, on y va ?",ham
+M0873,"Merci pour hier soir, c'était super",ham
+M0874,"C'est gratuit le musée le premier dimanche, on y va ?",ham
+M0875,On mange ensemble à 18h ? Le marché à côté du travail,ham
+M0876,"Le colis est arrivé, je le pose sur ton bureau",ham
+M0877,"Salut Julie, on se retrouve à 18h au marché ?",ham
+M0878,"Le match commence à 19h30, viens vers le marché",ham
+M0879,Tu peux acheter du pain en rentrant stp,ham
+M0880,On mange ensemble à 20h ? Le restaurant à côté du travail,ham
+M0881,Vous êtes sélectionné pour un iPhone GRATUIT ! Répondez OUI au 31307,spam
+M0882,Julie a dit que la réunion est décalée à 18h,ham
+M0883,"Rencontres célibataires près de chez vous, inscription gratuite http://promo-327.example",spam
+M0884,Bon anniversaire Paul ! Grosses bises,ham
+M0885,Vous êtes sélectionné pour un iPhone GRATUIT ! Répondez OUI au 31482,spam
+M0886,"Je t'envoie le document ce soir, c'est presque fini",ham
+M0887,"Bien arrivé au parc, je t'appelle ce soir",ham
+M0888,URGENT : votre compte sera bloqué. Confirmez vos informations sur http://promo-744.example,spam
+M0889,"Bien arrivé au marché, je t'appelle ce soir",ham
+M0890,"Offre exclusive : -80% sur tout le site, cliquez ici http://promo-619.example",spam
+M0891,"C'est gratuit le musée le premier dimanche, on y va ?",ham
+M0892,"Je suis en retard de 10 minutes, désolé !",ham
+M0893,"Bien arrivé au parc, je t'appelle ce soir",ham
+M0894,"Offre exclusive : -90% sur tout le site, cliquez ici http://promo-671.example",spam
+M0895,"Le match commence à 19h30, viens vers le bureau",ham
+M0896,"Je suis en retard de 10 minutes, désolé !",ham
+M0897,FÉLICITATIONS ! Vous avez gagné 500 EUR. Appelez le 08 99 34 16 52 pour recevoir votre prix,spam
+M0898,"Je suis en retard de 10 minutes, désolé !",ham
+M0899,"Je suis en retard de 10 minutes, désolé !",ham
+M0900,Peux-tu rappeler Tom quand tu as une minute ?,ham
+M0901,N'oublie pas le rendez-vous chez le médecin demain à midi,ham
+M0902,"Je suis en retard de 10 minutes, désolé !",ham
+M0903,"Votre colis est en attente, payez 2.99 EUR de frais sur http://promo-281.example",spam
+M0904,Peux-tu rappeler Lea quand tu as une minute ?,ham
+M0905,"Votre colis est en attente, payez 2.49 EUR de frais sur http://promo-261.example",spam
+M0906,"Je t'envoie le document ce soir, c'est presque fini",ham
+M0907,"Je suis en retard de 10 minutes, désolé !",ham
+M0908,"Le colis est arrivé, je le pose sur ton bureau",ham
+M0909,"Je t'envoie le document ce soir, c'est presque fini",ham
+M0910,"Bien arrivé au marché, je t'appelle ce soir",ham
+M0911,Tu as le code du wifi ? Je l'ai encore perdu,ham
+M0912,"Bien arrivé au café, je t'appelle ce soir",ham
+M0913,"Bien arrivé au restaurant, je t'appelle ce soir",ham
+M0914,Dernier rappel : réclamez votre bon d'achat de 1000 EUR avant minuit http://promo-343.example,spam
+M0915,"Salut Tom, on se retrouve à 18h au stade ?",ham
+M0916,"Offre exclusive : -70% sur tout le site, cliquez ici http://promo-396.example",spam
+M0917,Sarah a dit que la réunion est décalée à 18h,ham
+M0918,Paul a dit que la réunion est décalée à 20h,ham
+M0919,"Tu as gagné au tirage du club, bravo Hugo ! On fête ça au parc",ham
+M0920,Tu as le code du wifi ? Je l'ai encore perdu,ham
+M0921,"Gagnez de l'argent depuis chez vous, 500 EUR par semaine ! Infos : http://promo-368.example",spam
+M0922,"Merci pour hier soir, c'était super",ham
+M0923,N'oublie pas le rendez-vous chez le médecin demain à 18h,ham
+M0924,N'oublie pas le rendez-vous chez le médecin demain à 19h30,ham
+M0925,"Bien arrivé au parc, je t'appelle ce soir",ham
+M0926,"Le colis est arrivé, je le pose sur ton bureau",ham
+M0927,"Salut Karim, on se retrouve à 19h30 au restaurant ?",ham
+M0928,"Le colis est arrivé, je le pose sur ton bureau",ham
+M0929,"Je suis en retard de 10 minutes, désolé !",ham
+M0930,Bon anniversaire Julie ! Grosses bises,ham
+M0931,On mange ensemble à 19h30 ? Le restaurant à côté du travail,ham
+M0932,N'oublie pas le rendez-vous chez le médecin demain à 19h30,ham
+M0933,Peux-tu rappeler Ines quand tu as une minute ?,ham
+M0934,"Merci pour hier soir, c'était super",ham
+M0935,"Le colis est arrivé, je le pose sur ton bureau",ham
+M0936,"Gagnez de l'argent depuis chez vous, 5000 EUR par semaine ! Infos : http://promo-269.example",spam
+M0937,Tu peux acheter du pain en rentrant stp,ham
+M0938,"C'est gratuit le musée le premier dimanche, on y va ?",ham
+M0939,"Je t'envoie le document ce soir, c'est presque fini",ham
+M0940,Vous êtes sélectionné pour un iPhone GRATUIT ! Répondez OUI au 30622,spam
+M0941,Tu as le code du wifi ? Je l'ai encore perdu,ham
+M0942,FÉLICITATIONS ! Vous avez gagné 100 EUR. Appelez le 08 99 33 47 61 pour recevoir votre prix,spam
+M0943,N'oublie pas le rendez-vous chez le médecin demain à 20h,ham
+M0944,"Bien arrivé au bureau, je t'appelle ce soir",ham
+M0945,"C'est gratuit le musée le premier dimanche, on y va ?",ham
+M0946,URGENT : votre compte sera bloqué. Confirmez vos informations sur http://promo-657.example,spam
+M0947,Tu peux acheter du pain en rentrant stp,ham
+M0948,"Offre exclusive : -80% sur tout le site, cliquez ici http://promo-209.example",spam
+M0949,"Tu as gagné au tirage du club, bravo Karim ! On fête ça au parc",ham
+M0950,"Le colis est arrivé, je le pose sur ton bureau",ham
+M0951,Tu peux acheter du pain en rentrant stp,ham
+M0952,"Votre remboursement de 5000 EUR est disponible, cliquez http://promo-669.example",spam
+M0953,Dernier rappel : réclamez votre bon d'achat de 1000 EUR avant minuit http://promo-888.example,spam
+M0954,Bon anniversaire Karim ! Grosses bises,ham
+M0955,"Bien arrivé au restaurant, je t'appelle ce soir",ham
+M0956,Bon anniversaire Ines ! Grosses bises,ham
+M0957,FÉLICITATIONS ! Vous avez gagné 100 EUR. Appelez le 08 99 39 98 91 pour recevoir votre prix,spam
+M0958,Peux-tu rappeler Ines quand tu as une minute ?,ham
+M0959,Bon anniversaire Sarah ! Grosses bises,ham
+M0960,"Salut Paul, on se retrouve à 19h30 au restaurant ?",ham
+M0961,N'oublie pas le rendez-vous chez le médecin demain à 8h,ham
+M0962,On mange ensemble à 19h30 ? Le stade à côté du travail,ham
+M0963,Bon anniversaire Paul ! Grosses bises,ham
+M0964,Tu as le code du wifi ? Je l'ai encore perdu,ham
+M0965,"Votre colis est en attente, payez 2.99 EUR de frais sur http://promo-568.example",spam
+M0966,Dernier rappel : réclamez votre bon d'achat de 1000 EUR avant minuit http://promo-720.example,spam
+M0967,"Le match commence à 17h15, viens vers le café",ham
+M0968,"Le match commence à 18h, viens vers le bureau",ham
+M0969,Bon anniversaire Julie ! Grosses bises,ham
+M0970,"Le colis est arrivé, je le pose sur ton bureau",ham
+M0971,Peux-tu rappeler Tom quand tu as une minute ?,ham
+M0972,"Votre remboursement de 100 EUR est disponible, cliquez http://promo-284.example",spam
+M0973,Tu as le code du wifi ? Je l'ai encore perdu,ham
+M0974,Ines a dit que la réunion est décalée à 18h,ham
+M0975,Tom a dit que la réunion est décalée à 18h,ham
+M0976,Tu peux acheter du pain en rentrant stp,ham
+M0977,"Rencontres célibataires près de chez vous, inscription gratuite http://promo-127.example",spam
+M0978,"Salut Karim, on se retrouve à 8h au restaurant ?",ham
+M0979,Dernier rappel : réclamez votre bon d'achat de 5000 EUR avant minuit http://promo-139.example,spam
+M0980,URGENT : votre compte sera bloqué. Confirmez vos informations sur http://promo-152.example,spam
+M0981,URGENT : votre compte sera bloqué. Confirmez vos informations sur http://promo-233.example,spam
+M0982,"Je t'envoie le document ce soir, c'est presque fini",ham
+M0983,"Le colis est arrivé, je le pose sur ton bureau",ham
+M0984,URGENT : votre compte sera bloqué. Confirmez vos informations sur http://promo-715.example,spam
+M0985,"Tu as gagné au tirage du club, bravo Karim ! On fête ça au stade",ham
+M0986,On mange ensemble à 19h30 ? Le marché à côté du travail,ham
+M0987,"Votre colis est en attente, payez 1.99 EUR de frais sur http://promo-423.example",spam
+M0988,FÉLICITATIONS ! Vous avez gagné 100 EUR. Appelez le 08 99 61 34 12 pour recevoir votre prix,spam
+M0989,"Le match commence à 8h, viens vers le marché",ham
+M0990,"Salut Tom, on se retrouve à 18h au bureau ?",ham
+M0991,"Le match commence à 18h, viens vers le café",ham
+M0992,Peux-tu rappeler Lea quand tu as une minute ?,ham
+M0993,Tom a dit que la réunion est décalée à 20h,ham
+M0994,"Le match commence à midi, viens vers le parc",ham
+M0995,Dernier rappel : réclamez votre bon d'achat de 5000 EUR avant minuit http://promo-171.example,spam
+M0996,"Merci pour hier soir, c'était super",ham
+M0997,"Tu as gagné au tirage du club, bravo Lea ! On fête ça au cinéma",ham
+M0998,On mange ensemble à 17h15 ? Le bureau à côté du travail,ham
+M0999,"Je suis en retard de 10 minutes, désolé !",ham
+M1000,URGENT : votre compte sera bloqué. Confirmez vos informations sur http://promo-535.example,spam
+M1001,"Merci pour hier soir, c'était super",ham
+M1002,Vous êtes sélectionné pour un iPhone GRATUIT ! Répondez OUI au 34696,spam
+M1003,URGENT : votre compte sera bloqué. Confirmez vos informations sur http://promo-250.example,spam
+M1004,Dernier rappel : réclamez votre bon d'achat de 1000 EUR avant minuit http://promo-855.example,spam
+M1005,Nina a dit que la réunion est décalée à 20h,ham
+M1006,Ines a dit que la réunion est décalée à 8h,ham
+M1007,"Je t'envoie le document ce soir, c'est presque fini",ham
+M1008,"Merci pour hier soir, c'était super",ham
+M1009,Dernier rappel : réclamez votre bon d'achat de 5000 EUR avant minuit http://promo-670.example,spam
+M1010,"Salut Julie, on se retrouve à 18h au parc ?",ham
+M1011,"Gagnez de l'argent depuis chez vous, 100 EUR par semaine ! Infos : http://promo-796.example",spam
+M1012,"C'est gratuit le musée le premier dimanche, on y va ?",ham
+M1013,"Merci pour hier soir, c'était super",ham
+M1014,"Tu as gagné au tirage du club, bravo Hugo ! On fête ça au restaurant",ham
+M1015,"Tu as gagné au tirage du club, bravo Lea ! On fête ça au marché",ham
+M1016,"Gagnez de l'argent depuis chez vous, 250 EUR par semaine ! Infos : http://promo-977.example",spam
+M1017,Tu as le code du wifi ? Je l'ai encore perdu,ham
+M1018,"Merci pour hier soir, c'était super",ham
+M1019,N'oublie pas le rendez-vous chez le médecin demain à 20h,ham
+M1020,"Gagnez de l'argent depuis chez vous, 500 EUR par semaine ! Infos : http://promo-894.example",spam
+M1021,"Bien arrivé au restaurant, je t'appelle ce soir",ham
+M1022,"C'est gratuit le musée le premier dimanche, on y va ?",ham
+M1023,"Le colis est arrivé, je le pose sur ton bureau",ham
+M1024,Bon anniversaire Maman ! Grosses bises,ham
+M1025,"Je t'envoie le document ce soir, c'est presque fini",ham
+M1026,Tu as le code du wifi ? Je l'ai encore perdu,ham
+M1027,"Gagnez de l'argent depuis chez vous, 500 EUR par semaine ! Infos : http://promo-907.example",spam
+M1028,"Le colis est arrivé, je le pose sur ton bureau",ham
+M1029,"Bien arrivé au cinéma, je t'appelle ce soir",ham
+M1030,URGENT : votre compte sera bloqué. Confirmez vos informations sur http://promo-232.example,spam
+M1031,"Merci pour hier soir, c'était super",ham
+M1032,"Salut Julie, on se retrouve à midi au marché ?",ham
+M1033,Bon anniversaire Julie ! Grosses bises,ham
+M1034,Dernier rappel : réclamez votre bon d'achat de 5000 EUR avant minuit http://promo-856.example,spam
+M1035,Hugo a dit que la réunion est décalée à 20h,ham
+M1036,"Je t'envoie le document ce soir, c'est presque fini",ham
+M1037,Vous êtes sélectionné pour un iPhone GRATUIT ! Répondez OUI au 37657,spam
+M1038,"Le colis est arrivé, je le pose sur ton bureau",ham
+M1039,"Le match commence à 17h15, viens vers le bureau",ham
+M1040,"Salut Karim, on se retrouve à midi au restaurant ?",ham
+M1041,"Le match commence à 20h, viens vers le parc",ham
+M1042,"C'est gratuit le musée le premier dimanche, on y va ?",ham
+M1043,On mange ensemble à midi ? Le bureau à côté du travail,ham
+M1044,"Je suis en retard de 10 minutes, désolé !",ham
+M1045,"Votre remboursement de 500 EUR est disponible, cliquez http://promo-186.example",spam
+M1046,Peux-tu rappeler Paul quand tu as une minute ?,ham
+M1047,"Le match commence à 18h, viens vers le parc",ham
+M1048,"Le match commence à 8h, viens vers le restaurant",ham
+M1049,"Tu as gagné au tirage du club, bravo Nina ! On fête ça au cinéma",ham
+M1050,"C'est gratuit le musée le premier dimanche, on y va ?",ham
+M1051,"Credit rapide sans justificatif jusqu'à 1000 EUR, appelez vite le 08 99 34 91 12",spam
+M1052,On mange ensemble à 19h30 ? Le cinéma à côté du travail,ham
+M1053,Tom a dit que la réunion est décalée à 19h30,ham
+M1054,Vous êtes sélectionné pour un iPhone GRATUIT ! Répondez OUI au 31424,spam
+M1055,"Merci pour hier soir, c'était super",ham
+M1056,"Offre exclusive : -90% sur tout le site, cliquez ici http://promo-918.example",spam
+M1057,Vous êtes sélectionné pour un iPhone GRATUIT ! Répondez OUI au 37316,spam
+M1058,"Le match commence à 20h, viens vers le parc",ham
+M1059,Nina a dit que la réunion est décalée à 19h30,ham
+M1060,"Le colis est arrivé, je le pose sur ton bureau",ham
+M1061,"C'est gratuit le musée le premier dimanche, on y va ?",ham
+M1062,"Je suis en retard de 10 minutes, désolé !",ham
+M1063,"Tu as gagné au tirage du club, bravo Ines ! On fête ça au cinéma",ham
+M1064,Bon anniversaire Karim ! Grosses bises,ham
+M1065,"Votre colis est en attente, payez 1.99 EUR de frais sur http://promo-512.example",spam
+M1066,"Le match commence à 19h30, viens vers le restaurant",ham
+M1067,"Votre remboursement de 500 EUR est disponible, cliquez http://promo-633.example",spam
+M1068,Tu as le code du wifi ? Je l'ai encore perdu,ham
+M1069,Dernier rappel : réclamez votre bon d'achat de 100 EUR avant minuit http://promo-281.example,spam
+M1070,"Credit rapide sans justificatif jusqu'à 100 EUR, appelez vite le 08 99 75 98 64",spam
+M1071,"Je t'envoie le document ce soir, c'est presque fini",ham
+M1072,"Je t'envoie le document ce soir, c'est presque fini",ham
+M1073,"Bien arrivé au restaurant, je t'appelle ce soir",ham
+M1074,"Tu as gagné au tirage du club, bravo Maman ! On fête ça au cinéma",ham
+M1075,"Tu as gagné au tirage du club, bravo Julie ! On fête ça au café",ham
+M1076,"Le match commence à 17h15, viens vers le bureau",ham
+M1077,"Tu as gagné au tirage du club, bravo Nina ! On fête ça au restaurant",ham
+M1078,Paul a dit que la réunion est décalée à 17h15,ham
+M1079,Ines a dit que la réunion est décalée à 19h30,ham
+M1080,Bon anniversaire Karim ! Grosses bises,ham
+M1081,"Le match commence à 18h, viens vers le bureau",ham
+M1082,"Le colis est arrivé, je le pose sur ton bureau",ham
+M1083,"Je t'envoie le document ce soir, c'est presque fini",ham
+M1084,"Salut Tom, on se retrouve à 17h15 au stade ?",ham
+M1085,"Tu as gagné au tirage du club, bravo Hugo ! On fête ça au cinéma",ham
+M1086,Tu as le code du wifi ? Je l'ai encore perdu,ham
+M1087,Bon anniversaire Nina ! Grosses bises,ham
+M1088,Bon anniversaire Paul ! Grosses bises,ham
+M1089,Bon anniversaire Lea ! Grosses bises,ham
+M1090,URGENT : votre compte sera bloqué. Confirmez vos informations sur http://promo-122.example,spam
+M1091,Maman a dit que la réunion est décalée à 17h15,ham
+M1092,Tu peux acheter du pain en rentrant stp,ham
+M1093,Bon anniversaire Ines ! Grosses bises,ham
+M1094,"Je t'envoie le document ce soir, c'est presque fini",ham
+M1095,"Merci pour hier soir, c'était super",ham
+M1096,"Salut Ines, on se retrouve à 20h au cinéma ?",ham
+M1097,URGENT : votre compte sera bloqué. Confirmez vos informations sur http://promo-137.example,spam
+M1098,URGENT : votre compte sera bloqué. Confirmez vos informations sur http://promo-725.example,spam
+M1099,"Salut Ines, on se retrouve à 20h au café ?",ham
+M1100,"Votre remboursement de 250 EUR est disponible, cliquez http://promo-714.example",spam
+M1101,"Merci pour hier soir, c'était super",ham
+M1102,Tu as le code du wifi ? Je l'ai encore perdu,ham
+M1103,"Salut Lea, on se retrouve à 17h15 au bureau ?",ham
+M1104,Peux-tu rappeler Hugo quand tu as une minute ?,ham
+M1105,"Je t'envoie le document ce soir, c'est presque fini",ham
+M1106,"Le match commence à 20h, viens vers le marché",ham
+M1107,"C'est gratuit le musée le premier dimanche, on y va ?",ham
+M1108,"Bien arrivé au stade, je t'appelle ce soir",ham
+M1109,N'oublie pas le rendez-vous chez le médecin demain à 17h15,ham
+M1110,"Le colis est arrivé, je le pose sur ton bureau",ham
+M1111,"Le match commence à midi, viens vers le stade",ham
+M1112,Peux-tu rappeler Tom quand tu as une minute ?,ham
+M1113,On mange ensemble à 20h ? Le café à côté du travail,ham
+M1114,Tu peux acheter du pain en rentrant stp,ham
+M1115,"Le match commence à 17h15, viens vers le café",ham
+M1116,N'oublie pas le rendez-vous chez le médecin demain à 19h30,ham
+M1117,Vous êtes sélectionné pour un iPhone GRATUIT ! Répondez OUI au 34956,spam
+M1118,N'oublie pas le rendez-vous chez le médecin demain à 17h15,ham
+M1119,On mange ensemble à midi ? Le marché à côté du travail,ham
+M1120,"Merci pour hier soir, c'était super",ham
+M1121,"Tu as gagné au tirage du club, bravo Julie ! On fête ça au parc",ham
+M1122,Tu as le code du wifi ? Je l'ai encore perdu,ham
+M1123,"Gagnez de l'argent depuis chez vous, 250 EUR par semaine ! Infos : http://promo-229.example",spam
+M1124,Bon anniversaire Nina ! Grosses bises,ham
+M1125,"Le colis est arrivé, je le pose sur ton bureau",ham
+M1126,"Merci pour hier soir, c'était super",ham
+M1127,"Le match commence à 20h, viens vers le bureau",ham
+M1128,Peux-tu rappeler Hugo quand tu as une minute ?,ham
+M1129,Bon anniversaire Ines ! Grosses bises,ham
+M1130,"C'est gratuit le musée le premier dimanche, on y va ?",ham
+M1131,"Tu as gagné au tirage du club, bravo Ines ! On fête ça au parc",ham
+M1132,Vous êtes sélectionné pour un iPhone GRATUIT ! Répondez OUI au 37530,spam
+M1133,"Tu as gagné au tirage du club, bravo Karim ! On fête ça au stade",ham
+M1134,"Offre exclusive : -80% sur tout le site, cliquez ici http://promo-220.example",spam
+M1135,"Tu as gagné au tirage du club, bravo Sarah ! On fête ça au stade",ham
+M1136,"Merci pour hier soir, c'était super",ham
+M1137,"Merci pour hier soir, c'était super",ham
+M1138,Bon anniversaire Maman ! Grosses bises,ham
+M1139,"Bien arrivé au parc, je t'appelle ce soir",ham
+M1140,"Salut Julie, on se retrouve à 17h15 au parc ?",ham
+M1141,On mange ensemble à 8h ? Le parc à côté du travail,ham
+M1142,"Salut Maman, on se retrouve à 8h au marché ?",ham
+M1143,"Rencontres célibataires près de chez vous, inscription gratuite http://promo-386.example",spam
+M1144,"Je suis en retard de 10 minutes, désolé !",ham
+M1145,On mange ensemble à 20h ? Le parc à côté du travail,ham
+M1146,Karim a dit que la réunion est décalée à 20h,ham
+M1147,Tu peux acheter du pain en rentrant stp,ham
+M1148,Tu as le code du wifi ? Je l'ai encore perdu,ham
+M1149,"Offre exclusive : -70% sur tout le site, cliquez ici http://promo-682.example",spam
+M1150,"C'est gratuit le musée le premier dimanche, on y va ?",ham
+M1151,N'oublie pas le rendez-vous chez le médecin demain à 19h30,ham
+M1152,"Le colis est arrivé, je le pose sur ton bureau",ham
+M1153,"Salut Maman, on se retrouve à 19h30 au restaurant ?",ham
+M1154,On mange ensemble à 17h15 ? Le restaurant à côté du travail,ham
+M1155,"Le colis est arrivé, je le pose sur ton bureau",ham
+M1156,Dernier rappel : réclamez votre bon d'achat de 500 EUR avant minuit http://promo-555.example,spam
+M1157,"Votre remboursement de 500 EUR est disponible, cliquez http://promo-607.example",spam
+M1158,Karim a dit que la réunion est décalée à 19h30,ham
+M1159,Tu as le code du wifi ? Je l'ai encore perdu,ham
+M1160,"Je suis en retard de 10 minutes, désolé !",ham
+M1161,Bon anniversaire Ines ! Grosses bises,ham
+M1162,Tu as le code du wifi ? Je l'ai encore perdu,ham
+M1163,"Salut Karim, on se retrouve à 20h au cinéma ?",ham
+M1164,N'oublie pas le rendez-vous chez le médecin demain à 17h15,ham
+M1165,"Votre remboursement de 500 EUR est disponible, cliquez http://promo-863.example",spam
+M1166,FÉLICITATIONS ! Vous avez gagné 1000 EUR. Appelez le 08 99 60 20 64 pour recevoir votre prix,spam
+M1167,Peux-tu rappeler Maman quand tu as une minute ?,ham
+M1168,"Le colis est arrivé, je le pose sur ton bureau",ham
+M1169,Dernier rappel : réclamez votre bon d'achat de 250 EUR avant minuit http://promo-841.example,spam
+M1170,Tu peux acheter du pain en rentrant stp,ham
+M1171,"Gagnez de l'argent depuis chez vous, 100 EUR par semaine ! Infos : http://promo-921.example",spam
+M1172,"Gagnez de l'argent depuis chez vous, 5000 EUR par semaine ! Infos : http://promo-736.example",spam
+M1173,"Salut Nina, on se retrouve à 20h au cinéma ?",ham
+M1174,Peux-tu rappeler Nina quand tu as une minute ?,ham
+M1175,"Tu as gagné au tirage du club, bravo Julie ! On fête ça au stade",ham
+M1176,"Le match commence à 17h15, viens vers le cinéma",ham
+M1177,"Le match commence à 18h, viens vers le bureau",ham
+M1178,"Rencontres célibataires près de chez vous, inscription gratuite http://promo-845.example",spam
+M1179,"Le match commence à midi, viens vers le stade",ham
+M1180,Tom a dit que la réunion est décalée à 18h,ham
+M1181,Tu as le code du wifi ? Je l'ai encore perdu,ham
+M1182,Hugo a dit que la réunion est décalée à 19h30,ham
+M1183,"Bien arrivé au marché, je t'appelle ce soir",ham
+M1184,"Je suis en retard de 10 minutes, désolé !",ham
+M1185,Bon anniversaire Tom ! Grosses bises,ham
+M1186,"Bien arrivé au stade, je t'appelle ce soir",ham
+M1187,N'oublie pas le rendez-vous chez le médecin demain à 20h,ham
+M1188,Dernier rappel : réclamez votre bon d'achat de 100 EUR avant minuit http://promo-490.example,spam
+M1189,Hugo a dit que la réunion est décalée à 17h15,ham
+M1190,"Le colis est arrivé, je le pose sur ton bureau",ham
+M1191,"Salut Karim, on se retrouve à midi au parc ?",ham
+M1192,Bon anniversaire Hugo ! Grosses bises,ham
+M1193,Tu as le code du wifi ? Je l'ai encore perdu,ham
+M1194,Tu peux acheter du pain en rentrant stp,ham
+M1195,"Tu as gagné au tirage du club, bravo Karim ! On fête ça au cinéma",ham
+M1196,"Je suis en retard de 10 minutes, désolé !",ham
+M1197,"Gagnez de l'argent depuis chez vous, 100 EUR par semaine ! Infos : http://promo-898.example",spam
+M1198,"Bien arrivé au stade, je t'appelle ce soir",ham
+M1199,"Bien arrivé au parc, je t'appelle ce soir",ham
+M1200,On mange ensemble à 8h ? Le café à côté du travail,ham

@@ -1,0 +1,13 @@
+# PyTorch, CPU-only build (no GPU required, much smaller download than CUDA builds).
+#
+# Install ONCE while connected to the Internet:
+#   python -m pip install -r requirements-torch.txt
+#
+# Tested: torch 2.15.0+cpu on Windows 10 / Python 3.13.
+# Windows note: PyTorch needs the "Microsoft Visual C++ Redistributable x64"
+# (vc_redist.x64.exe). See docs/troubleshooting.md if `import torch` fails.
+#
+# Optional GPU build: see docs/installation_guide.md, section "GPU (optionnel)".
+
+--index-url https://download.pytorch.org/whl/cpu
+torch>=2.5

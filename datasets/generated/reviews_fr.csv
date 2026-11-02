@@ -1,0 +1,801 @@
+review_id,text,sentiment,rating
+R0001,"Très décevant et de mauvaise qualité, je vais le renvoyer.",négatif,2
+R0002,"Ce chargeur est solide, je recommande.",positif,5
+R0003,"Vraiment excellent et rapide, très content de mon achat.",positif,5
+R0004,"Produit trop cher, service client injoignable.",négatif,2
+R0005,"Vraiment très pratique et efficace, très content de mon achat.",positif,4
+R0006,"Très lent et de mauvaise qualité, je vais le renvoyer.",négatif,2
+R0007,"Livre cassé, remboursement demandé.",négatif,2
+R0008,"Ce grille-pain est agréable, je recommande.",positif,5
+R0009,"Pas du tout inutilisable, au contraire il est solide.",positif,4
+R0010,"Pas de bonne qualité du tout, plutôt trop cher.",négatif,2
+R0011,"Je l'utilise tous les jours, agréable et excellent.",positif,5
+R0012,"Ce livre est fragile, je ne recommande pas.",négatif,2
+R0013,"Vraiment agréable et parfait, très content de mon achat.",positif,4
+R0014,"Ce grille-pain est fragile, je ne recommande pas.",négatif,1
+R0015,"Ce chargeur est excellent, je recommande.",positif,4
+R0016,"Très lent et fragile, je vais le renvoyer.",négatif,1
+R0017,"Ce livre est parfait, je recommande.",positif,4
+R0018,"Ce clavier est solide, je recommande.",positif,5
+R0019,"Ce micro-ondes est bruyant, je ne recommande pas.",négatif,2
+R0020,"Vraiment parfait et excellent, très content de mon achat.",positif,4
+R0021,"Pas solide du tout, plutôt cassé.",négatif,2
+R0022,"Je l'utilise tous les jours, excellent et parfait.",positif,5
+R0023,"Ce casque est excellent, je recommande.",positif,5
+R0024,"Ce casque est très pratique, je recommande.",positif,4
+R0025,"Très cassé et de mauvaise qualité, je vais le renvoyer.",négatif,2
+R0026,Au bout d'une semaine il était de mauvaise qualité. Dommage.,négatif,2
+R0027,"Ce micro-ondes est efficace, je recommande.",positif,4
+R0028,Au bout d'une semaine il était fragile. Dommage.,négatif,2
+R0029,"Pas du tout cassé, au contraire il est très pratique.",positif,5
+R0030,"Pas mal du tout, agréable pour le prix.",positif,4
+R0031,"Je l'utilise tous les jours, agréable et très pratique.",positif,5
+R0032,"Pas du tout décevant, au contraire il est solide.",positif,5
+R0033,"Pas mal du tout, agréable pour le prix.",positif,4
+R0034,"Pas solide du tout, plutôt inutilisable.",négatif,1
+R0035,"Téléphone bruyant, remboursement demandé.",négatif,2
+R0036,Livraison rapide et casque de bonne qualité.,positif,5
+R0037,"Pas du tout fragile, au contraire il est rapide.",positif,4
+R0038,"Ce téléphone est de mauvaise qualité, je ne recommande pas.",négatif,2
+R0039,"Je l'utilise tous les jours, excellent et efficace.",positif,5
+R0040,"Pas agréable du tout, plutôt fragile.",négatif,2
+R0041,"Produit cassé, service client injoignable.",négatif,2
+R0042,"Je l'utilise tous les jours, très pratique et solide.",positif,5
+R0043,"Produit décevant, service client injoignable.",négatif,2
+R0044,"Pas mal du tout, agréable pour le prix.",positif,5
+R0045,"Ce téléphone est décevant, je ne recommande pas.",négatif,2
+R0046,"Casque lent, remboursement demandé.",négatif,2
+R0047,Livraison rapide et micro-ondes de bonne qualité.,positif,5
+R0048,"Produit cassé, service client injoignable.",négatif,1
+R0049,"Pas parfait du tout, plutôt lent.",négatif,2
+R0050,"Vraiment agréable et parfait, très content de mon achat.",positif,4
+R0051,Au bout d'une semaine il était décevant. Dommage.,négatif,2
+R0052,"Ce sac à dos est excellent, je recommande.",positif,5
+R0053,Livraison rapide et sac à dos excellent.,positif,5
+R0054,"Vraiment efficace et excellent, très content de mon achat.",positif,4
+R0055,"Je l'utilise tous les jours, efficace et parfait.",positif,5
+R0056,"Je l'utilise tous les jours, excellent et de bonne qualité.",positif,4
+R0057,"Livre décevant, remboursement demandé.",négatif,2
+R0058,"Très lent et cassé, je vais le renvoyer.",négatif,2
+R0059,"Je l'utilise tous les jours, excellent et solide.",positif,5
+R0060,Livraison rapide et clavier efficace.,positif,5
+R0061,"Pas très pratique du tout, plutôt fragile.",négatif,2
+R0062,"Ce clavier est de mauvaise qualité, je ne recommande pas.",négatif,2
+R0063,"Pas très pratique du tout, plutôt bruyant.",négatif,2
+R0064,"Ce casque est de mauvaise qualité, je ne recommande pas.",négatif,2
+R0065,"Ce sac à dos est très pratique, je recommande.",positif,4
+R0066,"Je l'utilise tous les jours, solide et excellent.",positif,4
+R0067,"Pas du tout cassé, au contraire il est très pratique.",positif,5
+R0068,"Pas de bonne qualité du tout, plutôt lent.",négatif,2
+R0069,"Je l'utilise tous les jours, de bonne qualité et efficace.",positif,5
+R0070,"Pas excellent du tout, plutôt décevant.",négatif,2
+R0071,"Téléphone inutilisable, remboursement demandé.",négatif,2
+R0072,Livraison rapide et clavier solide.,positif,5
+R0073,"Produit lent, service client injoignable.",négatif,1
+R0074,"Je l'utilise tous les jours, agréable et rapide.",positif,5
+R0075,"Pas du tout décevant, au contraire il est rapide.",positif,4
+R0076,"Ce clavier est fragile, je ne recommande pas.",négatif,2
+R0077,"Très fragile et lent, je vais le renvoyer.",négatif,1
+R0078,"Vraiment parfait et de bonne qualité, très content de mon achat.",positif,5
+R0079,"Ce livre est de bonne qualité, je recommande.",positif,5
+R0080,"Vraiment agréable et très pratique, très content de mon achat.",positif,4
+R0081,"Vraiment parfait et très pratique, très content de mon achat.",positif,5
+R0082,"Ce sac à dos est parfait, je recommande.",positif,4
+R0083,"Très décevant et lent, je vais le renvoyer.",négatif,2
+R0084,"Vraiment de bonne qualité et agréable, très content de mon achat.",positif,5
+R0085,Livraison rapide et chargeur parfait.,positif,4
+R0086,"Vraiment solide et excellent, très content de mon achat.",positif,5
+R0087,"Ce livre est excellent, je recommande.",positif,4
+R0088,"Pas mal du tout, excellent pour le prix.",positif,5
+R0089,"Ce clavier est agréable, je recommande.",positif,5
+R0090,"Je l'utilise tous les jours, très pratique et solide.",positif,4
+R0091,"Produit trop cher, service client injoignable.",négatif,1
+R0092,"Pas du tout inutilisable, au contraire il est rapide.",positif,4
+R0093,Au bout d'une semaine il était fragile. Dommage.,négatif,2
+R0094,"Ce clavier est efficace, je recommande.",positif,5
+R0095,"Pas mal du tout, de bonne qualité pour le prix.",positif,5
+R0096,"Très trop cher et décevant, je vais le renvoyer.",négatif,1
+R0097,"Ce téléphone est efficace, je recommande.",positif,4
+R0098,"Ce clavier est agréable, je recommande.",positif,4
+R0099,"Ce clavier est de bonne qualité, je recommande.",positif,5
+R0100,Au bout d'une semaine il était trop cher. Dommage.,négatif,2
+R0101,"Pas mal du tout, très pratique pour le prix.",positif,5
+R0102,"Je l'utilise tous les jours, agréable et excellent.",positif,4
+R0103,"Ce casque est bruyant, je ne recommande pas.",négatif,1
+R0104,"Très inutilisable et de mauvaise qualité, je vais le renvoyer.",négatif,2
+R0105,"Très de mauvaise qualité et bruyant, je vais le renvoyer.",négatif,1
+R0106,"Pas du tout lent, au contraire il est excellent.",positif,5
+R0107,"Pas du tout décevant, au contraire il est agréable.",positif,4
+R0108,"Très de mauvaise qualité et lent, je vais le renvoyer.",négatif,2
+R0109,"Chargeur bruyant, remboursement demandé.",négatif,2
+R0110,"Ce grille-pain est cassé, je ne recommande pas.",négatif,2
+R0111,"Pas du tout cassé, au contraire il est rapide.",positif,4
+R0112,"Produit cassé, service client injoignable.",négatif,2
+R0113,"Ce livre est trop cher, je ne recommande pas.",négatif,1
+R0114,"Clavier décevant, remboursement demandé.",négatif,1
+R0115,"Je l'utilise tous les jours, efficace et très pratique.",positif,5
+R0116,"Vraiment parfait et agréable, très content de mon achat.",positif,5
+R0117,"Pas du tout bruyant, au contraire il est efficace.",positif,5
+R0118,"Produit inutilisable, service client injoignable.",négatif,2
+R0119,"Ce livre est cassé, je ne recommande pas.",négatif,2
+R0120,Au bout d'une semaine il était fragile. Dommage.,négatif,1
+R0121,"Très inutilisable et décevant, je vais le renvoyer.",négatif,1
+R0122,"Pas du tout lent, au contraire il est parfait.",positif,5
+R0123,"Ce livre est agréable, je recommande.",positif,4
+R0124,"Vraiment parfait et rapide, très content de mon achat.",positif,5
+R0125,"Vraiment agréable et rapide, très content de mon achat.",positif,5
+R0126,"Ce chargeur est inutilisable, je ne recommande pas.",négatif,1
+R0127,"Pas mal du tout, très pratique pour le prix.",positif,4
+R0128,"Vraiment de bonne qualité et solide, très content de mon achat.",positif,5
+R0129,"Pas très pratique du tout, plutôt fragile.",négatif,1
+R0130,"Très fragile et cassé, je vais le renvoyer.",négatif,1
+R0131,Au bout d'une semaine il était bruyant. Dommage.,négatif,2
+R0132,"Je l'utilise tous les jours, agréable et parfait.",positif,4
+R0133,"Vraiment parfait et excellent, très content de mon achat.",positif,4
+R0134,Livraison rapide et chargeur solide.,positif,4
+R0135,"Pas mal du tout, de bonne qualité pour le prix.",positif,4
+R0136,"Clavier décevant, remboursement demandé.",négatif,1
+R0137,"Pas mal du tout, rapide pour le prix.",positif,4
+R0138,"Très bruyant et cassé, je vais le renvoyer.",négatif,2
+R0139,"Ce téléphone est parfait, je recommande.",positif,5
+R0140,"Produit bruyant, service client injoignable.",négatif,2
+R0141,"Je l'utilise tous les jours, rapide et agréable.",positif,4
+R0142,"Je l'utilise tous les jours, excellent et agréable.",positif,5
+R0143,"Pas très pratique du tout, plutôt cassé.",négatif,2
+R0144,"Très décevant et cassé, je vais le renvoyer.",négatif,1
+R0145,"Vraiment rapide et très pratique, très content de mon achat.",positif,4
+R0146,"Produit inutilisable, service client injoignable.",négatif,1
+R0147,"Ce casque est solide, je recommande.",positif,5
+R0148,"Casque inutilisable, remboursement demandé.",négatif,2
+R0149,"Pas mal du tout, rapide pour le prix.",positif,4
+R0150,"Pas du tout inutilisable, au contraire il est de bonne qualité.",positif,4
+R0151,Au bout d'une semaine il était inutilisable. Dommage.,négatif,1
+R0152,"Ce casque est inutilisable, je ne recommande pas.",négatif,2
+R0153,"Sac à dos lent, remboursement demandé.",négatif,2
+R0154,"Ce clavier est très pratique, je recommande.",positif,4
+R0155,"Vraiment de bonne qualité et excellent, très content de mon achat.",positif,4
+R0156,"Je l'utilise tous les jours, excellent et parfait.",positif,5
+R0157,Livraison rapide et livre parfait.,positif,5
+R0158,"Ce sac à dos est de mauvaise qualité, je ne recommande pas.",négatif,2
+R0159,"Très bruyant et cassé, je vais le renvoyer.",négatif,1
+R0160,"Pas mal du tout, agréable pour le prix.",positif,5
+R0161,"Pas du tout fragile, au contraire il est parfait.",positif,5
+R0162,"Pas efficace du tout, plutôt inutilisable.",négatif,1
+R0163,Livraison rapide et grille-pain rapide.,positif,4
+R0164,"Produit lent, service client injoignable.",négatif,1
+R0165,"Produit lent, service client injoignable.",négatif,2
+R0166,"Je l'utilise tous les jours, efficace et très pratique.",positif,4
+R0167,"Je l'utilise tous les jours, agréable et de bonne qualité.",positif,5
+R0168,"Très lent et inutilisable, je vais le renvoyer.",négatif,2
+R0169,"Ce chargeur est cassé, je ne recommande pas.",négatif,2
+R0170,"Pas mal du tout, de bonne qualité pour le prix.",positif,4
+R0171,"Très lent et fragile, je vais le renvoyer.",négatif,1
+R0172,"Vraiment très pratique et parfait, très content de mon achat.",positif,5
+R0173,"Ce téléphone est bruyant, je ne recommande pas.",négatif,1
+R0174,Livraison rapide et sac à dos parfait.,positif,5
+R0175,"Vraiment de bonne qualité et parfait, très content de mon achat.",positif,4
+R0176,Livraison rapide et micro-ondes efficace.,positif,5
+R0177,"Pas de bonne qualité du tout, plutôt décevant.",négatif,2
+R0178,"Ce micro-ondes est efficace, je recommande.",positif,4
+R0179,"Très cassé et inutilisable, je vais le renvoyer.",négatif,2
+R0180,"Je l'utilise tous les jours, agréable et excellent.",positif,4
+R0181,"Pas du tout trop cher, au contraire il est de bonne qualité.",positif,5
+R0182,Livraison rapide et grille-pain de bonne qualité.,positif,5
+R0183,"Ce clavier est très pratique, je recommande.",positif,4
+R0184,Au bout d'une semaine il était fragile. Dommage.,négatif,2
+R0185,"Ce sac à dos est cassé, je ne recommande pas.",négatif,1
+R0186,"Très fragile et trop cher, je vais le renvoyer.",négatif,2
+R0187,"Pas du tout fragile, au contraire il est solide.",positif,4
+R0188,"Vraiment de bonne qualité et excellent, très content de mon achat.",positif,4
+R0189,"Ce casque est agréable, je recommande.",positif,5
+R0190,"Très cassé et trop cher, je vais le renvoyer.",négatif,2
+R0191,"Ce sac à dos est fragile, je ne recommande pas.",négatif,2
+R0192,"Je l'utilise tous les jours, rapide et excellent.",positif,5
+R0193,Au bout d'une semaine il était décevant. Dommage.,négatif,1
+R0194,"Très décevant et fragile, je vais le renvoyer.",négatif,2
+R0195,"Téléphone de mauvaise qualité, remboursement demandé.",négatif,1
+R0196,"Pas mal du tout, parfait pour le prix.",positif,4
+R0197,"Ce livre est efficace, je recommande.",positif,4
+R0198,"Très cassé et de mauvaise qualité, je vais le renvoyer.",négatif,1
+R0199,"Très lent et de mauvaise qualité, je vais le renvoyer.",négatif,1
+R0200,Livraison rapide et sac à dos parfait.,positif,4
+R0201,"Ce casque est trop cher, je ne recommande pas.",négatif,1
+R0202,Livraison rapide et casque excellent.,positif,5
+R0203,"Ce grille-pain est inutilisable, je ne recommande pas.",négatif,1
+R0204,"Pas mal du tout, excellent pour le prix.",positif,5
+R0205,Au bout d'une semaine il était de mauvaise qualité. Dommage.,négatif,2
+R0206,"Chargeur lent, remboursement demandé.",négatif,2
+R0207,"Ce téléphone est décevant, je ne recommande pas.",négatif,1
+R0208,"Pas parfait du tout, plutôt bruyant.",négatif,2
+R0209,Livraison rapide et grille-pain rapide.,positif,5
+R0210,"Pas mal du tout, excellent pour le prix.",positif,5
+R0211,"Chargeur inutilisable, remboursement demandé.",négatif,1
+R0212,"Livre de mauvaise qualité, remboursement demandé.",négatif,1
+R0213,Au bout d'une semaine il était bruyant. Dommage.,négatif,2
+R0214,Au bout d'une semaine il était cassé. Dommage.,négatif,1
+R0215,"Vraiment de bonne qualité et agréable, très content de mon achat.",positif,4
+R0216,"Grille-pain décevant, remboursement demandé.",négatif,2
+R0217,Livraison rapide et chargeur agréable.,positif,5
+R0218,"Je l'utilise tous les jours, très pratique et solide.",positif,5
+R0219,"Je l'utilise tous les jours, agréable et efficace.",positif,4
+R0220,"Ce grille-pain est très pratique, je recommande.",positif,5
+R0221,"Très de mauvaise qualité et cassé, je vais le renvoyer.",négatif,1
+R0222,"Pas efficace du tout, plutôt de mauvaise qualité.",négatif,1
+R0223,"Très fragile et inutilisable, je vais le renvoyer.",négatif,2
+R0224,Livraison rapide et grille-pain parfait.,positif,5
+R0225,Au bout d'une semaine il était lent. Dommage.,négatif,2
+R0226,"Produit bruyant, service client injoignable.",négatif,1
+R0227,Au bout d'une semaine il était bruyant. Dommage.,négatif,2
+R0228,"Téléphone inutilisable, remboursement demandé.",négatif,1
+R0229,Livraison rapide et micro-ondes très pratique.,positif,4
+R0230,"Pas du tout fragile, au contraire il est efficace.",positif,5
+R0231,"Très décevant et bruyant, je vais le renvoyer.",négatif,2
+R0232,"Pas du tout de mauvaise qualité, au contraire il est excellent.",positif,5
+R0233,"Micro-ondes fragile, remboursement demandé.",négatif,1
+R0234,Livraison rapide et clavier excellent.,positif,5
+R0235,"Je l'utilise tous les jours, excellent et solide.",positif,5
+R0236,Livraison rapide et grille-pain excellent.,positif,5
+R0237,"Très de mauvaise qualité et bruyant, je vais le renvoyer.",négatif,1
+R0238,"Clavier bruyant, remboursement demandé.",négatif,2
+R0239,"Ce micro-ondes est agréable, je recommande.",positif,4
+R0240,"Ce clavier est cassé, je ne recommande pas.",négatif,1
+R0241,"Ce livre est lent, je ne recommande pas.",négatif,1
+R0242,"Produit inutilisable, service client injoignable.",négatif,1
+R0243,"Casque de mauvaise qualité, remboursement demandé.",négatif,2
+R0244,"Grille-pain trop cher, remboursement demandé.",négatif,1
+R0245,"Vraiment rapide et excellent, très content de mon achat.",positif,4
+R0246,"Ce livre est parfait, je recommande.",positif,5
+R0247,"Je l'utilise tous les jours, rapide et solide.",positif,4
+R0248,"Vraiment très pratique et de bonne qualité, très content de mon achat.",positif,5
+R0249,"Je l'utilise tous les jours, parfait et efficace.",positif,5
+R0250,"Ce clavier est agréable, je recommande.",positif,5
+R0251,"Vraiment efficace et parfait, très content de mon achat.",positif,5
+R0252,"Pas mal du tout, de bonne qualité pour le prix.",positif,4
+R0253,Livraison rapide et casque parfait.,positif,5
+R0254,"Produit bruyant, service client injoignable.",négatif,2
+R0255,"Ce livre est solide, je recommande.",positif,5
+R0256,Au bout d'une semaine il était inutilisable. Dommage.,négatif,2
+R0257,"Je l'utilise tous les jours, de bonne qualité et excellent.",positif,5
+R0258,"Vraiment de bonne qualité et agréable, très content de mon achat.",positif,5
+R0259,"Très décevant et cassé, je vais le renvoyer.",négatif,2
+R0260,"Pas mal du tout, parfait pour le prix.",positif,5
+R0261,"Vraiment agréable et excellent, très content de mon achat.",positif,4
+R0262,"Ce micro-ondes est solide, je recommande.",positif,4
+R0263,"Je l'utilise tous les jours, de bonne qualité et parfait.",positif,5
+R0264,"Je l'utilise tous les jours, solide et rapide.",positif,5
+R0265,"Ce livre est agréable, je recommande.",positif,4
+R0266,Au bout d'une semaine il était trop cher. Dommage.,négatif,2
+R0267,"Vraiment excellent et agréable, très content de mon achat.",positif,5
+R0268,"Pas mal du tout, agréable pour le prix.",positif,4
+R0269,"Pas excellent du tout, plutôt inutilisable.",négatif,2
+R0270,"Pas excellent du tout, plutôt trop cher.",négatif,2
+R0271,"Pas du tout décevant, au contraire il est excellent.",positif,5
+R0272,"Pas du tout inutilisable, au contraire il est très pratique.",positif,4
+R0273,Au bout d'une semaine il était fragile. Dommage.,négatif,2
+R0274,"Pas mal du tout, parfait pour le prix.",positif,5
+R0275,Au bout d'une semaine il était trop cher. Dommage.,négatif,1
+R0276,Livraison rapide et sac à dos agréable.,positif,5
+R0277,"Pas du tout trop cher, au contraire il est de bonne qualité.",positif,5
+R0278,"Ce chargeur est très pratique, je recommande.",positif,5
+R0279,"Pas du tout inutilisable, au contraire il est excellent.",positif,5
+R0280,Livraison rapide et chargeur très pratique.,positif,5
+R0281,"Pas du tout bruyant, au contraire il est solide.",positif,5
+R0282,"Vraiment agréable et parfait, très content de mon achat.",positif,5
+R0283,"Pas efficace du tout, plutôt de mauvaise qualité.",négatif,2
+R0284,"Sac à dos de mauvaise qualité, remboursement demandé.",négatif,1
+R0285,Livraison rapide et grille-pain parfait.,positif,5
+R0286,"Ce chargeur est agréable, je recommande.",positif,5
+R0287,"Très cassé et décevant, je vais le renvoyer.",négatif,2
+R0288,Au bout d'une semaine il était fragile. Dommage.,négatif,2
+R0289,"Très trop cher et lent, je vais le renvoyer.",négatif,2
+R0290,"Produit de mauvaise qualité, service client injoignable.",négatif,2
+R0291,"Pas rapide du tout, plutôt lent.",négatif,2
+R0292,"Pas mal du tout, agréable pour le prix.",positif,5
+R0293,"Ce grille-pain est rapide, je recommande.",positif,5
+R0294,"Pas mal du tout, de bonne qualité pour le prix.",positif,4
+R0295,Au bout d'une semaine il était cassé. Dommage.,négatif,1
+R0296,Au bout d'une semaine il était cassé. Dommage.,négatif,1
+R0297,"Je l'utilise tous les jours, parfait et excellent.",positif,4
+R0298,"Ce casque est parfait, je recommande.",positif,5
+R0299,Livraison rapide et grille-pain rapide.,positif,5
+R0300,"Très lent et de mauvaise qualité, je vais le renvoyer.",négatif,1
+R0301,"Je l'utilise tous les jours, efficace et rapide.",positif,5
+R0302,"Pas du tout fragile, au contraire il est excellent.",positif,5
+R0303,Au bout d'une semaine il était décevant. Dommage.,négatif,2
+R0304,"Vraiment agréable et solide, très content de mon achat.",positif,5
+R0305,"Ce livre est rapide, je recommande.",positif,4
+R0306,"Produit trop cher, service client injoignable.",négatif,1
+R0307,"Pas solide du tout, plutôt fragile.",négatif,1
+R0308,"Ce téléphone est efficace, je recommande.",positif,4
+R0309,"Vraiment excellent et parfait, très content de mon achat.",positif,5
+R0310,Livraison rapide et casque parfait.,positif,4
+R0311,"Pas mal du tout, rapide pour le prix.",positif,5
+R0312,Au bout d'une semaine il était bruyant. Dommage.,négatif,1
+R0313,"Ce grille-pain est de mauvaise qualité, je ne recommande pas.",négatif,1
+R0314,"Produit de mauvaise qualité, service client injoignable.",négatif,1
+R0315,"Pas efficace du tout, plutôt inutilisable.",négatif,2
+R0316,"Ce clavier est de mauvaise qualité, je ne recommande pas.",négatif,2
+R0317,"Je l'utilise tous les jours, excellent et très pratique.",positif,5
+R0318,"Pas mal du tout, efficace pour le prix.",positif,5
+R0319,"Sac à dos inutilisable, remboursement demandé.",négatif,2
+R0320,"Très de mauvaise qualité et cassé, je vais le renvoyer.",négatif,1
+R0321,"Vraiment efficace et solide, très content de mon achat.",positif,5
+R0322,"Pas du tout décevant, au contraire il est de bonne qualité.",positif,5
+R0323,"Très lent et inutilisable, je vais le renvoyer.",négatif,1
+R0324,"Produit décevant, service client injoignable.",négatif,1
+R0325,Livraison rapide et livre solide.,positif,4
+R0326,"Pas du tout de mauvaise qualité, au contraire il est efficace.",positif,5
+R0327,"Grille-pain bruyant, remboursement demandé.",négatif,2
+R0328,Au bout d'une semaine il était bruyant. Dommage.,négatif,2
+R0329,"Vraiment de bonne qualité et agréable, très content de mon achat.",positif,4
+R0330,"Produit bruyant, service client injoignable.",négatif,1
+R0331,"Ce sac à dos est trop cher, je ne recommande pas.",négatif,2
+R0332,"Produit décevant, service client injoignable.",négatif,1
+R0333,"Ce livre est de bonne qualité, je recommande.",positif,5
+R0334,"Produit inutilisable, service client injoignable.",négatif,1
+R0335,"Je l'utilise tous les jours, de bonne qualité et agréable.",positif,4
+R0336,Livraison rapide et sac à dos de bonne qualité.,positif,5
+R0337,"Pas efficace du tout, plutôt décevant.",négatif,2
+R0338,"Produit bruyant, service client injoignable.",négatif,1
+R0339,Livraison rapide et téléphone rapide.,positif,5
+R0340,Livraison rapide et livre très pratique.,positif,4
+R0341,"Pas mal du tout, agréable pour le prix.",positif,4
+R0342,"Livre fragile, remboursement demandé.",négatif,1
+R0343,Au bout d'une semaine il était fragile. Dommage.,négatif,1
+R0344,"Pas efficace du tout, plutôt trop cher.",négatif,1
+R0345,Livraison rapide et micro-ondes agréable.,positif,5
+R0346,"Ce micro-ondes est excellent, je recommande.",positif,5
+R0347,"Pas du tout bruyant, au contraire il est parfait.",positif,5
+R0348,"Pas agréable du tout, plutôt inutilisable.",négatif,2
+R0349,"Chargeur inutilisable, remboursement demandé.",négatif,1
+R0350,"Micro-ondes bruyant, remboursement demandé.",négatif,1
+R0351,"Produit fragile, service client injoignable.",négatif,2
+R0352,"Ce chargeur est de bonne qualité, je recommande.",positif,5
+R0353,"Vraiment agréable et très pratique, très content de mon achat.",positif,4
+R0354,"Vraiment excellent et parfait, très content de mon achat.",positif,4
+R0355,Livraison rapide et casque agréable.,positif,4
+R0356,"Pas mal du tout, parfait pour le prix.",positif,5
+R0357,"Ce grille-pain est inutilisable, je ne recommande pas.",négatif,2
+R0358,"Produit trop cher, service client injoignable.",négatif,1
+R0359,"Je l'utilise tous les jours, agréable et solide.",positif,5
+R0360,"Pas du tout de mauvaise qualité, au contraire il est de bonne qualité.",positif,5
+R0361,Livraison rapide et sac à dos agréable.,positif,4
+R0362,"Produit lent, service client injoignable.",négatif,2
+R0363,"Ce grille-pain est bruyant, je ne recommande pas.",négatif,2
+R0364,"Très bruyant et fragile, je vais le renvoyer.",négatif,2
+R0365,"Chargeur fragile, remboursement demandé.",négatif,1
+R0366,Au bout d'une semaine il était fragile. Dommage.,négatif,2
+R0367,"Je l'utilise tous les jours, solide et efficace.",positif,4
+R0368,Livraison rapide et sac à dos parfait.,positif,4
+R0369,"Pas du tout cassé, au contraire il est très pratique.",positif,5
+R0370,"Sac à dos décevant, remboursement demandé.",négatif,1
+R0371,"Ce chargeur est très pratique, je recommande.",positif,5
+R0372,Livraison rapide et micro-ondes efficace.,positif,4
+R0373,Au bout d'une semaine il était cassé. Dommage.,négatif,1
+R0374,"Pas du tout bruyant, au contraire il est rapide.",positif,5
+R0375,"Téléphone lent, remboursement demandé.",négatif,2
+R0376,Au bout d'une semaine il était lent. Dommage.,négatif,2
+R0377,"Pas du tout fragile, au contraire il est solide.",positif,5
+R0378,"Très décevant et de mauvaise qualité, je vais le renvoyer.",négatif,1
+R0379,Livraison rapide et micro-ondes efficace.,positif,4
+R0380,"Micro-ondes fragile, remboursement demandé.",négatif,2
+R0381,"Je l'utilise tous les jours, efficace et de bonne qualité.",positif,5
+R0382,Livraison rapide et sac à dos efficace.,positif,5
+R0383,Livraison rapide et chargeur de bonne qualité.,positif,4
+R0384,"Pas mal du tout, très pratique pour le prix.",positif,4
+R0385,"Pas solide du tout, plutôt inutilisable.",négatif,1
+R0386,"Pas du tout lent, au contraire il est excellent.",positif,4
+R0387,"Je l'utilise tous les jours, agréable et solide.",positif,5
+R0388,"Très de mauvaise qualité et bruyant, je vais le renvoyer.",négatif,1
+R0389,"Pas du tout de mauvaise qualité, au contraire il est excellent.",positif,5
+R0390,"Très de mauvaise qualité et trop cher, je vais le renvoyer.",négatif,2
+R0391,"Vraiment agréable et très pratique, très content de mon achat.",positif,4
+R0392,"Ce micro-ondes est de bonne qualité, je recommande.",positif,5
+R0393,"Je l'utilise tous les jours, agréable et très pratique.",positif,5
+R0394,"Pas agréable du tout, plutôt décevant.",négatif,1
+R0395,Livraison rapide et chargeur agréable.,positif,5
+R0396,"Je l'utilise tous les jours, agréable et efficace.",positif,4
+R0397,Au bout d'une semaine il était lent. Dommage.,négatif,1
+R0398,"Très inutilisable et bruyant, je vais le renvoyer.",négatif,1
+R0399,"Sac à dos décevant, remboursement demandé.",négatif,1
+R0400,"Très cassé et trop cher, je vais le renvoyer.",négatif,2
+R0401,"Ce sac à dos est trop cher, je ne recommande pas.",négatif,1
+R0402,"Produit fragile, service client injoignable.",négatif,1
+R0403,Livraison rapide et micro-ondes de bonne qualité.,positif,5
+R0404,"Très décevant et de mauvaise qualité, je vais le renvoyer.",négatif,2
+R0405,Livraison rapide et sac à dos solide.,positif,4
+R0406,"Pas du tout lent, au contraire il est solide.",positif,4
+R0407,"Ce livre est lent, je ne recommande pas.",négatif,2
+R0408,"Produit de mauvaise qualité, service client injoignable.",négatif,1
+R0409,"Pas du tout bruyant, au contraire il est rapide.",positif,5
+R0410,"Très lent et décevant, je vais le renvoyer.",négatif,2
+R0411,"Ce clavier est de mauvaise qualité, je ne recommande pas.",négatif,1
+R0412,Au bout d'une semaine il était bruyant. Dommage.,négatif,1
+R0413,"Pas du tout décevant, au contraire il est très pratique.",positif,4
+R0414,"Pas du tout décevant, au contraire il est de bonne qualité.",positif,5
+R0415,"Pas du tout inutilisable, au contraire il est agréable.",positif,5
+R0416,"Produit décevant, service client injoignable.",négatif,1
+R0417,"Ce casque est solide, je recommande.",positif,5
+R0418,"Très lent et trop cher, je vais le renvoyer.",négatif,1
+R0419,"Je l'utilise tous les jours, très pratique et efficace.",positif,5
+R0420,Livraison rapide et sac à dos excellent.,positif,5
+R0421,"Vraiment excellent et agréable, très content de mon achat.",positif,4
+R0422,"Ce chargeur est solide, je recommande.",positif,5
+R0423,"Pas du tout décevant, au contraire il est rapide.",positif,5
+R0424,"Très inutilisable et cassé, je vais le renvoyer.",négatif,1
+R0425,"Produit cassé, service client injoignable.",négatif,1
+R0426,"Pas du tout de mauvaise qualité, au contraire il est de bonne qualité.",positif,5
+R0427,Au bout d'une semaine il était de mauvaise qualité. Dommage.,négatif,2
+R0428,"Grille-pain décevant, remboursement demandé.",négatif,1
+R0429,Livraison rapide et chargeur parfait.,positif,4
+R0430,"Vraiment agréable et très pratique, très content de mon achat.",positif,5
+R0431,"Vraiment parfait et efficace, très content de mon achat.",positif,4
+R0432,"Très bruyant et lent, je vais le renvoyer.",négatif,1
+R0433,Livraison rapide et micro-ondes efficace.,positif,4
+R0434,"Vraiment agréable et très pratique, très content de mon achat.",positif,5
+R0435,"Très décevant et cassé, je vais le renvoyer.",négatif,2
+R0436,"Ce micro-ondes est décevant, je ne recommande pas.",négatif,1
+R0437,Livraison rapide et casque agréable.,positif,4
+R0438,"Produit lent, service client injoignable.",négatif,2
+R0439,"Ce sac à dos est décevant, je ne recommande pas.",négatif,1
+R0440,"Je l'utilise tous les jours, de bonne qualité et rapide.",positif,5
+R0441,"Je l'utilise tous les jours, agréable et excellent.",positif,5
+R0442,Livraison rapide et sac à dos parfait.,positif,5
+R0443,"Je l'utilise tous les jours, solide et parfait.",positif,5
+R0444,"Je l'utilise tous les jours, très pratique et efficace.",positif,4
+R0445,Livraison rapide et micro-ondes rapide.,positif,5
+R0446,Au bout d'une semaine il était bruyant. Dommage.,négatif,1
+R0447,"Ce livre est de bonne qualité, je recommande.",positif,4
+R0448,Livraison rapide et téléphone très pratique.,positif,4
+R0449,"Sac à dos cassé, remboursement demandé.",négatif,2
+R0450,"Produit inutilisable, service client injoignable.",négatif,2
+R0451,Au bout d'une semaine il était décevant. Dommage.,négatif,2
+R0452,"Ce sac à dos est fragile, je ne recommande pas.",négatif,1
+R0453,"Très cassé et inutilisable, je vais le renvoyer.",négatif,1
+R0454,"Pas mal du tout, agréable pour le prix.",positif,5
+R0455,"Vraiment parfait et efficace, très content de mon achat.",positif,4
+R0456,"Ce livre est excellent, je recommande.",positif,5
+R0457,Au bout d'une semaine il était lent. Dommage.,négatif,2
+R0458,"Vraiment très pratique et solide, très content de mon achat.",positif,5
+R0459,"Pas mal du tout, rapide pour le prix.",positif,5
+R0460,Au bout d'une semaine il était inutilisable. Dommage.,négatif,2
+R0461,Au bout d'une semaine il était lent. Dommage.,négatif,1
+R0462,"Pas mal du tout, de bonne qualité pour le prix.",positif,5
+R0463,"Pas du tout décevant, au contraire il est très pratique.",positif,4
+R0464,Livraison rapide et livre très pratique.,positif,4
+R0465,"Pas mal du tout, de bonne qualité pour le prix.",positif,5
+R0466,"Pas de bonne qualité du tout, plutôt cassé.",négatif,1
+R0467,"Pas efficace du tout, plutôt trop cher.",négatif,2
+R0468,Livraison rapide et grille-pain excellent.,positif,5
+R0469,"Micro-ondes de mauvaise qualité, remboursement demandé.",négatif,2
+R0470,"Sac à dos bruyant, remboursement demandé.",négatif,2
+R0471,Livraison rapide et chargeur agréable.,positif,4
+R0472,"Ce sac à dos est très pratique, je recommande.",positif,5
+R0473,"Pas mal du tout, agréable pour le prix.",positif,5
+R0474,"Pas du tout de mauvaise qualité, au contraire il est parfait.",positif,4
+R0475,Au bout d'une semaine il était de mauvaise qualité. Dommage.,négatif,1
+R0476,"Grille-pain décevant, remboursement demandé.",négatif,2
+R0477,"Très lent et inutilisable, je vais le renvoyer.",négatif,1
+R0478,"Vraiment efficace et agréable, très content de mon achat.",positif,4
+R0479,"Produit fragile, service client injoignable.",négatif,2
+R0480,"Pas mal du tout, excellent pour le prix.",positif,5
+R0481,"Je l'utilise tous les jours, solide et agréable.",positif,4
+R0482,"Très trop cher et fragile, je vais le renvoyer.",négatif,2
+R0483,"Très décevant et fragile, je vais le renvoyer.",négatif,1
+R0484,Au bout d'une semaine il était décevant. Dommage.,négatif,2
+R0485,"Produit lent, service client injoignable.",négatif,1
+R0486,"Casque cassé, remboursement demandé.",négatif,1
+R0487,"Pas mal du tout, rapide pour le prix.",positif,4
+R0488,"Très trop cher et lent, je vais le renvoyer.",négatif,1
+R0489,"Pas du tout bruyant, au contraire il est efficace.",positif,5
+R0490,"Vraiment parfait et rapide, très content de mon achat.",positif,4
+R0491,Au bout d'une semaine il était bruyant. Dommage.,négatif,2
+R0492,"Pas parfait du tout, plutôt inutilisable.",négatif,2
+R0493,"Chargeur de mauvaise qualité, remboursement demandé.",négatif,1
+R0494,"Sac à dos bruyant, remboursement demandé.",négatif,2
+R0495,"Pas mal du tout, solide pour le prix.",positif,4
+R0496,"Pas mal du tout, solide pour le prix.",positif,4
+R0497,"Pas mal du tout, agréable pour le prix.",positif,4
+R0498,Livraison rapide et casque de bonne qualité.,positif,5
+R0499,"Je l'utilise tous les jours, efficace et solide.",positif,4
+R0500,"Pas très pratique du tout, plutôt fragile.",négatif,2
+R0501,"Livre décevant, remboursement demandé.",négatif,1
+R0502,Livraison rapide et grille-pain excellent.,positif,5
+R0503,"Très inutilisable et trop cher, je vais le renvoyer.",négatif,1
+R0504,"Pas rapide du tout, plutôt bruyant.",négatif,2
+R0505,Livraison rapide et livre parfait.,positif,5
+R0506,"Pas du tout lent, au contraire il est excellent.",positif,5
+R0507,"Très décevant et bruyant, je vais le renvoyer.",négatif,2
+R0508,"Pas du tout lent, au contraire il est excellent.",positif,5
+R0509,"Je l'utilise tous les jours, rapide et efficace.",positif,5
+R0510,"Je l'utilise tous les jours, parfait et efficace.",positif,5
+R0511,"Je l'utilise tous les jours, agréable et de bonne qualité.",positif,5
+R0512,"Pas solide du tout, plutôt cassé.",négatif,2
+R0513,"Ce téléphone est excellent, je recommande.",positif,4
+R0514,"Très de mauvaise qualité et bruyant, je vais le renvoyer.",négatif,2
+R0515,"Micro-ondes trop cher, remboursement demandé.",négatif,1
+R0516,"Produit lent, service client injoignable.",négatif,2
+R0517,"Téléphone bruyant, remboursement demandé.",négatif,2
+R0518,"Je l'utilise tous les jours, efficace et agréable.",positif,5
+R0519,"Je l'utilise tous les jours, efficace et de bonne qualité.",positif,4
+R0520,"Ce téléphone est fragile, je ne recommande pas.",négatif,2
+R0521,Livraison rapide et livre très pratique.,positif,4
+R0522,"Ce clavier est agréable, je recommande.",positif,4
+R0523,"Pas mal du tout, excellent pour le prix.",positif,5
+R0524,"Ce téléphone est fragile, je ne recommande pas.",négatif,1
+R0525,"Très cassé et lent, je vais le renvoyer.",négatif,2
+R0526,"Produit fragile, service client injoignable.",négatif,2
+R0527,"Pas du tout inutilisable, au contraire il est efficace.",positif,5
+R0528,"Pas rapide du tout, plutôt bruyant.",négatif,1
+R0529,"Je l'utilise tous les jours, rapide et parfait.",positif,5
+R0530,"Pas solide du tout, plutôt cassé.",négatif,1
+R0531,"Produit cassé, service client injoignable.",négatif,2
+R0532,"Ce sac à dos est trop cher, je ne recommande pas.",négatif,1
+R0533,"Pas mal du tout, très pratique pour le prix.",positif,4
+R0534,"Vraiment de bonne qualité et efficace, très content de mon achat.",positif,5
+R0535,"Pas du tout lent, au contraire il est rapide.",positif,4
+R0536,Au bout d'une semaine il était de mauvaise qualité. Dommage.,négatif,2
+R0537,"Clavier décevant, remboursement demandé.",négatif,1
+R0538,"Je l'utilise tous les jours, solide et parfait.",positif,4
+R0539,Au bout d'une semaine il était bruyant. Dommage.,négatif,1
+R0540,"Pas excellent du tout, plutôt bruyant.",négatif,1
+R0541,"Pas parfait du tout, plutôt trop cher.",négatif,2
+R0542,"Vraiment rapide et efficace, très content de mon achat.",positif,4
+R0543,"Pas mal du tout, de bonne qualité pour le prix.",positif,4
+R0544,"Pas du tout cassé, au contraire il est excellent.",positif,4
+R0545,"Produit trop cher, service client injoignable.",négatif,2
+R0546,Au bout d'une semaine il était bruyant. Dommage.,négatif,2
+R0547,Livraison rapide et micro-ondes excellent.,positif,5
+R0548,"Pas du tout cassé, au contraire il est efficace.",positif,5
+R0549,"Ce sac à dos est efficace, je recommande.",positif,4
+R0550,"Ce téléphone est inutilisable, je ne recommande pas.",négatif,1
+R0551,"Téléphone fragile, remboursement demandé.",négatif,2
+R0552,"Pas très pratique du tout, plutôt cassé.",négatif,2
+R0553,"Produit lent, service client injoignable.",négatif,1
+R0554,"Je l'utilise tous les jours, de bonne qualité et agréable.",positif,4
+R0555,"Pas du tout inutilisable, au contraire il est excellent.",positif,4
+R0556,"Ce micro-ondes est très pratique, je recommande.",positif,5
+R0557,"Je l'utilise tous les jours, parfait et agréable.",positif,5
+R0558,"Très trop cher et décevant, je vais le renvoyer.",négatif,2
+R0559,"Vraiment rapide et agréable, très content de mon achat.",positif,5
+R0560,"Vraiment excellent et agréable, très content de mon achat.",positif,5
+R0561,"Je l'utilise tous les jours, efficace et parfait.",positif,5
+R0562,"Casque décevant, remboursement demandé.",négatif,2
+R0563,Au bout d'une semaine il était fragile. Dommage.,négatif,2
+R0564,"Pas mal du tout, efficace pour le prix.",positif,4
+R0565,"Très fragile et décevant, je vais le renvoyer.",négatif,2
+R0566,"Pas mal du tout, solide pour le prix.",positif,5
+R0567,"Pas du tout fragile, au contraire il est excellent.",positif,5
+R0568,"Pas mal du tout, parfait pour le prix.",positif,5
+R0569,"Pas du tout bruyant, au contraire il est solide.",positif,5
+R0570,"Pas mal du tout, excellent pour le prix.",positif,5
+R0571,Au bout d'une semaine il était de mauvaise qualité. Dommage.,négatif,2
+R0572,Livraison rapide et casque solide.,positif,4
+R0573,"Je l'utilise tous les jours, efficace et parfait.",positif,5
+R0574,"Vraiment de bonne qualité et excellent, très content de mon achat.",positif,5
+R0575,"Pas du tout cassé, au contraire il est parfait.",positif,5
+R0576,"Je l'utilise tous les jours, de bonne qualité et parfait.",positif,5
+R0577,"Livre décevant, remboursement demandé.",négatif,1
+R0578,"Ce casque est très pratique, je recommande.",positif,5
+R0579,"Très décevant et bruyant, je vais le renvoyer.",négatif,2
+R0580,"Pas mal du tout, parfait pour le prix.",positif,4
+R0581,"Vraiment de bonne qualité et très pratique, très content de mon achat.",positif,4
+R0582,"Pas du tout bruyant, au contraire il est rapide.",positif,5
+R0583,"Ce clavier est agréable, je recommande.",positif,4
+R0584,Livraison rapide et livre très pratique.,positif,5
+R0585,Au bout d'une semaine il était lent. Dommage.,négatif,2
+R0586,"Ce livre est de bonne qualité, je recommande.",positif,5
+R0587,"Produit inutilisable, service client injoignable.",négatif,1
+R0588,"Pas du tout fragile, au contraire il est très pratique.",positif,4
+R0589,"Pas très pratique du tout, plutôt cassé.",négatif,1
+R0590,"Produit de mauvaise qualité, service client injoignable.",négatif,1
+R0591,Au bout d'une semaine il était cassé. Dommage.,négatif,1
+R0592,Au bout d'une semaine il était bruyant. Dommage.,négatif,1
+R0593,"Produit inutilisable, service client injoignable.",négatif,2
+R0594,"Clavier bruyant, remboursement demandé.",négatif,2
+R0595,"Pas du tout décevant, au contraire il est rapide.",positif,5
+R0596,"Vraiment efficace et parfait, très content de mon achat.",positif,5
+R0597,"Pas mal du tout, efficace pour le prix.",positif,5
+R0598,"Très fragile et décevant, je vais le renvoyer.",négatif,1
+R0599,Livraison rapide et chargeur parfait.,positif,5
+R0600,"Je l'utilise tous les jours, efficace et de bonne qualité.",positif,5
+R0601,"Produit lent, service client injoignable.",négatif,1
+R0602,"Sac à dos lent, remboursement demandé.",négatif,2
+R0603,Au bout d'une semaine il était cassé. Dommage.,négatif,1
+R0604,"Pas agréable du tout, plutôt trop cher.",négatif,2
+R0605,"Je l'utilise tous les jours, rapide et agréable.",positif,5
+R0606,"Pas solide du tout, plutôt de mauvaise qualité.",négatif,1
+R0607,"Pas du tout trop cher, au contraire il est solide.",positif,5
+R0608,"Très trop cher et de mauvaise qualité, je vais le renvoyer.",négatif,2
+R0609,"Vraiment rapide et efficace, très content de mon achat.",positif,5
+R0610,"Ce grille-pain est efficace, je recommande.",positif,4
+R0611,"Je l'utilise tous les jours, efficace et très pratique.",positif,5
+R0612,"Pas du tout fragile, au contraire il est efficace.",positif,4
+R0613,"Pas mal du tout, rapide pour le prix.",positif,5
+R0614,"Produit trop cher, service client injoignable.",négatif,2
+R0615,Au bout d'une semaine il était fragile. Dommage.,négatif,1
+R0616,"Pas efficace du tout, plutôt bruyant.",négatif,2
+R0617,"Ce sac à dos est agréable, je recommande.",positif,5
+R0618,Au bout d'une semaine il était inutilisable. Dommage.,négatif,2
+R0619,Au bout d'une semaine il était trop cher. Dommage.,négatif,2
+R0620,"Pas du tout cassé, au contraire il est parfait.",positif,4
+R0621,"Je l'utilise tous les jours, rapide et très pratique.",positif,5
+R0622,"Produit bruyant, service client injoignable.",négatif,1
+R0623,"Ce grille-pain est efficace, je recommande.",positif,4
+R0624,"Produit cassé, service client injoignable.",négatif,2
+R0625,"Ce sac à dos est de mauvaise qualité, je ne recommande pas.",négatif,1
+R0626,"Pas du tout fragile, au contraire il est agréable.",positif,4
+R0627,"Vraiment parfait et excellent, très content de mon achat.",positif,5
+R0628,Livraison rapide et chargeur parfait.,positif,5
+R0629,"Ce livre est de bonne qualité, je recommande.",positif,5
+R0630,"Très lent et inutilisable, je vais le renvoyer.",négatif,2
+R0631,"Pas du tout trop cher, au contraire il est solide.",positif,5
+R0632,"Pas excellent du tout, plutôt de mauvaise qualité.",négatif,2
+R0633,Livraison rapide et micro-ondes de bonne qualité.,positif,4
+R0634,"Pas mal du tout, excellent pour le prix.",positif,5
+R0635,Au bout d'une semaine il était bruyant. Dommage.,négatif,1
+R0636,"Je l'utilise tous les jours, rapide et parfait.",positif,4
+R0637,"Je l'utilise tous les jours, agréable et parfait.",positif,5
+R0638,Livraison rapide et chargeur rapide.,positif,5
+R0639,"Vraiment efficace et de bonne qualité, très content de mon achat.",positif,5
+R0640,"Pas mal du tout, solide pour le prix.",positif,5
+R0641,"Pas solide du tout, plutôt inutilisable.",négatif,1
+R0642,"Pas mal du tout, solide pour le prix.",positif,4
+R0643,"Pas mal du tout, agréable pour le prix.",positif,5
+R0644,Livraison rapide et livre solide.,positif,4
+R0645,"Ce livre est lent, je ne recommande pas.",négatif,1
+R0646,"Pas mal du tout, excellent pour le prix.",positif,4
+R0647,"Très décevant et bruyant, je vais le renvoyer.",négatif,1
+R0648,"Pas de bonne qualité du tout, plutôt cassé.",négatif,2
+R0649,Au bout d'une semaine il était décevant. Dommage.,négatif,1
+R0650,Au bout d'une semaine il était cassé. Dommage.,négatif,1
+R0651,"Ce micro-ondes est cassé, je ne recommande pas.",négatif,2
+R0652,"Pas mal du tout, de bonne qualité pour le prix.",positif,4
+R0653,Au bout d'une semaine il était fragile. Dommage.,négatif,1
+R0654,"Produit lent, service client injoignable.",négatif,1
+R0655,Livraison rapide et micro-ondes agréable.,positif,4
+R0656,Au bout d'une semaine il était inutilisable. Dommage.,négatif,2
+R0657,"Pas du tout de mauvaise qualité, au contraire il est de bonne qualité.",positif,5
+R0658,"Pas mal du tout, rapide pour le prix.",positif,5
+R0659,Au bout d'une semaine il était lent. Dommage.,négatif,1
+R0660,"Pas mal du tout, solide pour le prix.",positif,5
+R0661,"Ce chargeur est décevant, je ne recommande pas.",négatif,1
+R0662,"Pas excellent du tout, plutôt bruyant.",négatif,1
+R0663,"Très lent et décevant, je vais le renvoyer.",négatif,2
+R0664,"Je l'utilise tous les jours, agréable et excellent.",positif,5
+R0665,"Très décevant et de mauvaise qualité, je vais le renvoyer.",négatif,2
+R0666,Au bout d'une semaine il était décevant. Dommage.,négatif,1
+R0667,"Je l'utilise tous les jours, rapide et agréable.",positif,5
+R0668,Au bout d'une semaine il était décevant. Dommage.,négatif,1
+R0669,"Sac à dos décevant, remboursement demandé.",négatif,1
+R0670,Au bout d'une semaine il était de mauvaise qualité. Dommage.,négatif,1
+R0671,Au bout d'une semaine il était lent. Dommage.,négatif,2
+R0672,"Très trop cher et cassé, je vais le renvoyer.",négatif,1
+R0673,"Vraiment parfait et rapide, très content de mon achat.",positif,5
+R0674,"Ce téléphone est agréable, je recommande.",positif,5
+R0675,"Vraiment solide et rapide, très content de mon achat.",positif,5
+R0676,Livraison rapide et chargeur de bonne qualité.,positif,4
+R0677,Au bout d'une semaine il était inutilisable. Dommage.,négatif,1
+R0678,"Ce micro-ondes est très pratique, je recommande.",positif,4
+R0679,"Pas parfait du tout, plutôt trop cher.",négatif,1
+R0680,Au bout d'une semaine il était bruyant. Dommage.,négatif,1
+R0681,"Chargeur décevant, remboursement demandé.",négatif,1
+R0682,"Ce chargeur est très pratique, je recommande.",positif,4
+R0683,"Pas du tout de mauvaise qualité, au contraire il est très pratique.",positif,4
+R0684,"Pas mal du tout, solide pour le prix.",positif,5
+R0685,"Sac à dos trop cher, remboursement demandé.",négatif,2
+R0686,Livraison rapide et clavier efficace.,positif,4
+R0687,"Produit bruyant, service client injoignable.",négatif,1
+R0688,"Je l'utilise tous les jours, agréable et excellent.",positif,5
+R0689,Au bout d'une semaine il était de mauvaise qualité. Dommage.,négatif,2
+R0690,Au bout d'une semaine il était lent. Dommage.,négatif,1
+R0691,Au bout d'une semaine il était bruyant. Dommage.,négatif,1
+R0692,"Pas du tout trop cher, au contraire il est parfait.",positif,5
+R0693,"Ce chargeur est efficace, je recommande.",positif,4
+R0694,"Pas mal du tout, rapide pour le prix.",positif,5
+R0695,"Produit trop cher, service client injoignable.",négatif,2
+R0696,Au bout d'une semaine il était fragile. Dommage.,négatif,1
+R0697,"Pas très pratique du tout, plutôt bruyant.",négatif,2
+R0698,Livraison rapide et sac à dos très pratique.,positif,4
+R0699,"Pas mal du tout, agréable pour le prix.",positif,5
+R0700,"Pas mal du tout, de bonne qualité pour le prix.",positif,5
+R0701,"Pas du tout inutilisable, au contraire il est excellent.",positif,5
+R0702,"Ce clavier est agréable, je recommande.",positif,5
+R0703,"Très de mauvaise qualité et fragile, je vais le renvoyer.",négatif,1
+R0704,"Pas excellent du tout, plutôt décevant.",négatif,1
+R0705,Livraison rapide et chargeur efficace.,positif,5
+R0706,"Pas mal du tout, agréable pour le prix.",positif,4
+R0707,"Ce livre est de mauvaise qualité, je ne recommande pas.",négatif,1
+R0708,"Pas mal du tout, parfait pour le prix.",positif,5
+R0709,"Casque trop cher, remboursement demandé.",négatif,1
+R0710,"Vraiment de bonne qualité et efficace, très content de mon achat.",positif,5
+R0711,"Pas mal du tout, de bonne qualité pour le prix.",positif,5
+R0712,"Pas mal du tout, excellent pour le prix.",positif,4
+R0713,"Vraiment agréable et efficace, très content de mon achat.",positif,5
+R0714,Au bout d'une semaine il était de mauvaise qualité. Dommage.,négatif,2
+R0715,"Pas parfait du tout, plutôt lent.",négatif,1
+R0716,Livraison rapide et casque efficace.,positif,5
+R0717,"Ce chargeur est trop cher, je ne recommande pas.",négatif,2
+R0718,"Pas du tout cassé, au contraire il est rapide.",positif,5
+R0719,Livraison rapide et grille-pain parfait.,positif,4
+R0720,"Pas du tout de mauvaise qualité, au contraire il est solide.",positif,4
+R0721,Livraison rapide et chargeur agréable.,positif,5
+R0722,"Je l'utilise tous les jours, rapide et très pratique.",positif,5
+R0723,"Produit cassé, service client injoignable.",négatif,1
+R0724,"Grille-pain fragile, remboursement demandé.",négatif,2
+R0725,Au bout d'une semaine il était trop cher. Dommage.,négatif,1
+R0726,Livraison rapide et grille-pain rapide.,positif,5
+R0727,"Vraiment efficace et très pratique, très content de mon achat.",positif,5
+R0728,"Vraiment agréable et rapide, très content de mon achat.",positif,5
+R0729,"Produit lent, service client injoignable.",négatif,1
+R0730,"Pas agréable du tout, plutôt inutilisable.",négatif,1
+R0731,"Très bruyant et inutilisable, je vais le renvoyer.",négatif,1
+R0732,"Très décevant et lent, je vais le renvoyer.",négatif,1
+R0733,"Vraiment agréable et efficace, très content de mon achat.",positif,4
+R0734,"Ce chargeur est efficace, je recommande.",positif,4
+R0735,Livraison rapide et micro-ondes parfait.,positif,5
+R0736,"Ce clavier est solide, je recommande.",positif,4
+R0737,Au bout d'une semaine il était décevant. Dommage.,négatif,2
+R0738,"Très lent et cassé, je vais le renvoyer.",négatif,2
+R0739,"Pas du tout lent, au contraire il est de bonne qualité.",positif,5
+R0740,"Chargeur cassé, remboursement demandé.",négatif,1
+R0741,"Ce casque est fragile, je ne recommande pas.",négatif,1
+R0742,Au bout d'une semaine il était décevant. Dommage.,négatif,2
+R0743,"Pas mal du tout, rapide pour le prix.",positif,5
+R0744,"Je l'utilise tous les jours, parfait et rapide.",positif,5
+R0745,"Ce micro-ondes est parfait, je recommande.",positif,4
+R0746,"Je l'utilise tous les jours, rapide et excellent.",positif,4
+R0747,"Ce sac à dos est très pratique, je recommande.",positif,5
+R0748,"Vraiment excellent et de bonne qualité, très content de mon achat.",positif,5
+R0749,"Ce micro-ondes est rapide, je recommande.",positif,5
+R0750,"Vraiment agréable et très pratique, très content de mon achat.",positif,4
+R0751,"Je l'utilise tous les jours, rapide et excellent.",positif,4
+R0752,"Ce grille-pain est bruyant, je ne recommande pas.",négatif,2
+R0753,"Pas du tout décevant, au contraire il est rapide.",positif,5
+R0754,"Produit fragile, service client injoignable.",négatif,1
+R0755,"Pas mal du tout, excellent pour le prix.",positif,5
+R0756,"Ce clavier est cassé, je ne recommande pas.",négatif,1
+R0757,Au bout d'une semaine il était inutilisable. Dommage.,négatif,2
+R0758,"Pas excellent du tout, plutôt fragile.",négatif,2
+R0759,"Ce livre est de mauvaise qualité, je ne recommande pas.",négatif,2
+R0760,"Ce clavier est lent, je ne recommande pas.",négatif,2
+R0761,"Produit bruyant, service client injoignable.",négatif,2
+R0762,"Pas mal du tout, rapide pour le prix.",positif,4
+R0763,"Produit de mauvaise qualité, service client injoignable.",négatif,1
+R0764,"Pas mal du tout, parfait pour le prix.",positif,5
+R0765,"Ce grille-pain est rapide, je recommande.",positif,5
+R0766,"Vraiment de bonne qualité et parfait, très content de mon achat.",positif,4
+R0767,"Micro-ondes fragile, remboursement demandé.",négatif,2
+R0768,"Très inutilisable et décevant, je vais le renvoyer.",négatif,2
+R0769,"Pas rapide du tout, plutôt cassé.",négatif,2
+R0770,"Livre de mauvaise qualité, remboursement demandé.",négatif,1
+R0771,"Ce clavier est de bonne qualité, je recommande.",positif,4
+R0772,"Je l'utilise tous les jours, rapide et parfait.",positif,4
+R0773,"Pas mal du tout, de bonne qualité pour le prix.",positif,5
+R0774,Au bout d'une semaine il était cassé. Dommage.,négatif,2
+R0775,Au bout d'une semaine il était décevant. Dommage.,négatif,2
+R0776,"Pas du tout décevant, au contraire il est agréable.",positif,5
+R0777,"Vraiment très pratique et rapide, très content de mon achat.",positif,5
+R0778,Au bout d'une semaine il était trop cher. Dommage.,négatif,2
+R0779,"Produit inutilisable, service client injoignable.",négatif,1
+R0780,Livraison rapide et grille-pain agréable.,positif,5
+R0781,"Produit trop cher, service client injoignable.",négatif,1
+R0782,"Je l'utilise tous les jours, efficace et solide.",positif,5
+R0783,"Ce micro-ondes est parfait, je recommande.",positif,5
+R0784,"Pas du tout de mauvaise qualité, au contraire il est parfait.",positif,5
+R0785,Au bout d'une semaine il était trop cher. Dommage.,négatif,2
+R0786,"Vraiment parfait et très pratique, très content de mon achat.",positif,4
+R0787,"Vraiment parfait et très pratique, très content de mon achat.",positif,5
+R0788,"Ce chargeur est solide, je recommande.",positif,5
+R0789,"Produit trop cher, service client injoignable.",négatif,2
+R0790,"Micro-ondes bruyant, remboursement demandé.",négatif,1
+R0791,"Produit décevant, service client injoignable.",négatif,2
+R0792,"Vraiment efficace et rapide, très content de mon achat.",positif,5
+R0793,"Très trop cher et fragile, je vais le renvoyer.",négatif,1
+R0794,Livraison rapide et micro-ondes agréable.,positif,5
+R0795,"Produit fragile, service client injoignable.",négatif,2
+R0796,Au bout d'une semaine il était de mauvaise qualité. Dommage.,négatif,1
+R0797,"Je l'utilise tous les jours, de bonne qualité et solide.",positif,5
+R0798,"Ce casque est très pratique, je recommande.",positif,4
+R0799,Livraison rapide et téléphone agréable.,positif,5
+R0800,"Ce livre est très pratique, je recommande.",positif,5

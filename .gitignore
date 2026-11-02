@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+
+# Generated artefacts (re-creatable locally)
+outputs/
+exports/
+models/
+projects/*/outputs/
+datasets/processed/*
+!datasets/processed/README.md
+
+# Editors / OS
+.vscode/*.log
+.DS_Store
+Thumbs.db

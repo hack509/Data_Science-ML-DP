@@ -1,0 +1,72 @@
+[
+  {
+    "doc_id": "D01",
+    "title": "Régression linéaire",
+    "text": "La régression linéaire prédit une valeur numérique continue comme une somme pondérée des variables. Les poids sont choisis pour minimiser l'erreur quadratique moyenne (MSE)."
+  },
+  {
+    "doc_id": "D02",
+    "title": "Régression logistique",
+    "text": "La régression logistique est un modèle de classification. Elle applique la fonction sigmoïde à une combinaison linéaire des variables pour obtenir une probabilité entre 0 et 1."
+  },
+  {
+    "doc_id": "D03",
+    "title": "Surapprentissage",
+    "text": "Le surapprentissage (overfitting) se produit quand un modèle mémorise le jeu d'entraînement : l'erreur d'entraînement est faible mais l'erreur de validation est élevée. La régularisation, plus de données ou un modèle plus simple aident à le réduire."
+  },
+  {
+    "doc_id": "D04",
+    "title": "Validation croisée",
+    "text": "La validation croisée (cross-validation) découpe les données en k plis. Le modèle est entraîné k fois, à chaque fois évalué sur un pli différent, ce qui donne une estimation plus stable de la performance."
+  },
+  {
+    "doc_id": "D05",
+    "title": "Fuite de données",
+    "text": "La fuite de données (data leakage) arrive quand une information du jeu de test influence l'entraînement, par exemple en normalisant avant de séparer les données. Les scores obtenus sont alors trop optimistes."
+  },
+  {
+    "doc_id": "D06",
+    "title": "Descente de gradient",
+    "text": "La descente de gradient met à jour les paramètres dans la direction opposée au gradient de la fonction de perte. Le taux d'apprentissage (learning rate) contrôle la taille du pas."
+  },
+  {
+    "doc_id": "D07",
+    "title": "K-means",
+    "text": "K-means est un algorithme de clustering non supervisé. Il alterne l'affectation de chaque point au centre le plus proche et le recalcul des centres comme moyenne des points affectés."
+  },
+  {
+    "doc_id": "D08",
+    "title": "ACP",
+    "text": "L'analyse en composantes principales (PCA) projette les données sur les directions de plus grande variance. Elle sert à réduire la dimension et à visualiser des données."
+  },
+  {
+    "doc_id": "D09",
+    "title": "TF-IDF",
+    "text": "TF-IDF pondère chaque mot par sa fréquence dans le document et par la rareté du mot dans le corpus. Les mots très fréquents partout, comme les articles, reçoivent un poids faible."
+  },
+  {
+    "doc_id": "D10",
+    "title": "Réseau convolutif",
+    "text": "Un réseau de neurones convolutif (CNN) applique des filtres qui glissent sur l'image pour détecter des motifs locaux comme des bords. Le pooling réduit la taille des cartes de caractéristiques."
+  },
+  {
+    "doc_id": "D11",
+    "title": "Dropout",
+    "text": "Le dropout désactive aléatoirement des neurones pendant l'entraînement. Cela empêche le réseau de dépendre de quelques neurones et réduit le surapprentissage."
+  },
+  {
+    "doc_id": "D12",
+    "title": "Attention",
+    "text": "Le mécanisme d'attention calcule, pour chaque élément d'une séquence, une moyenne pondérée des autres éléments. Les poids viennent du produit scalaire entre requêtes (queries) et clés (keys), passé dans un softmax."
+  },
+  {
+    "doc_id": "D13",
+    "title": "Précision et rappel",
+    "text": "La précision mesure la part de vrais positifs parmi les prédictions positives. Le rappel mesure la part de positifs réels retrouvés. Le F1-score est leur moyenne harmonique."
+  },
+  {
+    "doc_id": "D14",
+    "title": "IA responsable",
+    "text": "Une IA responsable documente ses données, mesure ses performances par sous-groupe, protège la vie privée et explique ses limites. Un modèle entraîné sur des données synthétiques ne prouve rien sur le monde réel."
+  }
+]

@@ -1,0 +1,411 @@
+order_id,date,region,product,category,quantity,unit_price
+O02912,2024-09-07,Ouest,Clavier,Peripheriques,5,39.9
+O01459,2024-01-08,Ouest,Clavier,Peripheriques,1,39.9
+O00108,2024-06-20,Nord,Souris,Peripheriques,3,24.9
+O01805,2024-04-15,Ouest,  CASQUE ,Audio,2,59.9
+O00865,2024-09-14,Est,Clavier,Peripheriques,4,31.92
+O01948,2024-02-02,Sud,Ecran,Affichage,-1,189.0
+O01113,2024-03-07,Nord,ecran,Affichage,5,189.0
+O00944,2024-03-23,Ouest,Casque,Audio,3,59.9
+O01393,2024-02-14,Ouest,Clavier,Peripheriques,2,39.9
+O01534,2024-12-20,Est,Ecran,Affichage,1,189.0
+O01041,2024-03-28,Sud,Souris,Peripheriques,3,24.9
+O02076,2024-04-22,Nord,  CLAVIER ,Peripheriques,1,39.9
+O00572,2024-09-04,Est,Ecran,Affichage,3,170.1
+O02847,2024-03-11,Sud,Casque,Audio,2,53.91
+O02468,2024-07-26,Sud,Clavier,Peripheriques,2,31.92
+O02487,2024-08-15,Est,Ecran,Affichage,5,189.0
+O02250,2024-11-30,Est,  CLAVIER ,Peripheriques,4,39.9
+O01937,2024-05-01,Sud,Casque,Audio,2,53.91
+O00687,2024-11-02,Ouest,Souris,Peripheriques,1,"24,90 EUR"
+O02017,2024-08-09,Nord,Webcam,Video,4,"55,20 EUR"
+O02015,2024-11-05,Nord,Ecran,Affichage,3,189.0
+O01614,2024-12-02,Nord,Casque,Audio,3,59.9
+O02105,2024-11-03,Nord,Souris,Peripheriques,4,19.92
+O00020,2024-05-19,Nord,Souris,Peripheriques,2,19.92
+O02430,2024-11-04,Nord,Ecran,Affichage,2,189.0
+O02416,2024-06-01,Sud,Clavier,Peripheriques,3,39.9
+O02494,2024-03-17,Ouest,Clavier,Peripheriques,3,39.9
+O00425,2024-12-22,Sud,Casque,Audio,,47.92
+O02098,2024-11-29,Est,Souris,Peripheriques,3,22.41
+O01828,2024-11-29,Nord,Casque,Audio,1,59.9
+O00623,2024-11-09,Est,Souris,Peripheriques,3,22.41
+O02606,,Est,Webcam,Video,3,69.0
+O00276,2024-04-23,Nord,Clavier,Peripheriques,,31.92
+O00993,2024-01-09,Nord,Souris,Peripheriques,3,19.92
+O00130,2024-03-06,Est,Casque,Audio,5,47.92
+O01172,2024-11-27,Ouest,Clavier,Peripheriques,1,"31,92 EUR"
+O00304,2024-07-16,Nord,Clavier,Peripheriques,5,39.9
+O01737,2024-01-08,Est,Souris,Peripheriques,4,24.9
+O02385,2024-07-09,Est,Casque,Audio,1,59.9
+O00390,2024-09-18,Ouest,Clavier,Peripheriques,1,39.9
+O02191,2024-04-24,Sud,Souris,Peripheriques,2,22.41
+O02535,2024-01-26,Nord,Webcam,Video,5,"69,00 EUR"
+O01228,2024-11-14,Nord,Casque,Audio,3,53.91
+O01638,2024-10-26,Ouest,Casque,Audio,2,59.9
+O01449,2024-01-05,Nord,  SOURIS ,Peripheriques,3,24.9
+O00357,2024-11-20,Sud,Souris,Peripheriques,5,"24,90 EUR"
+O02038,2024-04-17,Nord,Casque,Audio,1,59.9
+O01957,2024-03-27,Ouest,Clavier,Peripheriques,3,39.9
+O00600,2024-05-26,Ouest,Clavier,Peripheriques,4,31.92
+O01522,2024-04-16,Nord,Souris,Peripheriques,4,24.9
+O02745,2024-01-10,Sud,Casque,Audio,4,59.9
+O00963,2024-04-17,Est,Souris,Peripheriques,2,24.9
+O00244,2024-12-17,Nord,Casque,Audio,1,59.9
+O02508,2024-12-11,Ouest,Clavier,Peripheriques,4,39.9
+O00997,2024-10-17,Sud,Webcam,Video,3,55.2
+O01331,2024-07-29,Sud,Souris,Peripheriques,4,"24,90 EUR"
+O02777,2024-05-31,Nord,webcam,Video,2,69.0
+O00442,2024-12-25,Est,Clavier,Peripheriques,1,39.9
+O00607,2024-09-26,Ouest,Clavier,Peripheriques,3,"39,90 EUR"
+O02899,2024-07-17,Nord,Souris,Peripheriques,5,24.9
+O01117,2024-03-01,Est,Casque,Audio,,59.9
+O01914,2024-08-08,Est,Casque,Audio,1,53.91
+O02463,2024-06-09,Est,Casque,Audio,3,47.92
+O01979,2024-04-02,Ouest,Casque,Audio,1,53.91
+O02922,2024-02-13,Est,Webcam,Video,2,55.2
+O01552,2024-02-13,Nord,Casque,Audio,2,59.9
+O00702,2024-12-30,Sud,Ecran,Affichage,5,"170,10 EUR"
+O01972,2024-08-12,Nord,Casque,Audio,5,59.9
+O01634,2024-06-21,Est,webcam,Video,1,"69,00 EUR"
+O00001,2024-12-11,Est,Souris,Peripheriques,4,24.9
+O01941,2024-11-13,Sud,Webcam,Video,5,69.0
+O01945,2024-02-03,Sud,Souris,Peripheriques,1,22.41
+O01706,2024-07-22,Est,Casque,Audio,4,59.9
+O01401,2024-01-10,Nord,  WEBCAM ,Video,3,"69,00 EUR"
+O00983,2024-12-14,Est,Clavier,Peripheriques,1,39.9
+O00551,2024-04-03,Nord,Souris,Peripheriques,3,24.9
+O01260,2024-11-07,Ouest,souris,Peripheriques,5,22.41
+O00079,2024-05-20,Nord,Souris,Peripheriques,1,"24,90 EUR"
+O02119,2024-09-13,Ouest,Webcam,Video,2,55.2
+O02865,2024-02-27,Nord,Souris,Peripheriques,3,22.41
+O02512,2024-02-04,Est,Webcam,Video,2,69.0
+O02264,2024-10-30,Nord,Webcam,Video,1,69.0
+O00901,2024-07-10,Nord,Clavier,Peripheriques,3,35.91
+O02947,2024-03-19,Nord,Souris,Peripheriques,4,24.9
+O01571,2024-02-11,Est,clavier,Peripheriques,1,35.91
+O01583,2024-06-03,Est,Clavier,Peripheriques,2,39.9
+O00714,2024-03-13,Ouest,Souris,Peripheriques,1,24.9
+O02099,2024-06-12,Est,Casque,Audio,5,59.9
+O02759,,Nord,Souris,Peripheriques,4,22.41
+O01155,2024-11-01,Est,Souris,Peripheriques,1,22.41
+O02701,2024-07-31,Est,Webcam,Video,4,55.2
+O00569,2024-02-28,Ouest,Ecran,Affichage,3,189.0
+O01894,2024-11-17,Nord,Casque,Audio,3,59.9
+O01151,2024-01-12,Ouest,Webcam,Video,3,69.0
+O02408,2024-09-18,Ouest,Souris,Peripheriques,1,24.9
+O01688,2024-05-18,Sud,Clavier,Peripheriques,1,31.92
+O02772,2024-11-13,Ouest,Souris,Peripheriques,2,24.9
+O00167,2024-10-22,Ouest,Souris,Peripheriques,3,22.41
+O00541,2024-12-05,Est,Casque,Audio,,59.9
+O02842,2024-11-17,Ouest,Webcam,Video,1,69.0
+O02084,2024-08-04,Sud,Webcam,Video,-1,55.2
+O02592,2024-12-06,Nord,Souris,Peripheriques,1,"24,90 EUR"
+O01337,2024-12-31,Nord,Casque,Audio,2,59.9
+O02648,2024-03-19,Est,Clavier,Peripheriques,4,39.9
+O00220,2024-12-05,Est,Souris,Peripheriques,2,19.92
+O01512,2024-11-29,Ouest,Souris,Peripheriques,3,24.9
+O01489,,Sud,Casque,Audio,5,47.92
+O02342,2024-09-24,Ouest,Clavier,Peripheriques,3,39.9
+O01736,2024-09-12,Est,Souris,Peripheriques,5,24.9
+O01132,2024-10-12,Ouest,Souris,Peripheriques,5,24.9
+O01292,2024-06-20,Sud,Clavier,Peripheriques,4,39.9
+O00638,2024-11-11,Sud,Clavier,Peripheriques,5,39.9
+O02475,2024-07-03,Est,Ecran,Affichage,4,151.2
+O02014,2024-11-04,Ouest,Clavier,Peripheriques,1,39.9
+O01977,2024-04-16,Sud,Souris,Peripheriques,1,24.9
+O00772,2024-10-04,Ouest,clavier,Peripheriques,3,39.9
+O01203,2024-12-13,Ouest,Ecran,Affichage,1,"189,00 EUR"
+O02306,2024-08-06,Nord,Souris,Peripheriques,3,24.9
+O02748,2024-06-25,Nord,Clavier,Peripheriques,1,39.9
+O00507,2024-12-14,Nord,  CLAVIER ,Peripheriques,-1,"39,90 EUR"
+O01206,2024-10-26,Nord,  CASQUE ,Audio,2,47.92
+O02407,2024-12-08,Nord,Souris,Peripheriques,3,19.92
+O02747,2024-04-25,Nord,Souris,Peripheriques,5,22.41
+O01002,2024-08-12,Ouest,souris,Peripheriques,2,22.41
+O00196,2024-09-16,Sud,souris,Peripheriques,3,24.9
+O02631,2024-07-09,Nord,Clavier,Peripheriques,2,31.92
+O00790,2024-01-16,Ouest,souris,Peripheriques,,19.92
+O02675,2024-11-25,Ouest,Clavier,Peripheriques,1,39.9
+O02405,2024-11-12,Ouest,Souris,Peripheriques,1,24.9
+O00089,2024-05-22,Sud,Casque,Audio,3,59.9
+O00566,2024-09-06,Nord,Clavier,Peripheriques,3,39.9
+O00624,2024-12-19,Nord,Ecran,Affichage,5,189.0
+O00935,2024-10-08,Nord,Casque,Audio,2,53.91
+O01124,2024-12-23,Sud,  CLAVIER ,Peripheriques,5,35.91
+O02237,2024-06-14,Sud,Souris,Peripheriques,1,24.9
+O01217,2024-11-15,Nord,Souris,Peripheriques,2,24.9
+O02547,2024-03-28,Sud,Ecran,Affichage,5,151.2
+O01898,2024-03-08,Sud,Clavier,Peripheriques,3,39.9
+O00080,2024-08-11,Sud,Souris,Peripheriques,5,22.41
+O02664,2024-06-08,Nord,Souris,Peripheriques,4,"22,41 EUR"
+O01545,2024-09-08,Sud,Casque,Audio,2,47.92
+O02549,2024-01-19,Ouest,Ecran,Affichage,5,151.2
+O00567,2024-07-12,Ouest,Ecran,Affichage,5,189.0
+O01559,2024-04-10,Nord,Webcam,Video,4,"69,00 EUR"
+O02385,2024-07-09,Est,Casque,Audio,1,59.9
+O00333,2024-02-14,Nord,Clavier,Peripheriques,3,39.9
+O00861,2024-08-19,Nord,Webcam,Video,5,69.0
+O00803,2024-10-17,Est,Clavier,Peripheriques,2,39.9
+O01557,2024-06-15,Ouest,Souris,Peripheriques,3,24.9
+O02732,2024-05-31,Sud,Casque,Audio,4,59.9
+O01502,2024-01-09,Est,Casque,Audio,5,59.9
+O01216,2024-11-12,Sud,Souris,Peripheriques,3,24.9
+O01587,2024-10-19,Sud,  CLAVIER ,Peripheriques,5,31.92
+O01211,2024-05-22,Ouest,Ecran,Affichage,1,151.2
+O02645,2024-10-08,Nord,Ecran,Affichage,2,189.0
+O02395,2024-01-16,Est,Clavier,Peripheriques,2,"39,90 EUR"
+O01058,2024-01-03,Ouest,Clavier,Peripheriques,1,39.9
+O00155,2024-11-10,Sud,Webcam,Video,4,69.0
+O02181,2024-12-09,Sud,Souris,Peripheriques,5,24.9
+O00597,2024-08-20,Sud,Souris,Peripheriques,4,24.9
+O02616,2024-03-04,Sud,Casque,Audio,3,59.9
+O00959,2024-02-06,Sud,Casque,Audio,2,59.9
+O01445,2024-04-04,Sud,Souris,Peripheriques,4,24.9
+O01784,2024-11-14,Est,Ecran,Affichage,1,189.0
+O02652,2024-04-11,Ouest,  SOURIS ,Peripheriques,3,22.41
+O01737,2024-01-08,Est,Souris,Peripheriques,4,24.9
+O02393,2024-05-24,Nord,Casque,Audio,2,53.91
+O02234,2024-05-23,Est,Casque,Audio,3,59.9
+O01800,2024-09-13,Sud,Ecran,Affichage,1,189.0
+O00759,2024-02-14,Ouest,Souris,Peripheriques,3,24.9
+O02438,2024-12-02,Nord,Clavier,Peripheriques,5,35.91
+O00180,2024-09-16,Nord,Webcam,Video,5,69.0
+O00129,2024-10-31,Ouest,Clavier,Peripheriques,5,39.9
+O01992,2024-05-15,Sud,Souris,Peripheriques,1,19.92
+O01771,2024-01-19,Ouest,Webcam,Video,2,"69,00 EUR"
+O00463,2024-03-20,Est,Souris,Peripheriques,3,24.9
+O00373,2024-04-14,Est,Ecran,Affichage,5,189.0
+O00870,2024-11-12,Sud,Casque,Audio,3,59.9
+O02481,2024-12-24,Ouest,Webcam,Video,2,"62,10 EUR"
+O00532,2024-11-21,Nord,  SOURIS ,Peripheriques,1,22.41
+O01486,2024-05-09,Sud,Clavier,Peripheriques,,39.9
+O00414,2024-12-31,Ouest,Souris,Peripheriques,4,19.92
+O01861,2024-01-11,Nord,Casque,Audio,5,59.9
+O02642,2024-10-02,Ouest,Clavier,Peripheriques,4,39.9
+O00471,2024-09-13,Est,Clavier,Peripheriques,5,"39,90 EUR"
+O01215,2024-05-25,Est,Souris,Peripheriques,4,"24,90 EUR"
+O00379,2024-02-29,Nord,Souris,Peripheriques,1,22.41
+O00634,2024-11-26,Nord,Clavier,Peripheriques,5,39.9
+O01192,2024-02-27,Sud,Souris,Peripheriques,1,24.9
+O01803,2024-04-13,Est,Clavier,Peripheriques,4,35.91
+O02852,2024-12-08,Sud,Webcam,Video,2,69.0
+O01647,2024-01-24,Sud,Casque,Audio,4,53.91
+O02131,2024-06-25,Est,Souris,Peripheriques,4,"24,90 EUR"
+O01327,2024-03-23,Sud,Clavier,Peripheriques,1,39.9
+O02800,2024-10-25,Sud,Clavier,Peripheriques,1,35.91
+O01357,2024-12-25,Nord,Clavier,Peripheriques,3,39.9
+O00041,2024-07-10,Est,Souris,Peripheriques,2,24.9
+O02704,2024-11-20,Sud,Casque,Audio,,59.9
+O02719,2024-03-10,Ouest,  SOURIS ,Peripheriques,4,24.9
+O02356,2024-01-20,Nord,Ecran,Affichage,1,189.0
+O02736,2024-12-05,Nord,Casque,Audio,4,59.9
+O00137,2024-06-26,Nord,Casque,Audio,1,47.92
+O00904,2024-06-16,Nord,Ecran,Affichage,1,189.0
+O01608,2024-03-14,Ouest,clavier,Peripheriques,2,39.9
+O02877,2024-08-31,Nord,  CASQUE ,Audio,5,47.92
+O02883,2024-11-16,Sud,Casque,Audio,3,53.91
+O01281,2024-08-27,Ouest,Webcam,Video,4,69.0
+O01724,2024-05-06,Sud,Ecran,Affichage,3,151.2
+O02358,2024-03-05,Nord,casque,Audio,4,59.9
+O02203,2024-11-04,Est,Clavier,Peripheriques,2,31.92
+O02789,2024-07-09,Nord,Souris,Peripheriques,2,24.9
+O01487,2024-05-28,Ouest,Souris,Peripheriques,1,24.9
+O00857,2024-01-13,Est,Casque,Audio,4,59.9
+O00665,2024-12-10,Nord,Webcam,Video,4,55.2
+O00141,2024-03-08,Nord,Clavier,Peripheriques,2,39.9
+O01857,2024-05-03,Ouest,Clavier,Peripheriques,1,31.92
+O01323,2024-01-11,Sud,Clavier,Peripheriques,2,39.9
+O02690,2024-03-02,Nord,Clavier,Peripheriques,4,31.92
+O00240,2024-09-06,Sud,souris,Peripheriques,2,19.92
+O02239,2024-12-06,Ouest,Ecran,Affichage,2,151.2
+O02932,2024-09-18,Sud,Souris,Peripheriques,5,24.9
+O01741,2024-07-01,Nord,Ecran,Affichage,1,189.0
+O02639,2024-06-11,Sud,Clavier,Peripheriques,1,"35,91 EUR"
+O01532,2024-03-17,Est,Ecran,Affichage,5,189.0
+O02786,2024-08-29,Nord,Casque,Audio,3,59.9
+O01050,2024-11-02,Nord,Webcam,Video,5,62.1
+O02213,2024-12-03,Est,Casque,Audio,2,"59,90 EUR"
+O01096,2024-02-21,Nord,Clavier,Peripheriques,4,"39,90 EUR"
+O01574,2024-07-01,Sud,Casque,Audio,3,59.9
+O02024,2024-05-06,Ouest,Souris,Peripheriques,3,22.41
+O02861,2024-02-03,Nord,Casque,Audio,4,47.92
+O01510,2024-04-07,Nord,Souris,Peripheriques,3,24.9
+O02837,2024-12-05,Sud,Souris,Peripheriques,2,22.41
+O02317,2024-05-29,Est,ecran,Affichage,2,189.0
+O01978,2024-09-24,Sud,Souris,Peripheriques,1,24.9
+O01615,2024-07-18,Nord,Casque,Audio,5,47.92
+O02566,2024-12-15,Est,Clavier,Peripheriques,-1,39.9
+O02946,2024-08-25,Nord,Clavier,Peripheriques,4,35.91
+O00029,2024-01-24,Nord,Ecran,Affichage,1,"189,00 EUR"
+O00156,2024-05-03,Nord,Ecran,Affichage,2,189.0
+O00748,2024-03-19,Ouest,Clavier,Peripheriques,5,31.92
+O02928,2024-11-11,Nord,Souris,Peripheriques,5,24.9
+O02758,2024-08-12,Nord,Ecran,Affichage,1,189.0
+O02501,2024-12-10,Nord,Souris,Peripheriques,4,24.9
+O02891,2024-05-08,Sud,Ecran,Affichage,3,189.0
+O01836,2024-02-15,Est,  SOURIS ,Peripheriques,1,"24,90 EUR"
+O00057,2024-09-19,Est,Clavier,Peripheriques,2,39.9
+O00781,2024-12-01,Nord,Ecran,Affichage,,189.0
+O02336,2024-11-08,Ouest,  CASQUE ,Audio,2,59.9
+O01548,2024-04-28,Est,Casque,Audio,1,59.9
+O00800,2024-07-18,Sud,Clavier,Peripheriques,2,31.92
+O01289,2024-03-14,Sud,Souris,Peripheriques,2,22.41
+O00757,2024-09-25,Nord,Webcam,Video,3,69.0
+O01051,2024-01-01,Est,Souris,Peripheriques,,22.41
+O00171,2024-11-04,Nord,Casque,Audio,5,59.9
+O02205,2024-04-08,Sud,Ecran,Affichage,1,189.0
+O01212,2024-09-08,Sud,Souris,Peripheriques,3,24.9
+O02858,2024-04-28,Ouest,Ecran,Affichage,2,189.0
+O02450,2024-02-19,Sud,Casque,Audio,5,59.9
+O00531,2024-08-21,Ouest,Casque,Audio,2,59.9
+O00025,2024-09-29,Nord,Webcam,Video,3,69.0
+O00949,2024-02-28,Sud,Casque,Audio,4,59.9
+O01491,2024-07-31,Est,Ecran,Affichage,2,189.0
+O00958,2024-01-18,Est,Casque,Audio,2,59.9
+O00656,2024-10-26,Sud,Clavier,Peripheriques,4,35.91
+O02811,2024-04-12,Nord,Souris,Peripheriques,5,24.9
+O01990,2024-04-15,Sud,Souris,Peripheriques,5,24.9
+O01118,2024-05-30,Est,Souris,Peripheriques,2,19.92
+O02500,2024-07-20,Ouest,Souris,Peripheriques,2,"24,90 EUR"
+O00347,2024-12-12,Sud,souris,Peripheriques,2,22.41
+O01186,2024-12-17,Ouest,  CASQUE ,Audio,3,53.91
+O00858,2024-04-19,Est,Clavier,Peripheriques,5,35.91
+O01675,2024-11-21,Sud,Souris,Peripheriques,5,24.9
+O02454,2024-02-26,Nord,Casque,Audio,5,59.9
+O01138,2024-10-12,Sud,Ecran,Affichage,5,189.0
+O01653,2024-11-26,Sud,Ecran,Affichage,4,189.0
+O00535,2024-07-22,Nord,Clavier,Peripheriques,4,39.9
+O01242,2024-02-03,Est,Casque,Audio,5,53.91
+O00187,2024-09-22,Est,Clavier,Peripheriques,4,39.9
+O00235,2024-10-24,Ouest,Clavier,Peripheriques,1,39.9
+O02373,2024-12-26,Ouest,Ecran,Affichage,3,189.0
+O00130,2024-03-06,Est,Casque,Audio,5,47.92
+O01430,2024-04-02,Est,Clavier,Peripheriques,3,39.9
+O00671,2024-07-09,Nord,  SOURIS ,Peripheriques,1,22.41
+O00598,2024-10-15,Est,Ecran,Affichage,5,170.1
+O02392,2024-08-16,Nord,Souris,Peripheriques,1,22.41
+O01365,2024-09-06,Ouest,Clavier,Peripheriques,4,31.92
+O01921,2024-12-20,Ouest,Webcam,Video,2,62.1
+O00372,2024-09-18,Ouest,Souris,Peripheriques,2,"24,90 EUR"
+O02297,2024-07-04,Est,Webcam,Video,5,55.2
+O02260,2024-12-15,Nord,Clavier,Peripheriques,3,39.9
+O02417,2024-02-25,Sud,Souris,Peripheriques,,19.92
+O02563,2024-10-28,Nord,Clavier,Peripheriques,3,39.9
+O01830,,Sud,Souris,Peripheriques,2,24.9
+O01073,2024-11-29,Est,Clavier,Peripheriques,2,39.9
+O02391,2024-12-31,Nord,Souris,Peripheriques,1,22.41
+O00847,2024-11-29,Ouest,souris,Peripheriques,2,24.9
+O01947,2024-01-09,Sud,Souris,Peripheriques,1,24.9
+O02013,2024-06-19,Ouest,Souris,Peripheriques,2,24.9
+O01280,2024-03-04,Nord,Souris,Peripheriques,5,24.9
+O01408,2024-09-09,Sud,Clavier,Peripheriques,4,39.9
+O00198,2024-03-18,Ouest,Souris,Peripheriques,2,22.41
+O02011,2024-02-15,Ouest,Souris,Peripheriques,4,24.9
+O02777,2024-05-31,Nord,webcam,Video,2,69.0
+O00716,2024-06-25,Sud,Souris,Peripheriques,2,"19,92 EUR"
+O02822,2024-09-06,Sud,Webcam,Video,1,55.2
+O01207,2024-12-27,Sud,Clavier,Peripheriques,1,39.9
+O00403,2024-01-25,Sud,Souris,Peripheriques,1,24.9
+O01717,2024-06-01,Nord,Casque,Audio,2,59.9
+O01070,2024-06-25,Nord,Webcam,Video,1,"62,10 EUR"
+O02052,2024-05-13,Sud,Clavier,Peripheriques,2,39.9
+O01657,2024-07-06,Nord,Casque,Audio,4,"53,91 EUR"
+O00084,2024-12-11,Nord,clavier,Peripheriques,3,39.9
+O01491,2024-07-31,Est,Ecran,Affichage,2,189.0
+O02586,2024-12-14,Est,Souris,Peripheriques,1,19.92
+O02489,2024-11-27,Est,Clavier,Peripheriques,4,39.9
+O01082,2024-03-01,Ouest,Souris,Peripheriques,1,24.9
+O01971,2024-02-17,Ouest,Souris,Peripheriques,2,24.9
+O02261,2024-10-08,Nord,Souris,Peripheriques,1,24.9
+O02128,2024-03-22,Nord,Souris,Peripheriques,2,24.9
+O01170,2024-03-07,Sud,Clavier,Peripheriques,4,35.91
+O01787,2024-06-03,Nord,Webcam,Video,3,"69,00 EUR"
+O01747,2024-11-06,Nord,Souris,Peripheriques,2,22.41
+O01591,2024-12-24,Sud,Webcam,Video,,69.0
+O00283,2024-02-06,Nord,Souris,Peripheriques,2,24.9
+O02731,2024-11-01,Est,Clavier,Peripheriques,5,"39,90 EUR"
+O01952,2024-01-14,Sud,Souris,Peripheriques,5,24.9
+O02546,2024-11-10,Ouest,Ecran,Affichage,3,170.1
+O02818,2024-11-07,Sud,Casque,Audio,5,59.9
+O01616,2024-04-23,Sud,Souris,Peripheriques,5,24.9
+O02538,2024-08-14,Ouest,Webcam,Video,5,"69,00 EUR"
+O00793,2024-11-30,Est,Casque,Audio,5,59.9
+O00350,2024-12-11,Est,Clavier,Peripheriques,1,39.9
+O01078,2024-12-29,Est,Clavier,Peripheriques,3,35.91
+O01912,2024-01-26,Nord,Clavier,Peripheriques,4,39.9
+O00213,2024-01-20,Ouest,Souris,Peripheriques,3,"19,92 EUR"
+O00668,2024-09-16,Sud,Souris,Peripheriques,4,"19,92 EUR"
+O00005,2024-12-17,Est,Clavier,Peripheriques,4,35.91
+O02086,2024-02-12,Est,Casque,Audio,-1,"59,90 EUR"
+O02265,2024-07-30,Est,Clavier,Peripheriques,4,31.92
+O01379,2024-01-24,Sud,Souris,Peripheriques,1,24.9
+O02606,,Est,Webcam,Video,3,69.0
+O00335,2024-08-07,Sud,Webcam,Video,4,69.0
+O00853,2024-08-30,Nord,Clavier,Peripheriques,,35.91
+O00917,2024-01-22,Est,Clavier,Peripheriques,3,35.91
+O02333,2024-11-03,Ouest,Souris,Peripheriques,5,24.9
+O01896,2024-01-27,Sud,Clavier,Peripheriques,3,"39,90 EUR"
+O01722,2024-10-08,Nord,Ecran,Affichage,5,189.0
+O01327,2024-03-23,Sud,Clavier,Peripheriques,1,39.9
+O02883,2024-11-16,Sud,Casque,Audio,3,53.91
+O00291,2024-09-03,Est,Souris,Peripheriques,3,24.9
+O00844,2024-03-24,Nord,Casque,Audio,1,"47,92 EUR"
+O02757,2024-10-28,Sud,Webcam,Video,5,"69,00 EUR"
+O01173,2024-01-26,Ouest,Ecran,Affichage,5,189.0
+O01013,2024-04-23,Est,Clavier,Peripheriques,3,35.91
+O01621,2024-04-13,Ouest,Webcam,Video,3,69.0
+O01619,2024-12-03,Ouest,Webcam,Video,5,"69,00 EUR"
+O02557,2024-02-09,Nord,Clavier,Peripheriques,2,39.9
+O01860,2024-10-30,Sud,casque,Audio,1,47.92
+O00478,2024-04-09,Est,  CASQUE ,Audio,2,59.9
+O00385,2024-05-29,Ouest,Souris,Peripheriques,4,24.9
+O00710,2024-06-26,Nord,Webcam,Video,4,69.0
+O00768,2024-03-14,Ouest,Ecran,Affichage,1,189.0
+O01050,2024-11-02,Nord,Webcam,Video,5,62.1
+O01091,2024-12-09,Sud,Casque,Audio,2,"59,90 EUR"
+O02169,2024-06-20,Nord,Webcam,Video,1,62.1
+O00260,2024-08-05,Nord,Webcam,Video,4,"62,10 EUR"
+O02154,2024-10-13,Ouest,Souris,Peripheriques,5,22.41
+O02476,2024-12-29,Ouest,Ecran,Affichage,4,189.0
+O01901,2024-03-01,Sud,Ecran,Affichage,2,"189,00 EUR"
+O01133,2024-05-01,Nord,  CLAVIER ,Peripheriques,3,35.91
+O00972,2024-02-11,Sud,Clavier,Peripheriques,5,39.9
+O00556,2024-12-11,Nord,casque,Audio,5,59.9
+O01220,2024-10-01,Sud,  SOURIS ,Peripheriques,3,22.41
+O01453,2024-09-23,Ouest,Ecran,Affichage,5,189.0
+O02137,2024-03-15,Ouest,Casque,Audio,3,59.9
+O02332,2024-01-28,Sud,Casque,Audio,2,"59,90 EUR"
+O00813,2024-04-11,Nord,Clavier,Peripheriques,2,39.9
+O00637,2024-06-18,Ouest,Webcam,Video,1,55.2
+O00491,2024-01-24,Est,Clavier,Peripheriques,3,39.9
+O01798,2024-01-05,Est,Casque,Audio,4,"59,90 EUR"
+O00031,2024-10-05,Nord,Clavier,Peripheriques,3,39.9
+O02933,2024-09-05,Sud,Souris,Peripheriques,4,24.9
+O02298,2024-11-25,Nord,Ecran,Affichage,3,151.2
+O01481,2024-07-16,Est,Casque,Audio,3,59.9
+O01184,2024-09-15,Sud,casque,Audio,3,47.92
+O01210,2024-09-10,Nord,Clavier,Peripheriques,4,35.91
+O00527,2024-11-08,Nord,Casque,Audio,1,59.9
+O00217,2024-05-22,Sud,Clavier,Peripheriques,1,35.91
+O02243,2024-06-05,Ouest,Webcam,Video,5,69.0
+O00835,2024-02-10,Sud,Clavier,Peripheriques,4,"39,90 EUR"
+O02587,2024-07-08,Sud,Casque,Audio,2,53.91
+O02506,2024-12-23,Sud,Webcam,Video,4,55.2
+O00381,2024-08-15,Nord,Casque,Audio,1,59.9
+O01381,2024-04-16,Nord,Webcam,Video,5,62.1
+O00833,2024-12-13,Nord,Webcam,Video,5,69.0
+O00335,2024-08-07,Sud,Webcam,Video,4,69.0
+O02496,2024-12-04,Ouest,Clavier,Peripheriques,1,"31,92 EUR"
+O00779,2024-09-15,Est,Webcam,Video,4,"69,00 EUR"
+O00989,2024-03-22,Nord,Clavier,Peripheriques,2,39.9
+O00445,2024-11-13,Sud,Casque,Audio,1,59.9
+O00310,2024-03-03,Nord,Souris,Peripheriques,2,22.41
+O02977,2024-08-08,Est,Clavier,Peripheriques,4,35.91
+O02161,2024-05-27,Nord,Webcam,Video,2,62.1
+O01455,2024-12-09,Nord,Souris,Peripheriques,1,24.9
+O01656,2024-06-04,Ouest,Souris,Peripheriques,1,22.41
+O01144,2024-03-25,Nord,Clavier,Peripheriques,3,35.91
+O01360,2024-12-20,Sud,Webcam,Video,4,69.0
+O00851,2024-06-12,Sud,casque,Audio,3,47.92
+O00885,2024-08-24,Nord,Clavier,Peripheriques,2,39.9

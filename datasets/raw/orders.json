@@ -1,0 +1,1294 @@
+[
+  {
+    "customer_id": "C001",
+    "city": "Nantes",
+    "member_since": 2019,
+    "newsletter": false,
+    "orders": []
+  },
+  {
+    "customer_id": "C002",
+    "city": "Paris",
+    "member_since": 2016,
+    "newsletter": true,
+    "orders": [
+      {
+        "order_id": "W0001",
+        "date": "2024-08-26",
+        "items": [
+          {
+            "product": "Casque",
+            "quantity": 3,
+            "unit_price": 59.9
+          }
+        ]
+      },
+      {
+        "order_id": "W0002",
+        "date": "2024-03-18",
+        "items": [
+          {
+            "product": "Webcam",
+            "quantity": 3,
+            "unit_price": 69.0
+          },
+          {
+            "product": "Casque",
+            "quantity": 3,
+            "unit_price": 59.9
+          },
+          {
+            "product": "Ecran",
+            "quantity": 3,
+            "unit_price": 189.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": "C003",
+    "city": "Lyon",
+    "member_since": 2021,
+    "newsletter": false,
+    "orders": [
+      {
+        "order_id": "W0003",
+        "date": "2024-05-07",
+        "items": [
+          {
+            "product": "Clavier",
+            "quantity": 1,
+            "unit_price": 39.9
+          },
+          {
+            "product": "Souris",
+            "quantity": 3,
+            "unit_price": 24.9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": "C004",
+    "city": "Rennes",
+    "member_since": 2021,
+    "newsletter": false,
+    "orders": [
+      {
+        "order_id": "W0004",
+        "date": "2024-05-26",
+        "items": [
+          {
+            "product": "Souris",
+            "quantity": 3,
+            "unit_price": 24.9
+          },
+          {
+            "product": "Webcam",
+            "quantity": 2,
+            "unit_price": 69.0
+          },
+          {
+            "product": "Clavier",
+            "quantity": 2,
+            "unit_price": 39.9
+          }
+        ]
+      },
+      {
+        "order_id": "W0005",
+        "date": "2024-11-20",
+        "items": [
+          {
+            "product": "Webcam",
+            "quantity": 3,
+            "unit_price": 69.0
+          },
+          {
+            "product": "Souris",
+            "quantity": 3,
+            "unit_price": 24.9
+          }
+        ]
+      },
+      {
+        "order_id": "W0006",
+        "date": "2024-01-02",
+        "items": [
+          {
+            "product": "Ecran",
+            "quantity": 2,
+            "unit_price": 189.0
+          },
+          {
+            "product": "Clavier",
+            "quantity": 2,
+            "unit_price": 39.9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": "C005",
+    "city": "Rennes",
+    "member_since": 2017,
+    "newsletter": false,
+    "orders": []
+  },
+  {
+    "customer_id": "C006",
+    "city": "Bordeaux",
+    "member_since": 2021,
+    "newsletter": true,
+    "orders": [
+      {
+        "order_id": "W0007",
+        "date": "2024-07-10",
+        "items": [
+          {
+            "product": "Clavier",
+            "quantity": 1,
+            "unit_price": 39.9
+          },
+          {
+            "product": "Ecran",
+            "quantity": 1,
+            "unit_price": 189.0
+          },
+          {
+            "product": "Casque",
+            "quantity": 2,
+            "unit_price": 59.9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": "C007",
+    "city": "Rennes",
+    "member_since": 2024,
+    "newsletter": true,
+    "orders": [
+      {
+        "order_id": "W0008",
+        "date": "2024-01-22",
+        "items": [
+          {
+            "product": "Souris",
+            "quantity": 1,
+            "unit_price": 24.9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": "C008",
+    "city": "Lille",
+    "member_since": 2015,
+    "newsletter": true,
+    "orders": [
+      {
+        "order_id": "W0009",
+        "date": "2024-05-16",
+        "items": [
+          {
+            "product": "Clavier",
+            "quantity": 1,
+            "unit_price": 39.9
+          },
+          {
+            "product": "Casque",
+            "quantity": 2,
+            "unit_price": 59.9
+          }
+        ]
+      },
+      {
+        "order_id": "W0010",
+        "date": "2024-10-23",
+        "items": [
+          {
+            "product": "Ecran",
+            "quantity": 1,
+            "unit_price": 189.0
+          },
+          {
+            "product": "Clavier",
+            "quantity": 3,
+            "unit_price": 39.9
+          },
+          {
+            "product": "Webcam",
+            "quantity": 2,
+            "unit_price": 69.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": "C009",
+    "city": "Bordeaux",
+    "member_since": 2017,
+    "newsletter": false,
+    "orders": [
+      {
+        "order_id": "W0011",
+        "date": "2024-03-03",
+        "items": [
+          {
+            "product": "Ecran",
+            "quantity": 2,
+            "unit_price": 189.0
+          }
+        ]
+      },
+      {
+        "order_id": "W0012",
+        "date": "2024-02-21",
+        "items": [
+          {
+            "product": "Webcam",
+            "quantity": 1,
+            "unit_price": 69.0
+          },
+          {
+            "product": "Ecran",
+            "quantity": 2,
+            "unit_price": 189.0
+          },
+          {
+            "product": "Casque",
+            "quantity": 3,
+            "unit_price": 59.9
+          }
+        ]
+      },
+      {
+        "order_id": "W0013",
+        "date": "2024-11-04",
+        "items": [
+          {
+            "product": "Casque",
+            "quantity": 3,
+            "unit_price": 59.9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": "C010",
+    "city": "Lille",
+    "member_since": 2017,
+    "newsletter": false,
+    "orders": []
+  },
+  {
+    "customer_id": "C011",
+    "city": "Bordeaux",
+    "member_since": 2021,
+    "newsletter": false,
+    "orders": [
+      {
+        "order_id": "W0014",
+        "date": "2024-10-30",
+        "items": [
+          {
+            "product": "Souris",
+            "quantity": 1,
+            "unit_price": 24.9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": "C012",
+    "city": "Bordeaux",
+    "member_since": 2015,
+    "newsletter": true,
+    "orders": [
+      {
+        "order_id": "W0015",
+        "date": "2024-02-12",
+        "items": [
+          {
+            "product": "Webcam",
+            "quantity": 3,
+            "unit_price": 69.0
+          },
+          {
+            "product": "Casque",
+            "quantity": 1,
+            "unit_price": 59.9
+          }
+        ]
+      },
+      {
+        "order_id": "W0016",
+        "date": "2024-11-22",
+        "items": [
+          {
+            "product": "Souris",
+            "quantity": 2,
+            "unit_price": 24.9
+          },
+          {
+            "product": "Webcam",
+            "quantity": 1,
+            "unit_price": 69.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": "C013",
+    "city": "Marseille",
+    "member_since": 2019,
+    "newsletter": false,
+    "orders": [
+      {
+        "order_id": "W0017",
+        "date": "2024-06-18",
+        "items": [
+          {
+            "product": "Casque",
+            "quantity": 1,
+            "unit_price": 59.9
+          },
+          {
+            "product": "Ecran",
+            "quantity": 2,
+            "unit_price": 189.0
+          }
+        ]
+      },
+      {
+        "order_id": "W0018",
+        "date": "2024-09-24",
+        "items": [
+          {
+            "product": "Ecran",
+            "quantity": 1,
+            "unit_price": 189.0
+          },
+          {
+            "product": "Webcam",
+            "quantity": 1,
+            "unit_price": 69.0
+          }
+        ]
+      },
+      {
+        "order_id": "W0019",
+        "date": "2024-05-01",
+        "items": [
+          {
+            "product": "Casque",
+            "quantity": 3,
+            "unit_price": 59.9
+          },
+          {
+            "product": "Souris",
+            "quantity": 3,
+            "unit_price": 24.9
+          },
+          {
+            "product": "Clavier",
+            "quantity": 1,
+            "unit_price": 39.9
+          }
+        ]
+      },
+      {
+        "order_id": "W0020",
+        "date": "2024-11-05",
+        "items": [
+          {
+            "product": "Clavier",
+            "quantity": 1,
+            "unit_price": 39.9
+          },
+          {
+            "product": "Souris",
+            "quantity": 3,
+            "unit_price": 24.9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": "C014",
+    "city": "Bordeaux",
+    "member_since": 2023,
+    "newsletter": true,
+    "orders": [
+      {
+        "order_id": "W0021",
+        "date": "2024-07-20",
+        "items": [
+          {
+            "product": "Casque",
+            "quantity": 2,
+            "unit_price": 59.9
+          }
+        ]
+      },
+      {
+        "order_id": "W0022",
+        "date": "2024-08-22",
+        "items": [
+          {
+            "product": "Casque",
+            "quantity": 3,
+            "unit_price": 59.9
+          },
+          {
+            "product": "Webcam",
+            "quantity": 3,
+            "unit_price": 69.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": "C015",
+    "city": "Bordeaux",
+    "member_since": 2022,
+    "newsletter": false,
+    "orders": [
+      {
+        "order_id": "W0023",
+        "date": "2024-03-09",
+        "items": [
+          {
+            "product": "Souris",
+            "quantity": 2,
+            "unit_price": 24.9
+          },
+          {
+            "product": "Clavier",
+            "quantity": 1,
+            "unit_price": 39.9
+          },
+          {
+            "product": "Casque",
+            "quantity": 2,
+            "unit_price": 59.9
+          }
+        ]
+      },
+      {
+        "order_id": "W0024",
+        "date": "2024-07-16",
+        "items": [
+          {
+            "product": "Casque",
+            "quantity": 2,
+            "unit_price": 59.9
+          },
+          {
+            "product": "Webcam",
+            "quantity": 1,
+            "unit_price": 69.0
+          },
+          {
+            "product": "Clavier",
+            "quantity": 1,
+            "unit_price": 39.9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": "C016",
+    "city": "Marseille",
+    "member_since": 2017,
+    "newsletter": false,
+    "orders": []
+  },
+  {
+    "customer_id": "C017",
+    "city": "Bordeaux",
+    "member_since": 2022,
+    "newsletter": false,
+    "orders": [
+      {
+        "order_id": "W0025",
+        "date": "2024-02-08",
+        "items": [
+          {
+            "product": "Souris",
+            "quantity": 3,
+            "unit_price": 24.9
+          },
+          {
+            "product": "Ecran",
+            "quantity": 3,
+            "unit_price": 189.0
+          }
+        ]
+      },
+      {
+        "order_id": "W0026",
+        "date": "2024-09-04",
+        "items": [
+          {
+            "product": "Souris",
+            "quantity": 2,
+            "unit_price": 24.9
+          },
+          {
+            "product": "Ecran",
+            "quantity": 1,
+            "unit_price": 189.0
+          }
+        ]
+      },
+      {
+        "order_id": "W0027",
+        "date": "2024-01-01",
+        "items": [
+          {
+            "product": "Souris",
+            "quantity": 2,
+            "unit_price": 24.9
+          },
+          {
+            "product": "Clavier",
+            "quantity": 2,
+            "unit_price": 39.9
+          }
+        ]
+      },
+      {
+        "order_id": "W0028",
+        "date": "2024-11-25",
+        "items": [
+          {
+            "product": "Clavier",
+            "quantity": 2,
+            "unit_price": 39.9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": "C018",
+    "city": "Lille",
+    "member_since": 2021,
+    "newsletter": true,
+    "orders": []
+  },
+  {
+    "customer_id": "C019",
+    "city": "Paris",
+    "member_since": 2019,
+    "newsletter": false,
+    "orders": [
+      {
+        "order_id": "W0029",
+        "date": "2024-09-01",
+        "items": [
+          {
+            "product": "Casque",
+            "quantity": 1,
+            "unit_price": 59.9
+          },
+          {
+            "product": "Webcam",
+            "quantity": 3,
+            "unit_price": 69.0
+          },
+          {
+            "product": "Souris",
+            "quantity": 1,
+            "unit_price": 24.9
+          }
+        ]
+      },
+      {
+        "order_id": "W0030",
+        "date": "2024-12-02",
+        "items": [
+          {
+            "product": "Souris",
+            "quantity": 2,
+            "unit_price": 24.9
+          },
+          {
+            "product": "Webcam",
+            "quantity": 3,
+            "unit_price": 69.0
+          },
+          {
+            "product": "Clavier",
+            "quantity": 3,
+            "unit_price": 39.9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": "C020",
+    "city": "Bordeaux",
+    "member_since": 2024,
+    "newsletter": false,
+    "orders": [
+      {
+        "order_id": "W0031",
+        "date": "2024-09-14",
+        "items": [
+          {
+            "product": "Clavier",
+            "quantity": 2,
+            "unit_price": 39.9
+          },
+          {
+            "product": "Ecran",
+            "quantity": 2,
+            "unit_price": 189.0
+          },
+          {
+            "product": "Webcam",
+            "quantity": 2,
+            "unit_price": 69.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": "C021",
+    "city": "Lyon",
+    "member_since": 2024,
+    "newsletter": true,
+    "orders": [
+      {
+        "order_id": "W0032",
+        "date": "2024-11-02",
+        "items": [
+          {
+            "product": "Souris",
+            "quantity": 1,
+            "unit_price": 24.9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": "C022",
+    "city": "Rennes",
+    "member_since": 2017,
+    "newsletter": false,
+    "orders": []
+  },
+  {
+    "customer_id": "C023",
+    "city": "Marseille",
+    "member_since": 2018,
+    "newsletter": false,
+    "orders": []
+  },
+  {
+    "customer_id": "C024",
+    "city": "Lyon",
+    "member_since": 2023,
+    "newsletter": false,
+    "orders": [
+      {
+        "order_id": "W0033",
+        "date": "2024-11-24",
+        "items": [
+          {
+            "product": "Clavier",
+            "quantity": 3,
+            "unit_price": 39.9
+          },
+          {
+            "product": "Webcam",
+            "quantity": 1,
+            "unit_price": 69.0
+          },
+          {
+            "product": "Souris",
+            "quantity": 1,
+            "unit_price": 24.9
+          }
+        ]
+      },
+      {
+        "order_id": "W0034",
+        "date": "2024-03-27",
+        "items": [
+          {
+            "product": "Webcam",
+            "quantity": 1,
+            "unit_price": 69.0
+          }
+        ]
+      },
+      {
+        "order_id": "W0035",
+        "date": "2024-10-28",
+        "items": [
+          {
+            "product": "Clavier",
+            "quantity": 2,
+            "unit_price": 39.9
+          },
+          {
+            "product": "Ecran",
+            "quantity": 1,
+            "unit_price": 189.0
+          }
+        ]
+      },
+      {
+        "order_id": "W0036",
+        "date": "2024-11-12",
+        "items": [
+          {
+            "product": "Souris",
+            "quantity": 3,
+            "unit_price": 24.9
+          },
+          {
+            "product": "Ecran",
+            "quantity": 3,
+            "unit_price": 189.0
+          },
+          {
+            "product": "Webcam",
+            "quantity": 2,
+            "unit_price": 69.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": "C025",
+    "city": "Nantes",
+    "member_since": 2021,
+    "newsletter": true,
+    "orders": []
+  },
+  {
+    "customer_id": "C026",
+    "city": "Lyon",
+    "member_since": 2015,
+    "newsletter": false,
+    "orders": [
+      {
+        "order_id": "W0037",
+        "date": "2024-08-27",
+        "items": [
+          {
+            "product": "Webcam",
+            "quantity": 1,
+            "unit_price": 69.0
+          },
+          {
+            "product": "Clavier",
+            "quantity": 2,
+            "unit_price": 39.9
+          }
+        ]
+      },
+      {
+        "order_id": "W0038",
+        "date": "2024-06-25",
+        "items": [
+          {
+            "product": "Clavier",
+            "quantity": 3,
+            "unit_price": 39.9
+          },
+          {
+            "product": "Ecran",
+            "quantity": 1,
+            "unit_price": 189.0
+          },
+          {
+            "product": "Casque",
+            "quantity": 1,
+            "unit_price": 59.9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": "C027",
+    "city": "Rennes",
+    "member_since": 2019,
+    "newsletter": false,
+    "orders": []
+  },
+  {
+    "customer_id": "C028",
+    "city": "Nantes",
+    "member_since": 2020,
+    "newsletter": true,
+    "orders": [
+      {
+        "order_id": "W0039",
+        "date": "2024-04-30",
+        "items": [
+          {
+            "product": "Souris",
+            "quantity": 1,
+            "unit_price": 24.9
+          }
+        ]
+      },
+      {
+        "order_id": "W0040",
+        "date": "2024-03-13",
+        "items": [
+          {
+            "product": "Souris",
+            "quantity": 1,
+            "unit_price": 24.9
+          },
+          {
+            "product": "Casque",
+            "quantity": 2,
+            "unit_price": 59.9
+          }
+        ]
+      },
+      {
+        "order_id": "W0041",
+        "date": "2024-05-20",
+        "items": [
+          {
+            "product": "Clavier",
+            "quantity": 3,
+            "unit_price": 39.9
+          },
+          {
+            "product": "Casque",
+            "quantity": 2,
+            "unit_price": 59.9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": "C029",
+    "city": "Paris",
+    "member_since": 2018,
+    "newsletter": false,
+    "orders": [
+      {
+        "order_id": "W0042",
+        "date": "2024-05-17",
+        "items": [
+          {
+            "product": "Webcam",
+            "quantity": 3,
+            "unit_price": 69.0
+          },
+          {
+            "product": "Souris",
+            "quantity": 3,
+            "unit_price": 24.9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": "C030",
+    "city": "Rennes",
+    "member_since": 2019,
+    "newsletter": true,
+    "orders": [
+      {
+        "order_id": "W0043",
+        "date": "2024-09-08",
+        "items": [
+          {
+            "product": "Casque",
+            "quantity": 3,
+            "unit_price": 59.9
+          },
+          {
+            "product": "Webcam",
+            "quantity": 2,
+            "unit_price": 69.0
+          }
+        ]
+      },
+      {
+        "order_id": "W0044",
+        "date": "2024-08-26",
+        "items": [
+          {
+            "product": "Clavier",
+            "quantity": 3,
+            "unit_price": 39.9
+          }
+        ]
+      },
+      {
+        "order_id": "W0045",
+        "date": "2024-08-24",
+        "items": [
+          {
+            "product": "Ecran",
+            "quantity": 2,
+            "unit_price": 189.0
+          }
+        ]
+      },
+      {
+        "order_id": "W0046",
+        "date": "2024-09-07",
+        "items": [
+          {
+            "product": "Clavier",
+            "quantity": 2,
+            "unit_price": 39.9
+          },
+          {
+            "product": "Webcam",
+            "quantity": 3,
+            "unit_price": 69.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": "C031",
+    "city": "Marseille",
+    "member_since": 2017,
+    "newsletter": false,
+    "orders": []
+  },
+  {
+    "customer_id": "C032",
+    "city": "Rennes",
+    "member_since": 2015,
+    "newsletter": true,
+    "orders": [
+      {
+        "order_id": "W0047",
+        "date": "2024-09-12",
+        "items": [
+          {
+            "product": "Ecran",
+            "quantity": 1,
+            "unit_price": 189.0
+          },
+          {
+            "product": "Clavier",
+            "quantity": 2,
+            "unit_price": 39.9
+          },
+          {
+            "product": "Souris",
+            "quantity": 3,
+            "unit_price": 24.9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": "C033",
+    "city": "Lille",
+    "member_since": 2015,
+    "newsletter": true,
+    "orders": [
+      {
+        "order_id": "W0048",
+        "date": "2024-08-24",
+        "items": [
+          {
+            "product": "Ecran",
+            "quantity": 1,
+            "unit_price": 189.0
+          }
+        ]
+      },
+      {
+        "order_id": "W0049",
+        "date": "2024-07-24",
+        "items": [
+          {
+            "product": "Ecran",
+            "quantity": 1,
+            "unit_price": 189.0
+          },
+          {
+            "product": "Souris",
+            "quantity": 1,
+            "unit_price": 24.9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": "C034",
+    "city": "Bordeaux",
+    "member_since": 2017,
+    "newsletter": false,
+    "orders": []
+  },
+  {
+    "customer_id": "C035",
+    "city": "Bordeaux",
+    "member_since": 2020,
+    "newsletter": false,
+    "orders": []
+  },
+  {
+    "customer_id": "C036",
+    "city": "Lille",
+    "member_since": 2017,
+    "newsletter": true,
+    "orders": [
+      {
+        "order_id": "W0050",
+        "date": "2024-07-20",
+        "items": [
+          {
+            "product": "Clavier",
+            "quantity": 1,
+            "unit_price": 39.9
+          }
+        ]
+      },
+      {
+        "order_id": "W0051",
+        "date": "2024-03-22",
+        "items": [
+          {
+            "product": "Souris",
+            "quantity": 1,
+            "unit_price": 24.9
+          },
+          {
+            "product": "Clavier",
+            "quantity": 2,
+            "unit_price": 39.9
+          }
+        ]
+      },
+      {
+        "order_id": "W0052",
+        "date": "2024-05-21",
+        "items": [
+          {
+            "product": "Souris",
+            "quantity": 1,
+            "unit_price": 24.9
+          }
+        ]
+      },
+      {
+        "order_id": "W0053",
+        "date": "2024-11-24",
+        "items": [
+          {
+            "product": "Ecran",
+            "quantity": 1,
+            "unit_price": 189.0
+          },
+          {
+            "product": "Casque",
+            "quantity": 1,
+            "unit_price": 59.9
+          },
+          {
+            "product": "Souris",
+            "quantity": 3,
+            "unit_price": 24.9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": "C037",
+    "city": "Lyon",
+    "member_since": 2024,
+    "newsletter": false,
+    "orders": [
+      {
+        "order_id": "W0054",
+        "date": "2024-11-13",
+        "items": [
+          {
+            "product": "Souris",
+            "quantity": 3,
+            "unit_price": 24.9
+          },
+          {
+            "product": "Clavier",
+            "quantity": 2,
+            "unit_price": 39.9
+          },
+          {
+            "product": "Webcam",
+            "quantity": 3,
+            "unit_price": 69.0
+          }
+        ]
+      },
+      {
+        "order_id": "W0055",
+        "date": "2024-04-24",
+        "items": [
+          {
+            "product": "Casque",
+            "quantity": 1,
+            "unit_price": 59.9
+          }
+        ]
+      },
+      {
+        "order_id": "W0056",
+        "date": "2024-11-06",
+        "items": [
+          {
+            "product": "Souris",
+            "quantity": 1,
+            "unit_price": 24.9
+          },
+          {
+            "product": "Clavier",
+            "quantity": 3,
+            "unit_price": 39.9
+          },
+          {
+            "product": "Casque",
+            "quantity": 3,
+            "unit_price": 59.9
+          }
+        ]
+      },
+      {
+        "order_id": "W0057",
+        "date": "2024-08-19",
+        "items": [
+          {
+            "product": "Webcam",
+            "quantity": 2,
+            "unit_price": 69.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": "C038",
+    "city": "Lille",
+    "member_since": 2015,
+    "newsletter": false,
+    "orders": [
+      {
+        "order_id": "W0058",
+        "date": "2024-08-21",
+        "items": [
+          {
+            "product": "Casque",
+            "quantity": 1,
+            "unit_price": 59.9
+          }
+        ]
+      },
+      {
+        "order_id": "W0059",
+        "date": "2024-04-14",
+        "items": [
+          {
+            "product": "Casque",
+            "quantity": 1,
+            "unit_price": 59.9
+          },
+          {
+            "product": "Souris",
+            "quantity": 3,
+            "unit_price": 24.9
+          }
+        ]
+      },
+      {
+        "order_id": "W0060",
+        "date": "2024-02-18",
+        "items": [
+          {
+            "product": "Souris",
+            "quantity": 3,
+            "unit_price": 24.9
+          },
+          {
+            "product": "Ecran",
+            "quantity": 2,
+            "unit_price": 189.0
+          },
+          {
+            "product": "Casque",
+            "quantity": 2,
+            "unit_price": 59.9
+          }
+        ]
+      },
+      {
+        "order_id": "W0061",
+        "date": "2024-08-01",
+        "items": [
+          {
+            "product": "Webcam",
+            "quantity": 2,
+            "unit_price": 69.0
+          },
+          {
+            "product": "Clavier",
+            "quantity": 3,
+            "unit_price": 39.9
+          },
+          {
+            "product": "Casque",
+            "quantity": 1,
+            "unit_price": 59.9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": "C039",
+    "city": "Marseille",
+    "member_since": 2018,
+    "newsletter": false,
+    "orders": []
+  },
+  {
+    "customer_id": "C040",
+    "city": "Bordeaux",
+    "member_since": 2015,
+    "newsletter": false,
+    "orders": []
+  }
+]
