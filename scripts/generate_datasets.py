@@ -14,6 +14,7 @@ from __future__ import annotations
 import argparse
 import json
 import sys
+import unicodedata
 from pathlib import Path
 
 import numpy as np
@@ -250,7 +251,7 @@ def make_house_prices(n: int = 800) -> pd.DataFrame:
 SEGMENTS = {
     # name: (share, age, income kEUR, spending score, visits/month, online ratio, basket EUR)
     "jeunes_connectes": (0.30, (24, 4), (24, 6), (68, 10), (6, 2), (0.85, 0.08), (35, 10)),
-    "familles_econes": (0.30, (41, 6), (38, 8), (38, 10), (4, 1.5), (0.35, 0.12), (85, 20)),
+    "familles_economes": (0.30, (41, 6), (38, 8), (38, 10), (4, 1.5), (0.35, 0.12), (85, 20)),
     "cadres_premium": (0.20, (45, 7), (85, 15), (80, 8), (3, 1), (0.55, 0.15), (180, 40)),
     "seniors_fideles": (0.20, (67, 6), (30, 7), (45, 10), (8, 2), (0.10, 0.06), (50, 12)),
 }
@@ -307,6 +308,13 @@ def make_sms_spam(n: int = 1200, spam_share: float = 0.25) -> pd.DataFrame:
         "Tu as gagné au tirage du club, bravo {name} ! On fête ça au {place}",
         "C'est gratuit le musée le premier dimanche, on y va ?",
         "Peux-tu rappeler {name} quand tu as une minute ?",
+        # Legitimate messages with a commercial or automated tone (harder cases)
+        "Votre code de vérification est {short}. Ne le communiquez à personne.",
+        "Votre colis {short} sera livré demain entre 8h et 13h",
+        "Rappel : votre rendez-vous chez le dentiste est confirmé demain à {time}",
+        "Votre facture de {fee} EUR est disponible dans votre espace client",
+        "Promo au magasin de vélos ce week-end, -{pct}% ! On y passe avec {name} ?",
+        "Gagne une place de concert en répondant au quiz du club, c'est gratuit",
     ]
     spam_templates = [
         "FÉLICITATIONS ! Vous avez gagné {amount} EUR. Appelez le {phone} pour recevoir votre prix",
@@ -319,6 +327,11 @@ def make_sms_spam(n: int = 1200, spam_share: float = 0.25) -> pd.DataFrame:
         "Dernier rappel : réclamez votre bon d'achat de {amount} EUR avant minuit {url}",
         "Rencontres célibataires près de chez vous, inscription gratuite {url}",
         "Votre remboursement de {amount} EUR est disponible, cliquez {url}",
+        # Spam with a casual tone (harder cases)
+        "Salut c'est moi, j'ai changé de numéro, enregistre le {phone} stp",
+        "Coucou {name}, regarde ces photos de toi {url}",
+        "Bonjour, votre facture de {fee} EUR n'a pas été réglée, régularisez sur {url}",
+        "Votre colis est arrivé au point relais, confirmez votre adresse {url}",
     ]
     rows = []
     n_spam = int(n * spam_share)
@@ -337,6 +350,14 @@ def make_sms_spam(n: int = 1200, spam_share: float = 0.25) -> pd.DataFrame:
             short=int(rng.integers(30000, 39999)),
             fee=float(rng.choice([1.99, 2.49, 2.99])),
         )
+        if rng.random() < 0.15:  # SMS style: no accents, lower case
+            text = unicodedata.normalize("NFKD", text.lower())
+            text = "".join(ch for ch in text if not unicodedata.combining(ch))
+        if rng.random() < 0.15:  # one typo: a deleted character
+            position = int(rng.integers(1, len(text) - 1))
+            text = text[:position] + text[position + 1 :]
+        if rng.random() < 0.02:  # annotation errors exist in real datasets
+            label = "ham" if label == "spam" else "spam"
         rows.append((text, label))
     df = pd.DataFrame(rows, columns=["text", "label"])
     df.insert(0, "message_id", [f"M{i:04d}" for i in range(1, n + 1)])
@@ -355,6 +376,10 @@ def make_reviews(n: int = 800) -> pd.DataFrame:
         "Pas mal du tout, {adj} pour le prix.",
         "Je l'utilise tous les jours, {adj} et {adj2}.",
         "Pas du tout {neg}, au contraire il est {adj}.",
+        # Word order matters in these templates (same words, opposite meaning)
+        "Le {product} n'est pas {neg}.",
+        "Je craignais qu'il soit {neg}, mais il est {adj}.",
+        "Pas parfait mais {adj}, je le garde.",
     ]
     neg_templates = [
         "Ce {product} est {neg}, je ne recommande pas.",
@@ -363,6 +388,9 @@ def make_reviews(n: int = 800) -> pd.DataFrame:
         "Pas {adj} du tout, plutôt {neg}.",
         "Au bout d'une semaine il était {neg}. Dommage.",
         "{product} {neg}, remboursement demandé.",
+        "Le {product} n'est pas {adj}.",
+        "Je pensais qu'il serait {adj}, mais il est {neg}.",
+        "Il semblait {adj} au début, mais il est vite devenu {neg}.",
     ]
     rows = []
     for _ in range(n):
@@ -373,6 +401,8 @@ def make_reviews(n: int = 800) -> pd.DataFrame:
         text = template.format(product=rng.choice(products), adj=adj, adj2=adj2, neg=neg, neg2=neg2)
         text = text[0].upper() + text[1:]
         rating = int(rng.choice([4, 5], p=[0.4, 0.6])) if is_positive else int(rng.choice([1, 2], p=[0.5, 0.5]))
+        if rng.random() < 0.03:  # annotation noise: the label disagrees with the text
+            is_positive = not is_positive
         rows.append((text, "positif" if is_positive else "négatif", rating))
     df = pd.DataFrame(rows, columns=["text", "sentiment", "rating"])
     df.insert(0, "review_id", [f"R{i:04d}" for i in range(1, n + 1)])

@@ -40,9 +40,9 @@ top_products(sales, 3)
 
 ## Indices
 
-<details><summary>Indice 1</summary><code>collections.defaultdict(float)</code> évite de tester si la clé existe.</details>
-<details><summary>Indice 2</summary>Pour trier par quantité décroissante puis par nom : <code>key=lambda kv: (-kv[1], kv[0])</code>.</details>
-<details><summary>Indice 3</summary>Le mois est <code>date[:7]</code> pour une date au format <code>AAAA-MM-JJ</code>.</details>
+- **Indice 1** : `collections.defaultdict(float)` évite de tester si la clé existe.
+- **Indice 2** : Pour trier par quantité décroissante puis par nom : `key=lambda kv: (-kv[1], kv[0])`.
+- **Indice 3** : Le mois est `date[:7]` pour une date au format `AAAA-MM-JJ`.
 
 ## Vérification
 

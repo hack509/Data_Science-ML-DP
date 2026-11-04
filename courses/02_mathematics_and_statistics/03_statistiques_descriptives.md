@@ -1,0 +1,228 @@
+# Leçon 2.3 — Statistiques descriptives, corrélation et covariance
+
+## Prérequis
+
+- Leçons 1.4, 1.5 et 2.2.
+
+## Objectifs d'apprentissage
+
+- Calculer et interpréter moyenne, médiane, mode, quantiles.
+- Mesurer la dispersion : étendue, variance, écart-type, écart interquartile.
+- Comprendre l'effet des valeurs aberrantes sur chaque indicateur.
+- Calculer covariance et corrélation, et savoir ce que la corrélation ne dit pas.
+
+## Concepts clés
+
+- **Tendance centrale** (*central tendency*) : valeur « typique » d'une variable (moyenne, médiane, mode).
+- **Dispersion** (*spread*) : à quel point les valeurs s'écartent du centre (variance, écart-type, IQR).
+- **Quantile** : valeur sous laquelle se trouve une proportion donnée des données ; la médiane est le quantile 0,5, Q1 et Q3 les quantiles 0,25 et 0,75.
+- **Valeur aberrante** (*outlier*) : observation très éloignée des autres.
+- **Covariance** : mesure si deux variables varient ensemble ; dépend des unités.
+- **Corrélation de Pearson** (*Pearson correlation*) : covariance normalisée entre −1 et 1, qui mesure une relation **linéaire**.
+- **Corrélation de Spearman** : corrélation des rangs, qui mesure une relation **monotone**.
+
+## Explication détaillée
+
+### Tendance centrale
+
+- La **moyenne** additionne tout et divise par n. Elle utilise toute l'information, mais une seule valeur extrême peut la déplacer fortement.
+- La **médiane** est la valeur du milieu une fois les données triées (moyenne des deux valeurs centrales si n est pair). Elle est **robuste** : changer le plus grand salaire de 5 000 € à 5 000 000 € ne la modifie pas.
+- Le **mode** est la valeur la plus fréquente ; utile pour des variables catégorielles (le produit le plus vendu).
+
+Quand la moyenne est nettement supérieure à la médiane, la distribution a une « queue » vers la droite (asymétrie positive), typique des revenus, des prix immobiliers ou des durées.
+
+### Dispersion
+
+Deux classes peuvent avoir la même moyenne de 10/20 : l'une avec toutes les notes entre 9 et 11, l'autre avec des notes de 2 à 18. La dispersion distingue ces situations.
+
+- **Variance** : moyenne des carrés des écarts à la moyenne. Elle s'exprime en unités au carré (points²).
+- **Écart-type** (*standard deviation*) : racine carrée de la variance, dans l'unité des données. Pour des données « en cloche », environ 68 % des valeurs sont à moins d'un écart-type de la moyenne, et 95 % à moins de deux.
+- **Écart interquartile** (IQR = Q3 − Q1) : étendue des 50 % centraux, robuste aux valeurs extrêmes. La règle de Tukey considère comme suspectes les valeurs en dehors de [Q1 − 1,5·IQR ; Q3 + 1,5·IQR] (module 3).
+
+**Variance de population ou d'échantillon ?** Avec des données qui sont un **échantillon** d'une population plus large, on divise par n − 1 au lieu de n (correction de Bessel) pour ne pas sous-estimer la variance. Attention : NumPy divise par n par défaut (`ddof=0`), pandas par n − 1 (`ddof=1`). Les deux résultats sont proches pour de grands n, mais il faut savoir lequel on utilise.
+
+### Relation entre deux variables
+
+La **covariance** est positive quand les deux variables ont tendance à être au-dessus (ou en dessous) de leur moyenne en même temps. Sa valeur dépend des unités, donc on la normalise : la **corrélation** r = cov(x, y) / (σx σy) est comprise entre −1 et 1.
+
+- r proche de 1 : relation linéaire croissante forte ; proche de −1 : décroissante forte ; proche de 0 : pas de relation **linéaire**.
+- Une corrélation nulle n'exclut pas une relation non linéaire (par exemple y = x² sur un intervalle symétrique).
+- **Corrélation n'est pas causalité** : les ventes de glaces et les noyades sont corrélées parce que toutes deux augmentent l'été (variable de confusion).
+
+## Intuition mathématique
+
+```text
+moyenne     x̄  = (1/n) Σ xᵢ
+variance    s² = (1/(n−1)) Σ (xᵢ − x̄)²          (échantillon ; population : diviser par n)
+écart-type  s  = √s²
+covariance  cov(x, y) = (1/(n−1)) Σ (xᵢ − x̄)(yᵢ − ȳ)
+corrélation r = cov(x, y) / (sx · sy)              −1 ≤ r ≤ 1
+```
+
+Pourquoi des carrés dans la variance ? Parce que la somme des écarts bruts (xᵢ − x̄) vaut toujours 0 : les écarts positifs et négatifs se compensent. Le carré rend tous les écarts positifs et pénalise davantage les grands écarts, comme le fera l'erreur quadratique moyenne (MSE) en Machine Learning.
+
+## Applications concrètes
+
+- Résumer une variable avant modélisation (`describe()`), repérer des valeurs impossibles.
+- Choisir la médiane plutôt que la moyenne pour imputer des valeurs manquantes asymétriques (module 3).
+- Repérer des variables très corrélées entre elles (redondantes) ou corrélées à la cible (prometteuses).
+- Standardiser des variables : on soustrait la moyenne et on divise par l'écart-type.
+
+## Exemples de code Python
+
+### Exemple 1 — centre et dispersion, effet d'une valeur aberrante
+
+```python
+import statistics
+
+import numpy as np
+
+salaries = np.array([1800, 1950, 2100, 2200, 2300, 2500, 2600, 2800, 3100, 3400])
+with_outlier = np.append(salaries, 25000)
+
+for name, data in [("without outlier", salaries), ("with outlier", with_outlier)]:
+    q1, median, q3 = np.percentile(data, [25, 50, 75])
+    print(
+        f"{name:<16} mean={data.mean():8.1f} median={median:7.1f} "
+        f"std={data.std(ddof=1):8.1f} IQR={q3 - q1:6.1f}"
+    )
+
+print("mode of products:", statistics.mode(["Souris", "Clavier", "Souris", "Ecran"]))
+print("population variance (ddof=0):", round(np.var(salaries), 1))
+print("sample variance (ddof=1):    ", round(np.var(salaries, ddof=1), 1))
+```
+
+### Explication du code
+
+Avec un salaire de 25 000 €, la moyenne bondit d'environ 2 500 € à plus de 4 500 € alors que la médiane passe seulement de 2 400 € à 2 500 €. L'écart-type explose lui aussi, alors que l'IQR bouge peu. La différence entre `ddof=0` et `ddof=1` est visible : la variance d'échantillon est plus grande d'un facteur n / (n − 1) = 10/9.
+
+### Sortie attendue
+
+```text output
+without outlier  mean=  2475.0 median= 2400.0 std=   510.6 IQR= 625.0
+with outlier     mean=  4522.7 median= 2500.0 std=  6808.8 IQR= 800.0
+mode of products: Souris
+population variance (ddof=0): 234625.0
+sample variance (ddof=1):     260694.4
+```
+
+### Exemple 2 — résumé statistique et corrélations des étudiants
+
+```python
+import pandas as pd
+
+students = pd.read_csv("datasets/generated/students.csv")
+cols = ["study_hours_week", "attendance_rate", "sleep_hours", "previous_score", "final_score"]
+summary = students[cols].agg(["mean", "median", "std", "min", "max"]).T
+summary["skew"] = students[cols].skew()
+print(summary.round(2).to_string())
+
+corr = students[cols].corr(method="pearson")
+print(corr["final_score"].sort_values(ascending=False).round(3).to_string())
+print("covariance study/final:", round(students["study_hours_week"].cov(students["final_score"]), 3))
+```
+
+### Explication du code
+
+- `agg([...])` calcule plusieurs statistiques à la fois ; `.T` transpose pour avoir une ligne par variable.
+- `skew()` mesure l'asymétrie : la variable `study_hours_week` a une asymétrie positive (moyenne > médiane, quelques étudiants travaillent beaucoup), `attendance_rate` une asymétrie négative (la plupart sont assidus).
+- La corrélation la plus forte avec `final_score` est `previous_score` (≈ 0,59) : le niveau antérieur prédit le niveau actuel. Les heures d'étude (≈ 0,34) ont une corrélation modérée, le sommeil (≈ 0,07) quasi nulle.
+- La covariance (≈ 5,0) est difficile à interpréter seule car elle dépend des unités (heures × points) : c'est pourquoi on préfère la corrélation.
+
+### Sortie attendue
+
+```text output
+                   mean  median   std   min    max  skew
+study_hours_week  10.09    9.30  5.36  1.50  30.00  0.95
+attendance_rate    0.83    0.86  0.12  0.41   1.00 -1.06
+sleep_hours        7.19    7.25  0.91  4.50   9.30 -0.13
+previous_score     9.98    9.70  3.02  2.20  20.00  0.15
+final_score        9.63    9.52  2.70  3.30  17.81  0.19
+final_score         1.000
+previous_score      0.587
+study_hours_week    0.344
+attendance_rate     0.255
+sleep_hours         0.065
+covariance study/final: 4.966
+```
+
+### Exemple 3 — ce que la corrélation ne voit pas
+
+```python
+import numpy as np
+from scipy import stats
+
+rng = np.random.default_rng(3)
+x = rng.uniform(-3, 3, 500)
+y_linear = 2 * x + rng.normal(0, 1, 500)
+y_quadratic = x ** 2 + rng.normal(0, 0.5, 500)
+y_monotonic = np.exp(x) + rng.normal(0, 0.5, 500)
+
+for name, y in [("linear", y_linear), ("quadratic", y_quadratic), ("exponential", y_monotonic)]:
+    pearson = stats.pearsonr(x, y).statistic
+    spearman = stats.spearmanr(x, y).statistic
+    print(f"{name:<12} pearson={pearson:6.3f} spearman={spearman:6.3f}")
+```
+
+### Explication du code
+
+- Relation linéaire : Pearson et Spearman sont élevés.
+- Relation quadratique symétrique : les deux corrélations sont proches de 0 alors que y dépend **parfaitement** de x (au bruit près). Une corrélation nulle ne prouve pas l'absence de lien : il faut toujours **visualiser** (module 4).
+- Relation exponentielle : Spearman (basé sur les rangs) est plus élevé que Pearson car la relation est monotone mais pas linéaire.
+
+### Sortie attendue
+
+```text output
+linear       pearson= 0.958 spearman= 0.961
+quadratic    pearson=-0.075 spearman=-0.051
+exponential  pearson= 0.804 spearman= 0.905
+```
+
+## Erreurs fréquentes
+
+- **Résumer une variable asymétrique par sa seule moyenne** : donnez aussi la médiane.
+- **Mélanger `ddof=0` (NumPy) et `ddof=1` (pandas)** sans le savoir.
+- **Interpréter une corrélation comme une causalité**.
+- **Conclure « aucun lien » parce que r ≈ 0** : la relation peut être non linéaire.
+- **Calculer une moyenne sur une variable catégorielle codée en nombres** (code postal, identifiant).
+- **Ignorer les valeurs manquantes** : pandas les exclut par défaut des calculs (`skipna=True`), NumPy renvoie `nan` (utilisez `np.nanmean`).
+
+## Exercices guidés
+
+1. Pour la série [4, 8, 6, 5, 3, 8, 9, 8], calculez à la main moyenne, médiane, mode, puis vérifiez avec Python.
+2. Calculez la variance de [2, 4, 4, 4, 5, 5, 7, 9] avec ddof=0 et ddof=1.
+3. Dans `students.csv`, comparez moyenne et médiane de `study_hours_week` par groupe (`groupby`).
+4. Calculez la matrice de corrélation des notes `math`, `physics`, `french` et commentez.
+
+Corrigés : [corrections.md](corrections.md), section « Leçon 2.3 ».
+
+L'exercice **B05** vous fait coder toutes ces statistiques sans bibliothèque.
+
+## Défis autonomes
+
+- Construisez un jeu de données où la corrélation de Pearson vaut presque 0,9 à cause d'**un seul point** aberrant (les autres points sans relation). Calculez Spearman. Conclusion ?
+- Calculez les z-scores de `final_score`. Quelle proportion d'étudiants a un |z| > 2 ? Comparez à la valeur théorique de 5 % pour une loi normale.
+
+## Quiz
+
+1. Pourquoi la médiane est-elle dite « robuste » ?
+2. Quelle est l'unité de la variance d'une série de notes sur 20 ? Et de l'écart-type ?
+3. Pourquoi divise-t-on par n − 1 pour la variance d'un échantillon ?
+4. Que signifie une corrélation de −0,8 ?
+5. Une corrélation de Pearson nulle signifie-t-elle que les variables sont indépendantes ?
+6. Quelle est la différence entre corrélations de Pearson et de Spearman ?
+
+Réponses : [corrections.md](corrections.md), section « Leçon 2.3 ».
+
+## Résumé
+
+- Centre : moyenne (sensible) et médiane (robuste) ; mode pour les catégories.
+- Dispersion : écart-type (même unité que les données), IQR (robuste).
+- Corrélation de Pearson = relation linéaire, Spearman = relation monotone ; ni l'une ni l'autre ne prouve une causalité.
+- Toujours compléter les chiffres par un graphique.
+
+## Pour aller plus loin
+
+- Exercice **B05** (`exercises/beginner/B05_descriptive_stats`).
+- Module 4, leçon 4.2 : visualiser distributions et corrélations.
+- Leçon suivante : [Probabilités, lois, échantillonnage et inférence](04_probabilites_inference.md).

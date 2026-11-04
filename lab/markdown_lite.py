@@ -167,13 +167,15 @@ def parse(text: str) -> list[Block]:
                 if not current.strip():
                     # A blank line ends the list unless the next line continues it.
                     nxt = lines[i + 1] if i + 1 < len(lines) else ""
-                    if _BULLET.match(nxt) or _NUMBERED.match(nxt):
+                    if _NUMBERED.match(nxt) if ordered else _BULLET.match(nxt):
                         i += 1
                         continue
                     break
                 match = _BULLET.match(current) or _NUMBERED.match(current)
                 indent = len(current) - len(current.lstrip())
                 if match and indent <= base_indent + 1:
+                    if bool(_NUMBERED.match(current)) != ordered:
+                        break  # a list of the other kind starts here
                     items.append(ListItem(match.group(2)))
                 elif match and items:
                     items[-1].children.append(ListItem(match.group(2)))

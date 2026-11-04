@@ -46,9 +46,9 @@ Sur `students.csv` avec les coefficients 4/3/3 : meilleur étudiant `S0081`, tau
 
 ## Indices
 
-<details><summary>Indice 1</summary>Pour la moyenne pondérée : accumulez <code>weights[m] * score</code> et <code>weights[m]</code> dans deux variables.</details>
-<details><summary>Indice 2</summary><code>max(d, key=d.get)</code> renvoie la clé de plus grande valeur.</details>
-<details><summary>Indice 3</summary>Convertissez les notes avec <code>float()</code> : dans un CSV, tout est texte.</details>
+- **Indice 1** : Pour la moyenne pondérée : accumulez `weights[m] * score` et `weights[m]` dans deux variables.
+- **Indice 2** : `max(d, key=d.get)` renvoie la clé de plus grande valeur.
+- **Indice 3** : Convertissez les notes avec `float()` : dans un CSV, tout est texte.
 
 ## Vérification
 

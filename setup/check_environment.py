@@ -41,7 +41,7 @@ REQUIREMENTS = [
     Requirement("matplotlib", "matplotlib", "3.9", "core", "graphiques"),
     Requirement("seaborn", "seaborn", "0.13.2", "core", "graphiques statistiques (module 4)"),
     Requirement("scipy", "scipy", "1.13", "core", "statistiques et tests (module 2)"),
-    Requirement("scikit-learn", "sklearn", "1.5", "core", "Machine Learning (modules 5, 8, 10)"),
+    Requirement("scikit-learn", "sklearn", "1.7", "core", "Machine Learning (modules 5, 8, 10)"),
     Requirement("sympy", "sympy", "1.13", "core", "mathematiques symboliques (module 2)"),
     Requirement("pillow", "PIL", "10.4", "core", "images (module 9)"),
     Requirement("torch", "torch", "2.5", "deep-learning", "Deep Learning (modules 6 a 9)"),
@@ -125,6 +125,15 @@ def main(argv: list[str] | None = None) -> int:
             print(f"PyTorch threads: {torch.get_num_threads()}")
         except Exception:  # noqa: BLE001
             pass
+
+    import subprocess
+
+    probe = subprocess.run([sys.executable, "-c", "import lab"], cwd=Path.home(), capture_output=True)
+    if probe.returncode == 0:
+        print("Repository  : `import lab` works from any folder")
+    else:
+        print("[WARN] `import lab` only works from the repository root.")
+        print("       Fix (offline): python setup/setup_environment.py")
 
     from lab.data import missing_datasets
 

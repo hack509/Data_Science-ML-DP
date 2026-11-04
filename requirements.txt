@@ -10,15 +10,17 @@
 # requirements-torch.txt so that the CPU-only build is used by default.
 #
 # Install ONCE while connected to the Internet:
-#   python -m pip install -r requirements.txt -r requirements-torch.txt
-# After that, everything works offline.
+#   python -m pip install -r requirements.txt
+#   python -m pip install -r requirements-torch.txt
+# Keep these two commands separate: the --index-url line of requirements-torch.txt
+# would otherwise replace PyPI for every package. After that, everything works offline.
 
 numpy>=2.0,<3
 pandas>=2.2,<4
 matplotlib>=3.9,<4
 seaborn>=0.13.2,<0.14
 scipy>=1.13,<2
-scikit-learn>=1.5,<2
+scikit-learn>=1.7,<2
 sympy>=1.13,<2
 pillow>=10.4
 jupyterlab>=4.2,<5

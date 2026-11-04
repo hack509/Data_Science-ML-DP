@@ -35,6 +35,15 @@ def activation_command(venv_dir: Path = VENV_DIR) -> str:
     return f"source {venv_dir.name}/bin/activate"
 
 
+def register_repository(python: Path) -> Path:
+    """Write a .pth file so that `import lab` works from any folder (offline step)."""
+    code = "import sysconfig; print(sysconfig.get_paths()['purelib'])"
+    site_packages = Path(subprocess.run([str(python), "-c", code], capture_output=True, text=True, check=True).stdout.strip())
+    pth = site_packages / "offline_ai_learning_lab.pth"
+    pth.write_text(str(ROOT) + "\n", encoding="utf-8")
+    return pth
+
+
 def install_commands(python: Path, with_torch: bool, with_dev: bool) -> list[list[str]]:
     commands = [
         [str(python), "-m", "pip", "install", "--upgrade", "pip"],
@@ -66,6 +75,9 @@ def main(argv: list[str] | None = None) -> int:
         print(f"Creating virtual environment in {args.venv_dir} ...")
         venv.EnvBuilder(with_pip=True).create(args.venv_dir)
         print("[OK] Virtual environment created (offline operation).")
+
+    pth = register_repository(python)
+    print(f"[OK] Repository registered in the environment ({pth.name}): `import lab` works from any folder.")
 
     commands = install_commands(python, with_torch=not args.no_torch, with_dev=not args.no_dev)
     if not args.install:

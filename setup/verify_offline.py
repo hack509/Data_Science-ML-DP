@@ -37,7 +37,8 @@ NETWORK_PATTERNS = [
     r"hf_hub_download\(",
     r"torch\.hub\.load\(",
 ]
-SCAN_EXCLUDE = {".venv", "__pycache__", ".pytest_cache", "outputs", "exports"}
+# tests/ is excluded: the tests only call the local web interface on 127.0.0.1.
+SCAN_EXCLUDE = {".venv", "__pycache__", ".pytest_cache", "outputs", "exports", "tests"}
 
 
 def scan_sources() -> list[str]:

@@ -1,0 +1,6 @@
+# Keep generated data byte-identical on every system (reproducibility).
+datasets/**/*.csv text eol=lf
+datasets/**/*.json text eol=lf
+*.png binary
+*.npz binary
+*.pdf binary

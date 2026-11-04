@@ -11,7 +11,7 @@ import json
 from dataclasses import dataclass
 from pathlib import Path
 
-from lab.paths import DATASETS_DIR, ROOT
+from lab import paths
 
 REGENERATE_HINT = "python scripts/generate_datasets.py"
 
@@ -24,7 +24,7 @@ class DatasetInfo:
 
     @property
     def path(self) -> Path:
-        return DATASETS_DIR / self.relative_path
+        return paths.DATASETS_DIR / self.relative_path
 
 
 DATASETS: dict[str, DatasetInfo] = {
@@ -63,7 +63,7 @@ def dataset_path(name: str) -> Path:
     path = DATASETS[name].path
     if not path.exists():
         raise MissingDatasetError(
-            f"Dataset '{name}' is missing ({path.relative_to(ROOT)}).\n"
+            f"Dataset '{name}' is missing (datasets/{DATASETS[name].relative_path}).\n"
             f"Generate it locally (no Internet needed) with:\n    {REGENERATE_HINT}"
         )
     return path

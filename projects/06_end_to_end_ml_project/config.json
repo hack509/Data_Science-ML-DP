@@ -1,0 +1,11 @@
+{
+  "seed": 0,
+  "test_size": 0.2,
+  "cv_folds": 5,
+  "numeric_features": ["study_hours_week", "attendance_rate", "sleep_hours", "previous_score", "volunteer_hours_year"],
+  "categorical_features": ["group", "club"],
+  "subgroup_column": "group",
+  "pass_mark": 10.0,
+  "decision_threshold": 0.5,
+  "n_bootstrap": 1000
+}
